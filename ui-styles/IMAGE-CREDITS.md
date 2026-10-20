@@ -35,3 +35,27 @@ Preview images were downloaded from the public itch.io listing pages below (cove
 | RPG UI Asset Pack (Pixel Art) | pluguezada / CodeLoot | [link](https://pluguezada.itch.io/rpg-ui-asset-pack-pixel-art-32128px-codeloot) |
 | Simple Pink UI Pack | Marta Vidal | [link](https://marta-vidal.itch.io/pinkuipack) |
 | Survival Horror UI: Modular Interaction Kit | Emre Karakaya | [link](https://emrekarakaya.itch.io/survival-horror-ui-modular-interaction-kit) |
+| Action Effects (Make Visual Novels) | Stella @ MakeVisualNovels | [link](https://makevisualnovels.itch.io/actfx) |
+| Pixel Art Anime Attack Effects Pack | Sangoro | [link](https://sangoro.itch.io/attack-vfx) |
+| Battle VFX: Slashes and Thrusts | pimen | [link](https://pimen.itch.io/battle-vfx-slashes-and-thrusts) |
+| Brackeys' VFX Bundle | Brackeys | [link](https://brackeysgames.itch.io/brackeys-vfx-bundle) |
+| Ultimate Cartoon VFX MEGA PACK | CartoonCoffee | [link](https://cartooncoffee.itch.io/megapack-spritesheets) |
+| COMBAT FX | GegX | [link](https://gegx.itch.io/combat-fx) |
+| Essential VFX Pack, 31 Animated Effects | Bonkiloki | [link](https://bonkiloki.itch.io/essential-vfx-pack-31-animated-effects) |
+| Animated Pixel Character | Fat Berry | [link](https://fatberry.itch.io/free-pixel-character) |
+| Free Character Animation Pack | wxhaust | [link](https://wxhaust.itch.io/free-hero-animation-pack) |
+| Particle Effect Texture Essentials | Reactorcore | [link](https://reactorcore.itch.io/particle-effect-texture-essentials) |
+| Pixel Combat & Hit FX | Lesed | [link](https://lesed.itch.io/pixel-combat-hit-fx) |
+| Pixel Art Sword VFX | metpxl | [link](https://metpxl.itch.io/pixel-art-sword-vfx-attack-slash-animation-pack) |
+| Pixel VFX Pack, 64 Animated Effects | Phzm | [link](https://phzm.itch.io/pixel-vfx-pack) |
+| Free Platformer Character | ludicarts | [link](https://ludicarts.itch.io/free-platformer-character) |
+| Roblox Button UI Effects | MaxUno | [link](https://maxuno.itch.io/roblox-button-ui-effects) |
+| Advanced Particle Physics (Roblox Studio) | Rekeeke | [link](https://reeceik.itch.io/realistic-particle-physics-roblox-studio) |
+| Animated Speed Line | Heosphorus | [link](https://heosphorus.itch.io/speed-line) |
+| Spells FX | RagnaPixel | [link](https://ragnapixel.itch.io/spells-fx) |
+| Steampunk Game GUI | pzUH | [link](https://pzuh.itch.io/steampunk-game-gui) |
+| Steampunk UI | GabrielaTot | [link](https://gabrielatot.itch.io/steampunk-ui) |
+| Complete UI Book Styles Pack | Crusenho | [link](https://crusenho.itch.io/complete-ui-book-styles-pack) |
+| Visual Novel Dialogue Boxes | charcoalstudios | [link](https://charcoalstudios.itch.io/visual-novel-dialogue-boxes) |
+| Visual Novel Dialogue GUI Asset Pack | One Level Studio | [link](https://onelevelstudio.itch.io/dialogue-gui) |
+| Wizard Pack (CC0) | LuizMelo | [link](https://luizmelo.itch.io/wizard-pack) |

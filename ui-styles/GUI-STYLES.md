@@ -1,4 +1,4 @@
-# Roblox GUI Style Catalog (72 styles)
+# Roblox GUI Style Catalog (112 styles)
 
 A style vocabulary for AI assistants (Claude Code, Codex) and humans to pick from when designing Roblox UI.
 Each entry gives the look, a palette, a Roblox implementation recipe, best-fit genres and references.
@@ -33,7 +33,7 @@ Each entry gives the look, a palette, a Roblox implementation recipe, best-fit g
 
 **In-repo references:** `studs-ui/` (Stud-GUI-1/2/4/5, Stud-Buttons, Stud-Shop, Stud-DailyRewards), `sports/` (Basketball, Boxing, Football menus, loading and main menu), `Icons/` (3D outline icon set).
 
-> **Pictures.** Each style has its own folder with a README. 23 folders contain downloaded preview images (credited in [IMAGE-CREDITS.md](IMAGE-CREDITS.md)). The rest list searches and in-repo references only.
+> **Pictures.** Each style has its own folder with a README. 30 folders contain downloaded preview images (credited in [IMAGE-CREDITS.md](IMAGE-CREDITS.md)). The rest list searches and in-repo references only.
 
 ## How to use
 1. Pick **one primary style** and at most one accent style per game.
@@ -140,6 +140,59 @@ Common recipe pieces: `UICorner`, `UIStroke`, `UIGradient` (R1), `UIListLayout`/
 70. [**Tower Defense.**](70-tower-defense/) Bottom tower bar with costs, wave banner, lives top-right. Refs: R16.
 71. [**Horror Co-op Lobby.**](71-horror-co-op-lobby/) Vote cards, ready ticks, ominous palette. Refs: S.
 72. [**Holiday/Seasonal.**](72-holiday-seasonal/) Snowflakes, candy-cane borders, calendar. Refs: in-repo `Icons/` (Christmas Tree, Snowman, Candy Cane, Snowflake).
+
+
+## More styles (73-112)
+
+
+### I. Themed worlds
+
+73. [**Steampunk Brass.**](73-steampunk-brass/) Brass plates, rivets, gears and gauges on dark leather. Palette `#B8862B #3A2A1A #E8D8A0`. Recipe: Frame + brass UIGradient, UIStroke dark brown, rotating gear ImageLabels via RenderStepped (cheap) or Tween.
+74. [**Kawaii Pastel.**](74-kawaii-pastel/) Pink/mint pastel panels, heart and star motifs, huge radius, bouncy tweens. Palette `#FFC8DD #BDE0FE #FFAFCC`. Recipe: UICorner 20+, thin white UIStroke, sparkle ImageLabels.
+75. [**Cozy Farm Wood.**](75-cozy-farm-wood/) Wooden planks with cream parchment labels and leaf icons. Palette `#8B5A2B #F4E3B2 #6BA368`. Recipe: Wood-texture Frame, UIStroke darker wood, hand-lettered font.
+76. [**Frozen Ice.**](76-frozen-ice/) Pale blue frosted panels, snowflake corners, cold glow. Palette `#CFF0FF #7FC8F8 #1D3B6B`. Recipe: Light gradient, white UIStroke, shimmering UIGradient offset tween.
+77. [**Volcanic Lava.**](77-volcanic-lava/) Dark basalt panels with orange-red glowing cracks. Palette `#1A0E0A #FF5A1F #FFB347`. Recipe: Dark Frame, crack ImageLabel, UIStroke orange, pulsing glow tween.
+78. [**Tropical Beach.**](78-tropical-beach/) Sand, turquoise and coral, palm silhouettes, rope-trim borders. Palette `#F6D7A7 #19B5C4 #FF6B6B`. Recipe: Warm gradient, rope-texture strokes.
+79. [**Candy Land.**](79-candy-land/) Swirled candy borders, lollipop icons, striped buttons. Palette `#FF7BAC #FFE66D #7AE7C7`. Recipe: UIGradient with diagonal stripes via rotated gradient.
+80. [**Deep Ocean.**](80-deep-ocean/) Deep teal with bubbles and shell icons, wavy edges, light-ray overlay. Palette `#04293A #064663 #41D3BD`. Recipe: Gradient + animated bubble ImageLabels (pooled).
+81. [**Desert Egyptian.**](81-desert-egyptian/) Sandstone panels, gold hieroglyph trim, turquoise gems. Palette `#D9B779 #C99A3E #1AA6A6`. Recipe: Stone texture + gold UIStroke, glyph ImageLabel border.
+82. [**Samurai Japanese.**](82-samurai-japanese/) Ink black and vermilion, brush strokes, paper-lantern accents. Palette `#101010 #C8102E #F2E8CF`. Recipe: Brush-stroke images, angular clipped corners via image masks.
+83. [**Pirate Parchment.**](83-pirate-parchment/) Torn parchment maps, rope, skull-and-compass icons. Palette `#E8D3A2 #7A4B21 #9C1C1C`. Recipe: Parchment texture, rope UIStroke image, sway tween.
+84. [**Wild West.**](84-wild-west/) Wanted-poster paper, nailed wood, slab-serif fonts. Palette `#D8B77A #5B3A1E #8B1E1E`. Recipe: Slab-serif font, nail ImageLabels at corners.
+85. [**Cosmic Cartoon Space.**](85-cosmic-cartoon-space/) Purple galaxy gradients, planets, chunky rounded cartoon outlines. Palette `#1B0B46 #6C3CF0 #FFD166`. Recipe: Gradient + star particle ImageLabels, thick UIStroke.
+86. [**Toy Plastic.**](86-toy-plastic/) Glossy injection-moulded plastic, seams and screw dots, primary colours. Palette `#E63946 #1D6FE8 #FFD60A`. Recipe: Highlight strip + inner shadow, thick rounded corners.
+87. [**Graffiti Street.**](87-graffiti-street/) Spray-paint lettering, stickers, concrete texture, drips. Palette `#2B2B2B #FF2E63 #08D9D6`. Recipe: Concrete texture, rotated sticker labels (Rotation 3-8).
+88. [**Zen Garden Minimal.**](88-zen-garden-minimal/) Soft greys and moss green, thin lines, lots of space, stone icons. Palette `#EFEFE8 #7A8B6F #2F3A2F`. Recipe: Flat Frames, hairline UIStroke, slow fades.
+
+### J. Roblox game-type UIs
+
+89. [**Brainrot Meme Chaos.**](89-brainrot-meme-chaos/) Loud saturated colours, meme stickers, comic fonts, jittery text. Fits meme-themed simulators. Recipe: Rotate/scale jitter tween, sticker ImageLabels, high-contrast strokes.
+90. [**Anime Fighter Menu.**](90-anime-fighter-menu/) Diagonal-cut panels, bold italic numerals, power-level readouts, red/black accents. Recipe: Parallelogram via rotated Frames or masks, bold stats.
+91. [**Card Battle Deck.**](91-card-battle-deck/) Fanned hand of cards with cost gems, rarity frames, drag-to-play lanes. Recipe: UIListLayout + per-card Rotation fan, UIDragDetector or custom drag.
+92. [**Roleplay Phone OS.**](92-roleplay-phone-os/) In-world phone: app grid, status bar, chat, camera and bank apps. Recipe: Portrait Frame centred, UICorner 24, ScreenGui or SurfaceGui.
+93. [**Dress-Up Boutique.**](93-dress-up-boutique/) Hanger rails, outfit cards, colour swatches, camera framing. Recipe: ViewportFrame preview + ScrollingFrame grid.
+94. [**Rainbow Obby.**](94-rainbow-obby/) Bright rainbow gradient stage bar, big stage number, skip button. Recipe: UIGradient colour sequence cycling.
+95. [**Admin Dev Panel.**](95-admin-dev-panel/) Dense dark table UI, monospace, filters, danger buttons. Server-validated. Recipe: ScrollingFrame + strict server checks for every action.
+96. [**Trading Window.**](96-trading-window/) Two-sided offer grids, accept lock countdown, scam-warning banner. Recipe: Server-held trade state, lock timer, both-confirm.
+97. [**Battle Pass Track.**](97-battle-pass-track/) Horizontal tier track, free/premium rows, claim glow, XP bar. Recipe: Horizontal ScrollingFrame, server-side claim.
+98. [**Leaderboard Podium.**](98-leaderboard-podium/) Top 3 podium with avatars (headshots), scrolling ranks below. Recipe: Players:GetUserThumbnailAsync, OrderedDataStore.
+99. [**Quest Board.**](99-quest-board/) Pinned notes/cards, progress bars, claim buttons, timers. Recipe: Card template + server progress.
+100. [**Gamepass Carousel Shop.**](100-gamepass-carousel-shop/) Large offer cards with Robux price tags, limited-time ribbons. Recipe: MarketplaceService prompts, server grant on receipt.
+
+### K. Component & system styles
+
+101. [**Toast Notifications.**](101-toast-notifications/) Stacked slide-in toasts with icon, auto-dismiss, severity colours. Recipe: Pooled Frames, tween in/out, cap of 3-4 visible.
+102. [**Loading Screen with Tips.**](102-loading-screen-with-tips/) Logo, progress bar, rotating tips, background art. Recipe: ReplicatedFirst, ContentProvider:PreloadAsync.
+103. [**Settings Menu.**](103-settings-menu/) Tabs (audio, graphics, controls), sliders, toggles, reset. Recipe: Slider via InputChanged, persist with DataStore.
+104. [**Inventory Hotbar.**](104-inventory-hotbar/) Numbered slots, equipped highlight, drag-reorder, cooldown overlay. Recipe: UIGridLayout, keybind per slot.
+105. [**Emote Chat Wheel.**](105-emote-chat-wheel/) Radial menu with 6-8 slots, hover scale, gamepad stick select. Recipe: Angle maths on thumbstick, UIGradient wedges.
+106. [**Health and Boss Bars.**](106-health-and-boss-bars/) Chunky player bar and wide boss bar with damage trail and name plate. Recipe: Two-layer bar (instant + delayed trail tween).
+107. [**Minimap Compass.**](107-minimap-compass/) Circular minimap or top compass strip with markers. Recipe: ViewportFrame top-down camera or marker projection.
+108. [**Damage Numbers.**](108-damage-numbers/) Floating numbers with crit scaling, colour by type, arc motion. Recipe: BillboardGui pooled, tween up + fade.
+109. [**Tutorial Highlight Arrow.**](109-tutorial-highlight-arrow/) Dim overlay with spotlight cut-out, bouncing arrow, step text. Recipe: Overlay with ring cutout (UIStroke huge) + arrow tween.
+110. [**Limited-Time Offer Popup.**](110-limited-time-offer-popup/) Countdown banner popup with discount badge, urgency colours. Recipe: Server timestamp countdown; don't spam popups.
+111. [**Codes Redeem Box.**](111-codes-redeem-box/) Text box, redeem button, success/fail feedback, rewards list. Recipe: Server-validated codes, rate limit.
+112. [**Gamepad Focus Navigation.**](112-gamepad-focus-navigation/) Big selection ring, SelectionImage, D-pad order, button prompts. Recipe: GuiService.SelectedObject, NextSelection props.
 
 ---
 
