@@ -14,6 +14,17 @@ _No verified reference image was found for this entry yet._ Use the searches bel
 - [Roblox docs: UI compatibility](https://create.roblox.com/docs/en-us/ui/styling/compatibility)
 - [Game UI Database](https://www.gameuidatabase.com/about.php)
 
+## More previews (itch.io top results, credited)
+
+Keyword-matched galleries. Click a gallery for 12 credited covers. These are search-style matches, not curated picks.
+
+- [western + user-interface](../../previews/western-user-interface/)
+
+![western + user-interface #1](../../previews/western-user-interface/01.png)
+![western + user-interface #2](../../previews/western-user-interface/02.png)
+![western + user-interface #3](../../previews/western-user-interface/03.png)
+![western + user-interface #4](../../previews/western-user-interface/04.png)
+
 ## Find more references
 - [Google Images](https://www.google.com/search?tbm=isch&q=roblox+Wild+West+GUI+style)
 - [YouTube](https://www.youtube.com/results?search_query=roblox+Wild+West+GUI+style)

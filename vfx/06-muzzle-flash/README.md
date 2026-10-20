@@ -10,6 +10,18 @@ Back to the [catalog](../VFX.md).
 
 _No verified reference image was found for this entry yet._ Use the searches below.
 
+## More previews (itch.io top results, credited)
+
+Keyword-matched galleries. Click a gallery for 12 credited covers. These are search-style matches, not curated picks.
+
+- [effects + explosions](../../previews/effects-explosions/)
+- [vfx + fire](../../previews/vfx-fire/)
+
+![effects + explosions #1](../../previews/effects-explosions/01.png)
+![effects + explosions #2](../../previews/effects-explosions/02.gif)
+![effects + explosions #3](../../previews/effects-explosions/03.png)
+![effects + explosions #4](../../previews/effects-explosions/04.gif)
+
 ## Find more references
 - [Google Images](https://www.google.com/search?tbm=isch&q=roblox+Muzzle+Flash+vfx)
 - [YouTube](https://www.youtube.com/results?search_query=roblox+Muzzle+Flash+vfx)

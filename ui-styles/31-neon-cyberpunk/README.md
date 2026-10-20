@@ -18,6 +18,18 @@ Back to the [style catalog](../GUI-STYLES.md).
 
 *Cyberpunk Neon HUD UI Kit* by Hollow Pixel, [source page](https://hollow-pixel.itch.io/cyberpunk-neon-hud-ui-kit-280-pixel-ui-assets). Resized preview, all rights with the creator.
 
+## More previews (itch.io top results, credited)
+
+Keyword-matched galleries. Click a gallery for 12 credited covers. These are search-style matches, not curated picks.
+
+- [cyberpunk + user-interface](../../previews/cyberpunk-user-interface/)
+- [neon + user-interface](../../previews/neon-user-interface/)
+
+![cyberpunk + user-interface #1](../../previews/cyberpunk-user-interface/01.jpg)
+![cyberpunk + user-interface #2](../../previews/cyberpunk-user-interface/02.jpg)
+![cyberpunk + user-interface #3](../../previews/cyberpunk-user-interface/03.jpg)
+![cyberpunk + user-interface #4](../../previews/cyberpunk-user-interface/04.jpg)
+
 ## Find more references
 
 - [Google Images](https://www.google.com/search?tbm=isch&q=roblox+Neon+Cyberpunk+gui)

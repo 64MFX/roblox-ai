@@ -16,6 +16,17 @@ Back to the [catalog](../GUI-STYLES.md).
 - [Roblox docs: UI appearance modifiers](https://create.roblox.com/docs/en-us/ui/appearance-modifiers)
 - [creation.dev: Roblox UI best practices](https://www.creation.dev/blog/roblox-ui-design-best-practices)
 
+## More previews (itch.io top results, credited)
+
+Keyword-matched galleries. Click a gallery for 12 credited covers. These are search-style matches, not curated picks.
+
+- [buttons + user-interface](../../previews/buttons-user-interface/)
+
+![buttons + user-interface #1](../../previews/buttons-user-interface/01.gif)
+![buttons + user-interface #2](../../previews/buttons-user-interface/02.gif)
+![buttons + user-interface #3](../../previews/buttons-user-interface/03.png)
+![buttons + user-interface #4](../../previews/buttons-user-interface/04.jpg)
+
 ## Find more references
 - [Google Images](https://www.google.com/search?tbm=isch&q=roblox+Settings+Menu+GUI+style)
 - [YouTube](https://www.youtube.com/results?search_query=roblox+Settings+Menu+GUI+style)

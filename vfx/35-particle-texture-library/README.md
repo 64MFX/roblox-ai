@@ -21,6 +21,17 @@ Back to the [catalog](../VFX.md).
 - [DevForum: Tweening ParticleEmitter Size (NumberSequence)](https://devforum.roblox.com/t/trying-to-tween-a-particleemitters-size-numbersequence/647332)
 - [DevForum: Tweening ParticleEmitter transparency](https://devforum.roblox.com/t/how-would-i-smoothly-tween-the-transparency-of-a-particle-emitter/829204)
 
+## More previews (itch.io top results, credited)
+
+Keyword-matched galleries. Click a gallery for 12 credited covers. These are search-style matches, not curated picks.
+
+- [sprite-sheet + effects](../../previews/sprite-sheet-effects/)
+
+![sprite-sheet + effects #1](../../previews/sprite-sheet-effects/01.gif)
+![sprite-sheet + effects #2](../../previews/sprite-sheet-effects/02.png)
+![sprite-sheet + effects #3](../../previews/sprite-sheet-effects/03.png)
+![sprite-sheet + effects #4](../../previews/sprite-sheet-effects/04.png)
+
 ## Find more references
 - [Google Images](https://www.google.com/search?tbm=isch&q=roblox+Particle+Texture+Library+vfx)
 - [YouTube](https://www.youtube.com/results?search_query=roblox+Particle+Texture+Library+vfx)

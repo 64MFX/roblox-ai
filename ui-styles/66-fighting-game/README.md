@@ -20,6 +20,17 @@ Back to the [style catalog](../GUI-STYLES.md).
 
 *Fighting Game HUD/UI and Texts* by Richard Macedo, [source page](https://richard-macedo.itch.io/fighting-game-hudui-and-texts). Resized preview, all rights with the creator.
 
+## More previews (itch.io top results, credited)
+
+Keyword-matched galleries. Click a gallery for 12 credited covers. These are search-style matches, not curated picks.
+
+- [fighting + user-interface](../../previews/fighting-user-interface/)
+
+![fighting + user-interface #1](../../previews/fighting-user-interface/01.png)
+![fighting + user-interface #2](../../previews/fighting-user-interface/02.jpg)
+![fighting + user-interface #3](../../previews/fighting-user-interface/03.png)
+![fighting + user-interface #4](../../previews/fighting-user-interface/04.png)
+
 ## Find more references
 
 - [Google Images](https://www.google.com/search?tbm=isch&q=roblox+Fighting+Game+gui)

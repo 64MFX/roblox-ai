@@ -12,6 +12,17 @@ Back to the [catalog](../ANIMATIONS.md).
 
 *Pixel Art Anime Attack Effects Pack* by Sangoro, [source page](https://sangoro.itch.io/attack-vfx). Preview image, all rights with the creator.
 
+## More previews (itch.io top results, credited)
+
+Keyword-matched galleries. Click a gallery for 12 credited covers. These are search-style matches, not curated picks.
+
+- [animation + combat](../../previews/animation-combat/)
+
+![animation + combat #1](../../previews/animation-combat/01.png)
+![animation + combat #2](../../previews/animation-combat/02.png)
+![animation + combat #3](../../previews/animation-combat/03.png)
+![animation + combat #4](../../previews/animation-combat/04.png)
+
 ## Find more references
 - [Google Images](https://www.google.com/search?tbm=isch&q=roblox+Punch+Combo+animation)
 - [YouTube](https://www.youtube.com/results?search_query=roblox+Punch+Combo+animation)

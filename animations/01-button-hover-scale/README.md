@@ -17,6 +17,18 @@ Back to the [catalog](../ANIMATIONS.md).
 ## Docs and references
 - [DevForum: Tweening ParticleEmitter transparency](https://devforum.roblox.com/t/how-would-i-smoothly-tween-the-transparency-of-a-particle-emitter/829204)
 
+## More previews (itch.io top results, credited)
+
+Keyword-matched galleries. Click a gallery for 12 credited covers. These are search-style matches, not curated picks.
+
+- [animation + user-interface](../../previews/animation-user-interface/)
+- [buttons + user-interface](../../previews/buttons-user-interface/)
+
+![animation + user-interface #1](../../previews/animation-user-interface/01.gif)
+![animation + user-interface #2](../../previews/animation-user-interface/02.gif)
+![animation + user-interface #3](../../previews/animation-user-interface/03.gif)
+![animation + user-interface #4](../../previews/animation-user-interface/04.gif)
+
 ## Find more references
 - [Google Images](https://www.google.com/search?tbm=isch&q=roblox+Button+Hover+Scale+animation)
 - [YouTube](https://www.youtube.com/results?search_query=roblox+Button+Hover+Scale+animation)

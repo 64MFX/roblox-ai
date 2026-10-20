@@ -16,6 +16,17 @@ Back to the [catalog](../GUI-STYLES.md).
 - [Roblox docs: UI compatibility](https://create.roblox.com/docs/en-us/ui/styling/compatibility)
 - [Game UI Database](https://www.gameuidatabase.com/about.php)
 
+## More previews (itch.io top results, credited)
+
+Keyword-matched galleries. Click a gallery for 12 credited covers. These are search-style matches, not curated picks.
+
+- [fighting + user-interface](../../previews/fighting-user-interface/)
+
+![fighting + user-interface #1](../../previews/fighting-user-interface/01.png)
+![fighting + user-interface #2](../../previews/fighting-user-interface/02.jpg)
+![fighting + user-interface #3](../../previews/fighting-user-interface/03.png)
+![fighting + user-interface #4](../../previews/fighting-user-interface/04.png)
+
 ## Find more references
 - [Google Images](https://www.google.com/search?tbm=isch&q=roblox+Anime+Fighter+Menu+GUI+style)
 - [YouTube](https://www.youtube.com/results?search_query=roblox+Anime+Fighter+Menu+GUI+style)

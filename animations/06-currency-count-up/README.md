@@ -13,6 +13,18 @@ _No verified reference image was found for this entry yet._ Use the searches bel
 ## Docs and references
 - [DevForum: Tweening ParticleEmitter Size (NumberSequence)](https://devforum.roblox.com/t/trying-to-tween-a-particleemitters-size-numbersequence/647332)
 
+## More previews (itch.io top results, credited)
+
+Keyword-matched galleries. Click a gallery for 12 credited covers. These are search-style matches, not curated picks.
+
+- [animation + user-interface](../../previews/animation-user-interface/)
+- [buttons + user-interface](../../previews/buttons-user-interface/)
+
+![animation + user-interface #1](../../previews/animation-user-interface/01.gif)
+![animation + user-interface #2](../../previews/animation-user-interface/02.gif)
+![animation + user-interface #3](../../previews/animation-user-interface/03.gif)
+![animation + user-interface #4](../../previews/animation-user-interface/04.gif)
+
 ## Find more references
 - [Google Images](https://www.google.com/search?tbm=isch&q=roblox+Currency+Count-up+animation)
 - [YouTube](https://www.youtube.com/results?search_query=roblox+Currency+Count-up+animation)

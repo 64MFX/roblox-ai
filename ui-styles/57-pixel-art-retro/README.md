@@ -16,6 +16,18 @@ Back to the [style catalog](../GUI-STYLES.md).
 
 *RPG UI Asset Pack (Pixel Art)* by pluguezada / CodeLoot, [source page](https://pluguezada.itch.io/rpg-ui-asset-pack-pixel-art-32128px-codeloot). Resized preview, all rights with the creator.
 
+## More previews (itch.io top results, credited)
+
+Keyword-matched galleries. Click a gallery for 12 credited covers. These are search-style matches, not curated picks.
+
+- [pixel-art + user-interface](../../previews/pixel-art-user-interface/)
+- [retro + user-interface](../../previews/retro-user-interface/)
+
+![pixel-art + user-interface #1](../../previews/pixel-art-user-interface/01.gif)
+![pixel-art + user-interface #2](../../previews/pixel-art-user-interface/02.png)
+![pixel-art + user-interface #3](../../previews/pixel-art-user-interface/03.png)
+![pixel-art + user-interface #4](../../previews/pixel-art-user-interface/04.png)
+
 ## Find more references
 
 - [Google Images](https://www.google.com/search?tbm=isch&q=roblox+Pixel+Art+Retro+gui)

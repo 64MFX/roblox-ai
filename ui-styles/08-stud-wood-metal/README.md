@@ -16,6 +16,19 @@ Back to the [style catalog](../GUI-STYLES.md).
 
 *Medieval Age Game GUI* by pzUH, [source page](https://pzuh.itch.io/medieval-age-game-gui). Resized preview, all rights with the creator.
 
+## More previews (itch.io top results, credited)
+
+Keyword-matched galleries. Click a gallery for 12 credited covers. These are search-style matches, not curated picks.
+
+- [roblox + user-interface](../../previews/roblox-user-interface/)
+- [wood + user-interface](../../previews/wood-user-interface/)
+- [nature + user-interface](../../previews/nature-user-interface/)
+
+![roblox + user-interface #1](../../previews/roblox-user-interface/01.png)
+![roblox + user-interface #2](../../previews/roblox-user-interface/02.png)
+![roblox + user-interface #3](../../previews/roblox-user-interface/03.png)
+![roblox + user-interface #4](../../previews/roblox-user-interface/04.png)
+
 ## Find more references
 
 - [Google Images](https://www.google.com/search?tbm=isch&q=roblox+Stud+Wood%2FMetal+gui)

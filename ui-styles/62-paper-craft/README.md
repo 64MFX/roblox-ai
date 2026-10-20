@@ -8,6 +8,17 @@ Back to the [style catalog](../GUI-STYLES.md).
 
 _No verified reference image was found for this style yet._ Use the searches below, and add images here with a source link.
 
+## More previews (itch.io top results, credited)
+
+Keyword-matched galleries. Click a gallery for 12 credited covers. These are search-style matches, not curated picks.
+
+- [paper + user-interface](../../previews/paper-user-interface/)
+
+![paper + user-interface #1](../../previews/paper-user-interface/01.png)
+![paper + user-interface #2](../../previews/paper-user-interface/02.png)
+![paper + user-interface #3](../../previews/paper-user-interface/03.png)
+![paper + user-interface #4](../../previews/paper-user-interface/04.gif)
+
 ## Find more references
 
 - [Google Images](https://www.google.com/search?tbm=isch&q=roblox+Paper+Craft+gui)

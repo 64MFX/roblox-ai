@@ -12,6 +12,19 @@ Back to the [catalog](../CUTSCENES.md).
 
 *Action Effects (Make Visual Novels)* by Stella @ MakeVisualNovels, [source page](https://makevisualnovels.itch.io/actfx). Preview image, all rights with the creator.
 
+## More previews (itch.io top results, credited)
+
+Keyword-matched galleries. Click a gallery for 12 credited covers. These are search-style matches, not curated picks.
+
+- [cinematic](../../previews/cinematic/)
+- [cutscene](../../previews/cutscene/)
+- [intro](../../previews/intro/)
+
+![cinematic #1](../../previews/cinematic/01.jpg)
+![cinematic #2](../../previews/cinematic/02.jpg)
+![cinematic #3](../../previews/cinematic/03.jpg)
+![cinematic #4](../../previews/cinematic/04.png)
+
 ## Find more references
 - [Google Images](https://www.google.com/search?tbm=isch&q=roblox+Impact+Hit-Stop+cutscene)
 - [YouTube](https://www.youtube.com/results?search_query=roblox+Impact+Hit-Stop+cutscene)

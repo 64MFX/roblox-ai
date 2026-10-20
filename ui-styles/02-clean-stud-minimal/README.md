@@ -11,6 +11,18 @@ _No verified reference image was found for this style yet._ Use the searches bel
 ## In this repo
 See the [`studs-ui/`](../../studs-ui/) folder.
 
+## More previews (itch.io top results, credited)
+
+Keyword-matched galleries. Click a gallery for 12 credited covers. These are search-style matches, not curated picks.
+
+- [roblox + user-interface](../../previews/roblox-user-interface/)
+- [minimal + user-interface](../../previews/minimal-user-interface/)
+
+![roblox + user-interface #1](../../previews/roblox-user-interface/01.png)
+![roblox + user-interface #2](../../previews/roblox-user-interface/02.png)
+![roblox + user-interface #3](../../previews/roblox-user-interface/03.png)
+![roblox + user-interface #4](../../previews/roblox-user-interface/04.png)
+
 ## Find more references
 
 - [Google Images](https://www.google.com/search?tbm=isch&q=roblox+Clean+Stud+%28minimal%29+gui)

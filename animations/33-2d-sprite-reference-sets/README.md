@@ -14,6 +14,18 @@ Back to the [catalog](../ANIMATIONS.md).
 
 *Free Platformer Character* by ludicarts, [source page](https://ludicarts.itch.io/free-platformer-character). Preview image, all rights with the creator.
 
+## More previews (itch.io top results, credited)
+
+Keyword-matched galleries. Click a gallery for 12 credited covers. These are search-style matches, not curated picks.
+
+- [sprite-sheet + animation](../../previews/sprite-sheet-animation/)
+- [animated](../../previews/animated/)
+
+![sprite-sheet + animation #1](../../previews/sprite-sheet-animation/01.png)
+![sprite-sheet + animation #2](../../previews/sprite-sheet-animation/02.png)
+![sprite-sheet + animation #3](../../previews/sprite-sheet-animation/03.png)
+![sprite-sheet + animation #4](../../previews/sprite-sheet-animation/04.gif)
+
 ## Find more references
 - [Google Images](https://www.google.com/search?tbm=isch&q=roblox+2D+Sprite+Reference+Sets+animation)
 - [YouTube](https://www.youtube.com/results?search_query=roblox+2D+Sprite+Reference+Sets+animation)

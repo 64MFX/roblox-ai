@@ -59,3 +59,10 @@ Preview images were downloaded from the public itch.io listing pages below (cove
 | Visual Novel Dialogue Boxes | charcoalstudios | [link](https://charcoalstudios.itch.io/visual-novel-dialogue-boxes) |
 | Visual Novel Dialogue GUI Asset Pack | One Level Studio | [link](https://onelevelstudio.itch.io/dialogue-gui) |
 | Wizard Pack (CC0) | LuizMelo | [link](https://luizmelo.itch.io/wizard-pack) |
+| Combat Magic Spells SFX | AD Sounds | [link](https://ad-sounds.itch.io/combat-magic-spells-sound-effects) |
+| Fast UI Sounds | AD Sounds | [link](https://ad-sounds.itch.io/fast-ui-sounds-sound-effects) |
+| Forge & Fantasy Weapon SFX | Case Portman | [link](https://caseportman.itch.io/forge-fantasy-weapon-sfx) |
+| Interface/Buttons Sound Pack | Morphonaut | [link](https://morphonaut.itch.io/interfacebuttons-sound-pack) |
+| Sci-Fi Swords Sound Pack | Magic Sound Effects | [link](https://magicsoundeffects.itch.io/sci-fi-swords-sound-pack) |
+| Sword Combat Sound Effects Pack (Free) | Hove Audio | [link](https://hoveaudio.itch.io/sword-combat-sound-effects-pack-free-version) |
+| UI Clicks | bleeoop | [link](https://bleeoop.itch.io/ui-clicks) |

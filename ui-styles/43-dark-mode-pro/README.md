@@ -22,6 +22,19 @@ Back to the [style catalog](../GUI-STYLES.md).
 
 *Minimal Game UI Kit + 260 Icons* by SunGraphica, [source page](https://sungraphica.itch.io/clean-and-minimal-game-ui-kit-260-icons). Resized preview, all rights with the creator.
 
+## More previews (itch.io top results, credited)
+
+Keyword-matched galleries. Click a gallery for 12 credited covers. These are search-style matches, not curated picks.
+
+- [gothic + user-interface](../../previews/gothic-user-interface/)
+- [dark + user-interface](../../previews/dark-user-interface/)
+- [minimal + user-interface](../../previews/minimal-user-interface/)
+
+![gothic + user-interface #1](../../previews/gothic-user-interface/01.png)
+![gothic + user-interface #2](../../previews/gothic-user-interface/02.jpg)
+![gothic + user-interface #3](../../previews/gothic-user-interface/03.png)
+![gothic + user-interface #4](../../previews/gothic-user-interface/04.gif)
+
 ## Find more references
 
 - [Google Images](https://www.google.com/search?tbm=isch&q=roblox+Dark+Mode+Pro+gui)

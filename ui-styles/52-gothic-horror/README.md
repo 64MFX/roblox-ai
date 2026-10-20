@@ -24,6 +24,18 @@ Back to the [style catalog](../GUI-STYLES.md).
 
 *Gothic Pixel UI* by AbyssOwl, [source page](https://abyssowl.itch.io/gothic-pixel-ui). Resized preview, all rights with the creator.
 
+## More previews (itch.io top results, credited)
+
+Keyword-matched galleries. Click a gallery for 12 credited covers. These are search-style matches, not curated picks.
+
+- [horror + user-interface](../../previews/horror-user-interface/)
+- [gothic + user-interface](../../previews/gothic-user-interface/)
+
+![horror + user-interface #1](../../previews/horror-user-interface/01.png)
+![horror + user-interface #2](../../previews/horror-user-interface/02.png)
+![horror + user-interface #3](../../previews/horror-user-interface/03.png)
+![horror + user-interface #4](../../previews/horror-user-interface/04.png)
+
 ## Find more references
 
 - [Google Images](https://www.google.com/search?tbm=isch&q=roblox+Gothic+Horror+gui)

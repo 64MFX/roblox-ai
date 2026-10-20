@@ -19,6 +19,17 @@ Back to the [catalog](../CUTSCENES.md).
 ## Docs and references
 - [DevForum: CutsceneService](https://devforum.roblox.com/t/cutsceneservice/3283407)
 
+## More previews (itch.io top results, credited)
+
+Keyword-matched galleries. Click a gallery for 12 credited covers. These are search-style matches, not curated picks.
+
+- [visual-novel + user-interface](../../previews/visual-novel-user-interface/)
+
+![visual-novel + user-interface #1](../../previews/visual-novel-user-interface/01.png)
+![visual-novel + user-interface #2](../../previews/visual-novel-user-interface/02.gif)
+![visual-novel + user-interface #3](../../previews/visual-novel-user-interface/03.jpg)
+![visual-novel + user-interface #4](../../previews/visual-novel-user-interface/04.gif)
+
 ## Find more references
 - [Google Images](https://www.google.com/search?tbm=isch&q=roblox+Visual-Novel+Dialogue+Scene+cutscene)
 - [YouTube](https://www.youtube.com/results?search_query=roblox+Visual-Novel+Dialogue+Scene+cutscene)

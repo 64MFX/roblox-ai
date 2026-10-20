@@ -14,6 +14,17 @@ _No verified reference image was found for this entry yet._ Use the searches bel
 - [Roblox docs: UI compatibility](https://create.roblox.com/docs/en-us/ui/styling/compatibility)
 - [Game UI Database](https://www.gameuidatabase.com/about.php)
 
+## More previews (itch.io top results, credited)
+
+Keyword-matched galleries. Click a gallery for 12 credited covers. These are search-style matches, not curated picks.
+
+- [nature + user-interface](../../previews/nature-user-interface/)
+
+![nature + user-interface #1](../../previews/nature-user-interface/01.jpg)
+![nature + user-interface #2](../../previews/nature-user-interface/02.png)
+![nature + user-interface #3](../../previews/nature-user-interface/03.jpg)
+![nature + user-interface #4](../../previews/nature-user-interface/04.jpg)
+
 ## Find more references
 - [Google Images](https://www.google.com/search?tbm=isch&q=roblox+Deep+Ocean+GUI+style)
 - [YouTube](https://www.youtube.com/results?search_query=roblox+Deep+Ocean+GUI+style)

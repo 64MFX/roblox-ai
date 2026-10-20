@@ -16,6 +16,18 @@ Back to the [catalog](../VFX.md).
 
 *Brackeys' VFX Bundle* by Brackeys, [source page](https://brackeysgames.itch.io/brackeys-vfx-bundle). Preview image, all rights with the creator.
 
+## More previews (itch.io top results, credited)
+
+Keyword-matched galleries. Click a gallery for 12 credited covers. These are search-style matches, not curated picks.
+
+- [effects + explosions](../../previews/effects-explosions/)
+- [vfx + fire](../../previews/vfx-fire/)
+
+![effects + explosions #1](../../previews/effects-explosions/01.png)
+![effects + explosions #2](../../previews/effects-explosions/02.gif)
+![effects + explosions #3](../../previews/effects-explosions/03.png)
+![effects + explosions #4](../../previews/effects-explosions/04.gif)
+
 ## Find more references
 - [Google Images](https://www.google.com/search?tbm=isch&q=roblox+Fireball+Explosion+vfx)
 - [YouTube](https://www.youtube.com/results?search_query=roblox+Fireball+Explosion+vfx)

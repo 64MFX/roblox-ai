@@ -13,6 +13,17 @@ _No verified reference image was found for this entry yet._ Use the searches bel
 ## Docs and references
 - [Roblox docs: Trail](https://create.roblox.com/docs/reference/engine/classes/Trail)
 
+## More previews (itch.io top results, credited)
+
+Keyword-matched galleries. Click a gallery for 12 credited covers. These are search-style matches, not curated picks.
+
+- [effects + lightning](../../previews/effects-lightning/)
+
+![effects + lightning #1](../../previews/effects-lightning/01.png)
+![effects + lightning #2](../../previews/effects-lightning/02.gif)
+![effects + lightning #3](../../previews/effects-lightning/03.gif)
+![effects + lightning #4](../../previews/effects-lightning/04.gif)
+
 ## Find more references
 - [Google Images](https://www.google.com/search?tbm=isch&q=roblox+Lightning+Bolt+vfx)
 - [YouTube](https://www.youtube.com/results?search_query=roblox+Lightning+Bolt+vfx)

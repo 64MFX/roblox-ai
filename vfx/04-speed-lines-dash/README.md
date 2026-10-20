@@ -16,6 +16,17 @@ Back to the [catalog](../VFX.md).
 
 *Action Effects (Make Visual Novels)* by Stella @ MakeVisualNovels, [source page](https://makevisualnovels.itch.io/actfx). Preview image, all rights with the creator.
 
+## More previews (itch.io top results, credited)
+
+Keyword-matched galleries. Click a gallery for 12 credited covers. These are search-style matches, not curated picks.
+
+- [sprite-sheet + effects](../../previews/sprite-sheet-effects/)
+
+![sprite-sheet + effects #1](../../previews/sprite-sheet-effects/01.gif)
+![sprite-sheet + effects #2](../../previews/sprite-sheet-effects/02.png)
+![sprite-sheet + effects #3](../../previews/sprite-sheet-effects/03.png)
+![sprite-sheet + effects #4](../../previews/sprite-sheet-effects/04.png)
+
 ## Find more references
 - [Google Images](https://www.google.com/search?tbm=isch&q=roblox+Speed+Lines+Dash+vfx)
 - [YouTube](https://www.youtube.com/results?search_query=roblox+Speed+Lines+Dash+vfx)

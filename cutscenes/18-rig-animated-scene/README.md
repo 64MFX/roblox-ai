@@ -14,6 +14,19 @@ _No verified reference image was found for this entry yet._ Use the searches bel
 - [DevForum: How do you make cutscenes?](https://devforum.roblox.com/t/how-do-you-make-cutscenes/975405)
 - [DevForum: CutsceneService](https://devforum.roblox.com/t/cutsceneservice/3283407)
 
+## More previews (itch.io top results, credited)
+
+Keyword-matched galleries. Click a gallery for 12 credited covers. These are search-style matches, not curated picks.
+
+- [cinematic](../../previews/cinematic/)
+- [cutscene](../../previews/cutscene/)
+- [intro](../../previews/intro/)
+
+![cinematic #1](../../previews/cinematic/01.jpg)
+![cinematic #2](../../previews/cinematic/02.jpg)
+![cinematic #3](../../previews/cinematic/03.jpg)
+![cinematic #4](../../previews/cinematic/04.png)
+
 ## Find more references
 - [Google Images](https://www.google.com/search?tbm=isch&q=roblox+Rig-Animated+Scene+cutscene)
 - [YouTube](https://www.youtube.com/results?search_query=roblox+Rig-Animated+Scene+cutscene)

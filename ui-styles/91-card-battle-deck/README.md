@@ -14,6 +14,17 @@ _No verified reference image was found for this entry yet._ Use the searches bel
 - [Roblox docs: UI appearance modifiers](https://create.roblox.com/docs/en-us/ui/appearance-modifiers)
 - [creation.dev: Roblox UI best practices](https://www.creation.dev/blog/roblox-ui-design-best-practices)
 
+## More previews (itch.io top results, credited)
+
+Keyword-matched galleries. Click a gallery for 12 credited covers. These are search-style matches, not curated picks.
+
+- [card-game + user-interface](../../previews/card-game-user-interface/)
+
+![card-game + user-interface #1](../../previews/card-game-user-interface/01.png)
+![card-game + user-interface #2](../../previews/card-game-user-interface/02.png)
+![card-game + user-interface #3](../../previews/card-game-user-interface/03.gif)
+![card-game + user-interface #4](../../previews/card-game-user-interface/04.png)
+
 ## Find more references
 - [Google Images](https://www.google.com/search?tbm=isch&q=roblox+Card+Battle+Deck+GUI+style)
 - [YouTube](https://www.youtube.com/results?search_query=roblox+Card+Battle+Deck+GUI+style)

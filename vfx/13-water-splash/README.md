@@ -12,6 +12,18 @@ Back to the [catalog](../VFX.md).
 
 *Spells FX* by RagnaPixel, [source page](https://ragnapixel.itch.io/spells-fx). Preview image, all rights with the creator.
 
+## More previews (itch.io top results, credited)
+
+Keyword-matched galleries. Click a gallery for 12 credited covers. These are search-style matches, not curated picks.
+
+- [vfx + water](../../previews/vfx-water/)
+- [vfx + weather](../../previews/vfx-weather/)
+
+![vfx + water #1](../../previews/vfx-water/01.gif)
+![vfx + water #2](../../previews/vfx-water/02.gif)
+![vfx + water #3](../../previews/vfx-water/03.png)
+![vfx + water #4](../../previews/vfx-water/04.png)
+
 ## Find more references
 - [Google Images](https://www.google.com/search?tbm=isch&q=roblox+Water+Splash+vfx)
 - [YouTube](https://www.youtube.com/results?search_query=roblox+Water+Splash+vfx)

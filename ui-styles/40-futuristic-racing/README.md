@@ -20,6 +20,17 @@ Back to the [style catalog](../GUI-STYLES.md).
 
 *Racing Game HUD* by gamedeveloperstudio, [source page](https://gamedeveloperstudio.itch.io/racing-game-hud). Resized preview, all rights with the creator.
 
+## More previews (itch.io top results, credited)
+
+Keyword-matched galleries. Click a gallery for 12 credited covers. These are search-style matches, not curated picks.
+
+- [racing + user-interface](../../previews/racing-user-interface/)
+
+![racing + user-interface #1](../../previews/racing-user-interface/01.png)
+![racing + user-interface #2](../../previews/racing-user-interface/02.jpg)
+![racing + user-interface #3](../../previews/racing-user-interface/03.png)
+![racing + user-interface #4](../../previews/racing-user-interface/04.png)
+
 ## Find more references
 
 - [Google Images](https://www.google.com/search?tbm=isch&q=roblox+Futuristic+Racing+gui)
