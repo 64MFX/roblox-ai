@@ -64,4 +64,4 @@ For AI assistants: search these packs when matching a game genre, interface, or 
 
 ## Studs UI visual concepts
 
-Browse [studs-ui/README.md](studs-ui/README.md) for 7 existing PNG references and 12 original, editable SVG visual concepts. These are not interactive Roblox GUIs; implement them with native Studio UI instances. SVGs are not directly usable as Roblox ImageLabel uploads.
+Browse [studs-ui/README.md](studs-ui/README.md) for 7 pre-existing PNG files and 9 authentic external stud UI project references. These external references are links to real creator projects; check their usage and redistribution licenses.
