@@ -36,6 +36,6 @@ About 124 more images sit inside the entry folders, credited in [ui-styles/IMAGE
 ## Roblox image references
 
 - [Thumbnail catalog](thumbnails/README.md) and [logo catalog](logos/README.md) list Roblox experiences for visual research.
-- [PNG downloader](scripts/fetch_roblox_images.py) fetches public Roblox experience artwork and records source game links in `roblox-image-manifest.json` when run.
+- [PNG downloader](scripts/fetch_roblox_images.py) is configured for 27 Roblox experiences, fetches their public artwork, and records source game links in `roblox-image-manifest.json` when run.
 - [GitHub Actions workflow](.github/workflows/fetch-roblox-references.yml) is configured to download and commit PNG files. **Downloaded PNGs are not included in the reference total unless actually present in this repository.**
 - Artwork is owned by its respective creators; do not assume reuse rights merely because a public thumbnail is accessible.
