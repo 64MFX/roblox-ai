@@ -1,4 +1,4 @@
-# roblox-ui-references
+# roblox stuff for your ai
 
 **Over 700 visual references for your AI** — Roblox-inspired UI, thumbnails, logos, effects, animation references, and more to inspire Claude Code, Codex, and other AI assistants.
 
