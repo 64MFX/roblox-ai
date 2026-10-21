@@ -47,3 +47,17 @@ Each entry folder contains `README.md` with, in order: `# N. Name`, a descriptio
 - No videos are bundled (only your own `Animation-Refs/` clips); entries link to searches instead.
 - BuiltByBit kits are cited but not imaged (the site blocks automated downloads).
 - Recipes outside `cookbook/` come from general Roblox knowledge and DevForum threads and may be outdated.
+
+## Expanded concept reference packs (2026-10-21)
+
+The following **195 original design briefs** are separate from existing image files, tested cookbook scripts, and numbered catalog entries. Each pack links relevant Roblox Creator Hub background; their design briefs are conceptual and have not been playtested.
+
+- [40 UI composition briefs](ui-styles/EXTRA-REFERENCES.md)
+- [25 animation briefs](animations/EXTRA-REFERENCES.md)
+- [20 cinematic briefs](cutscenes/EXTRA-REFERENCES.md)
+- [25 VFX briefs](vfx/EXTRA-REFERENCES.md)
+- [25 audio briefs](sfx/EXTRA-REFERENCES.md)
+- [30 thumbnail composition briefs](thumbnails/EXTRA-REFERENCES.md)
+- [30 logo and icon briefs](logos/EXTRA-REFERENCES.md)
+
+For AI assistants: search these packs when matching a game genre, interface, or feedback requirement, then consult the official Creator Hub documentation for real API details. **Do not represent concept briefs as bundled PNGs, verified assets, or pretested scripts.**
