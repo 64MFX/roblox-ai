@@ -1,4 +1,8 @@
 # roblox-ui-references
+
+**Over 700 visual references for your AI** — Roblox-inspired UI, thumbnails, logos, effects, animation references, and more to inspire Claude Code, Codex, and other AI assistants.
+
+> The "over 700" count is grounded in the existing **707 images** in `previews/`; other referenced images, catalogs, and patterns are additional. Artwork belongs to its respective creators; treat visuals as inspiration, not assets licensed for redistribution or direct reuse.
 A curated collection of Roblox UI references for Claude Code, Codex, and other AI coding assistants to study and use as design inspiration
 
 ## Start here
@@ -16,6 +20,8 @@ A curated collection of Roblox UI references for Claude Code, Codex, and other A
 | [`cookbook/`](cookbook/README.md) | Small Luau modules, compile-checked in Studio 0.743 | 23 scripts |
 | [`official-docs/`](official-docs/README.md) | Roblox creator-docs subset (CC BY 4.0): guides plus class, data type and enum reference | 89 guides, 114 classes |
 | [`previews/`](previews/README.md) | Credited itch.io cover galleries by tag | 61 galleries, 707 images |
+| [`thumbnails/`](thumbnails/README.md) | Curated Roblox thumbnail inspirations and game links | 30 game references |
+| [`logos/`](logos/README.md) | Curated Roblox game-icon/logo inspirations and game links | 30 game references |
 | [`libraries.md`](libraries.md) | Open-source libraries, plugins, asset sources | |
 | `studs-ui/`, `sports/`, `Icons/`, `Animation-Refs/` | Original image and video references | |
 
