@@ -1,8 +1,8 @@
 # roblox stuff for your ai
 
-**Over 700 visual references for your AI** — Roblox-inspired UI, thumbnails, logos, effects, animation references, and more to inspire Claude Code, Codex, and other AI assistants.
+**Over 1,000 reference items for your AI** — visual previews, Roblox UI patterns, thumbnail and logo briefs, animations, cutscenes, VFX, SFX, and tested-status-labelled coding examples for Claude Code, Codex, and other AI assistants.
 
-> The "over 700" count is grounded in the existing **707 images** in `previews/`; other referenced images, catalogs, and patterns are additional. Artwork belongs to its respective creators; treat visuals as inspiration, not assets licensed for redistribution or direct reuse.
+> **Count methodology:** 707 existing preview images + 112 existing GUI styles + 33 animation patterns + 18 cutscenes + 36 VFX patterns + 54 SFX patterns + 23 cookbook scripts + **195 newly added original design briefs** = **1,178 category entries/assets**. These categories count different types of items; this is not 1,178 unique PNGs. Other official-document references are excluded from this subtotal. Existing category counts are taken from their repository catalog summaries, not a full independent asset audit. Check artwork licenses before reuse.
 A curated collection of Roblox UI references for Claude Code, Codex, and other AI coding assistants to study and use as design inspiration
 
 ## Start here
@@ -12,16 +12,16 @@ A curated collection of Roblox UI references for Claude Code, Codex, and other A
 ## Contents
 | Path | What | Size |
 |---|---|---|
-| [`ui-styles/`](ui-styles/GUI-STYLES.md) | GUI styles, one folder each, with palettes and recipes | 112 styles |
-| [`animations/`](animations/ANIMATIONS.md) | UI and character/combat animation patterns | 33 |
-| [`cutscenes/`](cutscenes/CUTSCENES.md) | Camera, cinematic and dialogue patterns | 18 |
-| [`vfx/`](vfx/VFX.md) | Particles, beams, trails, feedback effects | 36 |
-| [`sfx/`](sfx/SFX.md) | Sound design and music patterns | 54 |
+| [`ui-styles/`](ui-styles/GUI-STYLES.md) | GUI styles, one folder each, with palettes and recipes; [40 extra UI briefs](ui-styles/EXTRA-REFERENCES.md) | 112 styles + 40 briefs |
+| [`animations/`](animations/ANIMATIONS.md) | Animation patterns + [25 extra animation briefs](animations/EXTRA-REFERENCES.md) | 33 + 25 |
+| [`cutscenes/`](cutscenes/CUTSCENES.md) | Camera and dialogue patterns + [20 extra scene briefs](cutscenes/EXTRA-REFERENCES.md) | 18 + 20 |
+| [`vfx/`](vfx/VFX.md) | VFX patterns + [25 extra effect briefs](vfx/EXTRA-REFERENCES.md) | 36 + 25 |
+| [`sfx/`](sfx/SFX.md) | Audio patterns + [25 extra sound briefs](sfx/EXTRA-REFERENCES.md) | 54 + 25 |
 | [`cookbook/`](cookbook/README.md) | Small Luau modules, compile-checked in Studio 0.743 | 23 scripts |
 | [`official-docs/`](official-docs/README.md) | Roblox creator-docs subset (CC BY 4.0): guides plus class, data type and enum reference | 89 guides, 114 classes |
 | [`previews/`](previews/README.md) | Credited itch.io cover galleries by tag | 61 galleries, 707 images |
-| [`thumbnails/`](thumbnails/README.md) | Curated Roblox thumbnail inspirations and game links | 30 game references |
-| [`logos/`](logos/README.md) | Curated Roblox game-icon/logo inspirations and game links | 30 game references |
+| [`thumbnails/`](thumbnails/README.md) | 30 Roblox game research links + [30 thumbnail composition briefs](thumbnails/EXTRA-REFERENCES.md) | 30 links + 30 briefs |
+| [`logos/`](logos/README.md) | 30 Roblox game research links + [30 icon directions](logos/EXTRA-REFERENCES.md) | 30 links + 30 briefs |
 | [`libraries.md`](libraries.md) | Open-source libraries, plugins, asset sources | |
 | `studs-ui/`, `sports/`, `Icons/`, `Animation-Refs/` | Original image and video references | |
 
