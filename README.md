@@ -32,3 +32,10 @@ About 124 more images sit inside the entry folders, credited in [ui-styles/IMAGE
 - `cookbook/` scripts were compiled in Roblox Studio and most were run against unparented instances; none were checked in a live game, and visuals/audio were not judged.
 - Style descriptions, palettes and recipes outside the cookbook are synthesis from general knowledge and linked sources, and are **not tested**.
 - Pictures are previews owned by their creators (itch.io listings), used as references. Check licences before using any asset.
+
+## Roblox image references
+
+- [Thumbnail catalog](thumbnails/README.md) and [logo catalog](logos/README.md) list Roblox experiences for visual research.
+- [PNG downloader](scripts/fetch_roblox_images.py) fetches public Roblox experience artwork and records source game links in `roblox-image-manifest.json` when run.
+- [GitHub Actions workflow](.github/workflows/fetch-roblox-references.yml) is configured to download and commit PNG files. **Downloaded PNGs are not included in the reference total unless actually present in this repository.**
+- Artwork is owned by its respective creators; do not assume reuse rights merely because a public thumbnail is accessible.
