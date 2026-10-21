@@ -61,3 +61,7 @@ The following **195 original design briefs** are separate from existing image fi
 - [30 logo and icon briefs](logos/EXTRA-REFERENCES.md)
 
 For AI assistants: search these packs when matching a game genre, interface, or feedback requirement, then consult the official Creator Hub documentation for real API details. **Do not represent concept briefs as bundled PNGs, verified assets, or pretested scripts.**
+
+## Studs UI visual concepts
+
+Browse [studs-ui/README.md](studs-ui/README.md) for 7 existing PNG references and 12 original, editable SVG visual concepts. These are not interactive Roblox GUIs; implement them with native Studio UI instances. SVGs are not directly usable as Roblox ImageLabel uploads.
