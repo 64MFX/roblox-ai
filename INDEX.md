@@ -32,22 +32,22 @@ Machine-readable version: [`index.json`](index.json). Folders marked with pictur
 - [Hit-Game Layout (original art)](ui-styles/12-hit-game-layout-original-art/): Borrow the structure seen in hit simulators (tab column, centre grid, detail panel) but never their assets. Re…
 - [Pet-Collector Grid](ui-styles/13-pet-collector-grid/) 🖼: Rarity-coloured cards in a UIGridLayout, egg/pet icons, index tab. Recipe: card Frame with rarity-coloured UIS…
 - [Rebirth/Prestige Panel](ui-styles/14-rebirth-prestige-panel/): Big central button, multiplier counter, glowing aura. Refs: R4.
-- [Daily Reward Calendar](ui-styles/15-daily-reward-calendar/): 7/30-day grid with claimed, today and locked states. Refs: R10, in-repo `studs-ui/Stud-DailyRewards.png`, cale…
+- [Daily Reward Calendar](ui-styles/15-daily-reward-calendar/): 7/30-day grid with claimed, today and locked states. Refs: R10, in-repo `visual-refs/studs-ui/Stud-DailyRewards.png`, cale…
 - [Garden/Farm Cozy](ui-styles/16-garden-farm-cozy/) 🖼: Warm greens, wood trim, leaf motifs. Palette `#7BC65A #C9965A #FFF4D6`. Refs: R15.
 - [Tycoon Cash HUD](ui-styles/17-tycoon-cash-hud/): Large money counter with coin icon, "+$" floaters. Refs: R3 R4.
 - [Idle/Clicker Orb](ui-styles/18-idle-clicker-orb/): Central tap target, ring progress, upgrade list below. Refs: R9, S.
-- [Gacha/Egg Hatch](ui-styles/19-gacha-egg-hatch/): Dim full-screen, egg shake, rarity-burst reveal card. Refs: R10, in-repo `Icons/Basic Egg`.
+- [Gacha/Egg Hatch](ui-styles/19-gacha-egg-hatch/): Dim full-screen, egg shake, rarity-burst reveal card. Refs: R10, in-repo `visual-refs/icons/Basic Egg`.
 - [Obby Checkpoint Bar](ui-styles/20-obby-checkpoint-bar/): Thin top stage bar, stage number, skip-purchase button. Refs: R3, S.
 - [Glowing Fantasy](ui-styles/21-glowing-fantasy/): Dark violet panels, gold filigree, glowing rarity borders. Palette `#1B1030 #D4AF37 #8E5CFF`. Refs: R11.
 - [Modern Medieval](ui-styles/22-modern-medieval/) 🖼: Parchment and iron, rarity labels, equip/sell buttons. Refs: R12.
-- [Parchment Scroll](ui-styles/23-parchment-scroll/) 🖼: Aged paper, serif font, wax-seal buttons. Refs: in-repo `Icons/Scroll`, S.
+- [Parchment Scroll](ui-styles/23-parchment-scroll/) 🖼: Aged paper, serif font, wax-seal buttons. Refs: in-repo `visual-refs/icons/Scroll`, S.
 - [Stone Dungeon](ui-styles/24-stone-dungeon/): Rough grey slabs, torch-orange accents. Refs: S, R16.
 - [Elven Nature](ui-styles/25-elven-nature/): Vines, leaf corners, soft green glow. Refs: S.
 - [Souls-like Minimal](ui-styles/26-souls-like-minimal/): Thin bars, desaturated, no outlines, serif text. Refs: R16.
 - [Anime RPG Sidebar](ui-styles/27-anime-rpg-sidebar/): Left icon menu, right info panel, diagonal cuts. Palette `#0F1226 #FF4D6D #FFFFFF`. Refs: S.
 - [Gacha Character Cards](ui-styles/28-gacha-character-cards/): Tall cards with star rows and elemental badges. Refs: R16, S.
 - [Skill Tree Web](ui-styles/29-skill-tree-web/): Node-and-line canvas, locked/unlocked glow. Refs: R16.
-- [Quest Journal](ui-styles/30-quest-journal/): Book layout with tabs and ribbon bookmarks. Refs: in-repo `Icons/Book`, S.
+- [Quest Journal](ui-styles/30-quest-journal/): Book layout with tabs and ribbon bookmarks. Refs: in-repo `visual-refs/icons/Book`, S.
 - [Neon Cyberpunk](ui-styles/31-neon-cyberpunk/) 🖼: Black base, cyan/magenta neon strokes with glow. Palette `#0A0A14 #00F0FF #FF2BD6`. Recipe: UIStroke plus a bl…
 - [Holographic HUD](ui-styles/32-holographic-hud/) 🖼: Transparent blue panels, thin lines, scanline overlay. Refs: S.
 - [Military Tactical](ui-styles/33-military-tactical/): Olive/black, stencil font, clipped angular corners. Refs: S.
@@ -82,14 +82,14 @@ Machine-readable version: [`index.json`](index.json). Folders marked with pictur
 - [Paper Craft](ui-styles/62-paper-craft/): Layered cut-paper shadows, folded corners. Refs: S.
 - [Claymation](ui-styles/63-claymation/): Soft 3D blobs, fingerprint-texture highlights. Refs: S.
 - [Low-Poly Faceted](ui-styles/64-low-poly-faceted/): Triangular shards, flat-shaded gradient fills. Refs: S.
-- [Sports Broadcast](ui-styles/65-sports-broadcast/): Scoreboard bars, team colours, slanted ribbons. Refs: in-repo `sports/` (Basketball, Boxing, Football, Main Me…
+- [Sports Broadcast](ui-styles/65-sports-broadcast/): Scoreboard bars, team colours, slanted ribbons. Refs: in-repo `visual-refs/sports/` (Basketball, Boxing, Football, Main Me…
 - [Fighting Game](ui-styles/66-fighting-game/) 🖼: Big health bars with timer, combo counter, VS screen. Refs: R16.
 - [Shooter Tactical HUD](ui-styles/67-shooter-tactical-hud/): Ammo counter, compass strip, hitmarkers. Refs: R16.
 - [Racing Dashboard](ui-styles/68-racing-dashboard/) 🖼: As #40 plus a lap/position tower. Refs: R16.
 - [Roleplay Town](ui-styles/69-roleplay-town/): Phone-style app grid, chat bubbles, pastel. Refs: S.
 - [Tower Defense](ui-styles/70-tower-defense/): Bottom tower bar with costs, wave banner, lives top-right. Refs: R16.
 - [Horror Co-op Lobby](ui-styles/71-horror-co-op-lobby/): Vote cards, ready ticks, ominous palette. Refs: S.
-- [Holiday/Seasonal](ui-styles/72-holiday-seasonal/): Snowflakes, candy-cane borders, calendar. Refs: in-repo `Icons/` (Christmas Tree, Snowman, Candy Cane, Snowfla…
+- [Holiday/Seasonal](ui-styles/72-holiday-seasonal/): Snowflakes, candy-cane borders, calendar. Refs: in-repo `visual-refs/icons/` (Christmas Tree, Snowman, Candy Cane, Snowfla…
 - [Steampunk Brass](ui-styles/73-steampunk-brass/) 🖼: Brass plates, rivets, gears and gauges on dark leather. Palette `#B8862B #3A2A1A #E8D8A0`.
 - [Kawaii Pastel](ui-styles/74-kawaii-pastel/) 🖼: Pink/mint pastel panels, heart and star motifs, huge radius, bouncy tweens. Palette `#FFC8DD #BDE0FE #FFAFCC`.
 - [Cozy Farm Wood](ui-styles/75-cozy-farm-wood/): Wooden planks with cream parchment labels and leaf icons. Palette `#8B5A2B #F4E3B2 #6BA368`.

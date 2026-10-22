@@ -1,6 +1,6 @@
 # 72. Holiday/Seasonal
 
-Snowflakes, candy-cane borders, calendar. Refs: in-repo `Icons/` (Christmas Tree, Snowman, Candy Cane, Snowflake).
+Snowflakes, candy-cane borders, calendar. Refs: in-repo `visual-refs/icons/` (Christmas Tree, Snowman, Candy Cane, Snowflake).
 
 Back to the [style catalog](../GUI-STYLES.md).
 
@@ -9,7 +9,7 @@ Back to the [style catalog](../GUI-STYLES.md).
 _No verified reference image was found for this style yet._ Use the searches below, and add images here with a source link.
 
 ## In this repo
-See the [`Icons/`](../../Icons/) folder.
+See the [`visual-refs/icons/`](../../visual-refs/icons/) folder.
 
 ## Find more references
 

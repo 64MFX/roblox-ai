@@ -1,6 +1,6 @@
 # 1. Classic Stud GUI
 
-Bright flat panel with a subtle round-stud pattern, chunky dark outline. Palette `#2B90FF #FFD23F #1B1B2F`. Recipe: Frame + tiled stud ImageLabel at 6-12% opacity, UIStroke 3-4px, UICorner 10. Best: simulators, tycoons. Refs: R3 R5 R6 R7, in-repo `studs-ui/`.
+Bright flat panel with a subtle round-stud pattern, chunky dark outline. Palette `#2B90FF #FFD23F #1B1B2F`. Recipe: Frame + tiled stud ImageLabel at 6-12% opacity, UIStroke 3-4px, UICorner 10. Best: simulators, tycoons. Refs: R3 R5 R6 R7, in-repo `visual-refs/studs-ui/`.
 
 Back to the [style catalog](../GUI-STYLES.md).
 
@@ -9,7 +9,7 @@ Back to the [style catalog](../GUI-STYLES.md).
 _No verified reference image was found for this style yet._ Use the searches below, and add images here with a source link.
 
 ## In this repo
-See the [`studs-ui/`](../../studs-ui/) folder.
+See the [`visual-refs/studs-ui/`](../../visual-refs/studs-ui/) folder.
 
 ## More previews (itch.io top results, credited)
 

@@ -2,7 +2,7 @@
 
 > **Honesty note.** Researched 2026-10-20. Pictures are preview images from public itch.io listings (credits in the root `IMAGE-CREDITS.md` and on each page). Recipes come from general Roblox knowledge and linked DevForum threads, and have **not** been tested in Studio. Many DevForum answers are older, so verify against the current API.
 
-UI and character/combat animation patterns. Your own reference videos are in [`Animation-Refs/`](../Animation-Refs/).
+UI and character/combat animation patterns. Your own reference videos are in [`visual-refs/animation-refs/`](../visual-refs/animation-refs/).
 
 
 

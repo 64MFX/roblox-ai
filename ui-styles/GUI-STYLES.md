@@ -31,7 +31,7 @@ Each entry gives the look, a palette, a Roblox implementation recipe, best-fit g
 | R20 | ✅ [itch.io GUI assets](https://itch.io/game-assets/newest/tag-gui/tag-ux) | General GUI asset browsing |
 | S | Image search (not a verified page) | `https://www.google.com/search?tbm=isch&q=roblox+<style>+gui` |
 
-**In-repo references:** `studs-ui/` (Stud-GUI-1/2/4/5, Stud-Buttons, Stud-Shop, Stud-DailyRewards), `sports/` (Basketball, Boxing, Football menus, loading and main menu), `Icons/` (3D outline icon set).
+**In-repo references:** `visual-refs/studs-ui/` (Stud-GUI-1/2/4/5, Stud-Buttons, Stud-Shop, Stud-DailyRewards), `visual-refs/sports/` (Basketball, Boxing, Football menus, loading and main menu), `visual-refs/icons/` (3D outline icon set).
 
 > **Pictures.** Each style has its own folder with a README. 30 folders contain downloaded preview images (credited in [IMAGE-CREDITS.md](IMAGE-CREDITS.md)). The rest list searches and in-repo references only.
 
@@ -47,7 +47,7 @@ Common recipe pieces: `UICorner`, `UIStroke`, `UIGradient` (R1), `UIListLayout`/
 
 ## A. Stud & Block families (1-8)
 
-1. [**Classic Stud GUI.**](01-classic-stud-gui/) Bright flat panel with a subtle round-stud pattern, chunky dark outline. Palette `#2B90FF #FFD23F #1B1B2F`. Recipe: Frame + tiled stud ImageLabel at 6-12% opacity, UIStroke 3-4px, UICorner 10. Best: simulators, tycoons. Refs: R3 R5 R6 R7, in-repo `studs-ui/`.
+1. [**Classic Stud GUI.**](01-classic-stud-gui/) Bright flat panel with a subtle round-stud pattern, chunky dark outline. Palette `#2B90FF #FFD23F #1B1B2F`. Recipe: Frame + tiled stud ImageLabel at 6-12% opacity, UIStroke 3-4px, UICorner 10. Best: simulators, tycoons. Refs: R3 R5 R6 R7, in-repo `visual-refs/studs-ui/`.
 2. [**Clean Stud (minimal).**](02-clean-stud-minimal/) Studs only on header or buttons, large flat body. Palette `#FFFFFF #3AA0FF #20263A`. Refs: R6 R7.
 3. [**Ultimate Studded.**](03-ultimate-studded/) Dense studs on every container, bevel highlights. Recipe: two-layer stud image, top-light UIGradient. Refs: R8.
 4. [**Stud Candy.**](04-stud-candy/) Studs plus saturated candy colours and a glossy highlight strip. Palette `#FF5FA2 #7C5CFF #FFE066`. Refs: R4 R13.
@@ -62,27 +62,27 @@ Common recipe pieces: `UICorner`, `UIStroke`, `UIGradient` (R1), `UIListLayout`/
 10. [**Chunky Candy Buttons.**](10-chunky-candy-buttons/) Two-tone button with a darker "lip" duplicate offset 6px below. Refs: R9 R13.
 11. [**Glossy Bubble.**](11-glossy-bubble/) White highlight ellipse on the upper third, drop shadow below. Refs: R13.
 12. [**Hit-Game Layout (original art).**](12-hit-game-layout-original-art/) Borrow the structure seen in hit simulators (tab column, centre grid, detail panel) but never their assets. Refs: R16, S.
-13. [**Pet-Collector Grid.**](13-pet-collector-grid/) Rarity-coloured cards in a UIGridLayout, egg/pet icons, index tab. Recipe: card Frame with rarity-coloured UIStroke. Refs: R10 R15, in-repo `Icons/`.
+13. [**Pet-Collector Grid.**](13-pet-collector-grid/) Rarity-coloured cards in a UIGridLayout, egg/pet icons, index tab. Recipe: card Frame with rarity-coloured UIStroke. Refs: R10 R15, in-repo `visual-refs/icons/`.
 14. [**Rebirth/Prestige Panel.**](14-rebirth-prestige-panel/) Big central button, multiplier counter, glowing aura. Refs: R4.
-15. [**Daily Reward Calendar.**](15-daily-reward-calendar/) 7/30-day grid with claimed, today and locked states. Refs: R10, in-repo `studs-ui/Stud-DailyRewards.png`, calendar icons.
+15. [**Daily Reward Calendar.**](15-daily-reward-calendar/) 7/30-day grid with claimed, today and locked states. Refs: R10, in-repo `visual-refs/studs-ui/Stud-DailyRewards.png`, calendar icons.
 16. [**Garden/Farm Cozy.**](16-garden-farm-cozy/) Warm greens, wood trim, leaf motifs. Palette `#7BC65A #C9965A #FFF4D6`. Refs: R15.
 17. [**Tycoon Cash HUD.**](17-tycoon-cash-hud/) Large money counter with coin icon, "+$" floaters. Refs: R3 R4.
 18. [**Idle/Clicker Orb.**](18-idle-clicker-orb/) Central tap target, ring progress, upgrade list below. Refs: R9, S.
-19. [**Gacha/Egg Hatch.**](19-gacha-egg-hatch/) Dim full-screen, egg shake, rarity-burst reveal card. Refs: R10, in-repo `Icons/Basic Egg`.
+19. [**Gacha/Egg Hatch.**](19-gacha-egg-hatch/) Dim full-screen, egg shake, rarity-burst reveal card. Refs: R10, in-repo `visual-refs/icons/Basic Egg`.
 20. [**Obby Checkpoint Bar.**](20-obby-checkpoint-bar/) Thin top stage bar, stage number, skip-purchase button. Refs: R3, S.
 
 ## C. Fantasy / RPG (21-30)
 
 21. [**Glowing Fantasy.**](21-glowing-fantasy/) Dark violet panels, gold filigree, glowing rarity borders. Palette `#1B1030 #D4AF37 #8E5CFF`. Refs: R11.
 22. [**Modern Medieval.**](22-modern-medieval/) Parchment and iron, rarity labels, equip/sell buttons. Refs: R12.
-23. [**Parchment Scroll.**](23-parchment-scroll/) Aged paper, serif font, wax-seal buttons. Refs: in-repo `Icons/Scroll`, S.
+23. [**Parchment Scroll.**](23-parchment-scroll/) Aged paper, serif font, wax-seal buttons. Refs: in-repo `visual-refs/icons/Scroll`, S.
 24. [**Stone Dungeon.**](24-stone-dungeon/) Rough grey slabs, torch-orange accents. Refs: S, R16.
 25. [**Elven Nature.**](25-elven-nature/) Vines, leaf corners, soft green glow. Refs: S.
 26. [**Souls-like Minimal.**](26-souls-like-minimal/) Thin bars, desaturated, no outlines, serif text. Refs: R16.
 27. [**Anime RPG Sidebar.**](27-anime-rpg-sidebar/) Left icon menu, right info panel, diagonal cuts. Palette `#0F1226 #FF4D6D #FFFFFF`. Refs: S.
 28. [**Gacha Character Cards.**](28-gacha-character-cards/) Tall cards with star rows and elemental badges. Refs: R16, S.
 29. [**Skill Tree Web.**](29-skill-tree-web/) Node-and-line canvas, locked/unlocked glow. Refs: R16.
-30. [**Quest Journal.**](30-quest-journal/) Book layout with tabs and ribbon bookmarks. Refs: in-repo `Icons/Book`, S.
+30. [**Quest Journal.**](30-quest-journal/) Book layout with tabs and ribbon bookmarks. Refs: in-repo `visual-refs/icons/Book`, S.
 
 ## D. Sci-Fi / Tech (31-40)
 
@@ -132,14 +132,14 @@ Common recipe pieces: `UICorner`, `UIStroke`, `UIGradient` (R1), `UIListLayout`/
 
 ## H. Genre-specific (65-72)
 
-65. [**Sports Broadcast.**](65-sports-broadcast/) Scoreboard bars, team colours, slanted ribbons. Refs: in-repo `sports/` (Basketball, Boxing, Football, Main Menu, Loading Screen).
+65. [**Sports Broadcast.**](65-sports-broadcast/) Scoreboard bars, team colours, slanted ribbons. Refs: in-repo `visual-refs/sports/` (Basketball, Boxing, Football, Main Menu, Loading Screen).
 66. [**Fighting Game.**](66-fighting-game/) Big health bars with timer, combo counter, VS screen. Refs: R16.
 67. [**Shooter Tactical HUD.**](67-shooter-tactical-hud/) Ammo counter, compass strip, hitmarkers. Refs: R16.
 68. [**Racing Dashboard.**](68-racing-dashboard/) As #40 plus a lap/position tower. Refs: R16.
 69. [**Roleplay Town.**](69-roleplay-town/) Phone-style app grid, chat bubbles, pastel. Refs: S.
 70. [**Tower Defense.**](70-tower-defense/) Bottom tower bar with costs, wave banner, lives top-right. Refs: R16.
 71. [**Horror Co-op Lobby.**](71-horror-co-op-lobby/) Vote cards, ready ticks, ominous palette. Refs: S.
-72. [**Holiday/Seasonal.**](72-holiday-seasonal/) Snowflakes, candy-cane borders, calendar. Refs: in-repo `Icons/` (Christmas Tree, Snowman, Candy Cane, Snowflake).
+72. [**Holiday/Seasonal.**](72-holiday-seasonal/) Snowflakes, candy-cane borders, calendar. Refs: in-repo `visual-refs/icons/` (Christmas Tree, Snowman, Candy Cane, Snowflake).
 
 
 ## More styles (73-112)

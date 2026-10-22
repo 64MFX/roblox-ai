@@ -1,6 +1,6 @@
 # 19. Gacha/Egg Hatch
 
-Dim full-screen, egg shake, rarity-burst reveal card. Refs: R10, in-repo `Icons/Basic Egg`.
+Dim full-screen, egg shake, rarity-burst reveal card. Refs: R10, in-repo `visual-refs/icons/Basic Egg`.
 
 Back to the [style catalog](../GUI-STYLES.md).
 
@@ -9,7 +9,7 @@ Back to the [style catalog](../GUI-STYLES.md).
 _No verified reference image was found for this style yet._ Use the searches below, and add images here with a source link.
 
 ## In this repo
-See the [`Icons/`](../../Icons/) folder.
+See the [`visual-refs/icons/`](../../visual-refs/icons/) folder.
 
 ## More previews (itch.io top results, credited)
 

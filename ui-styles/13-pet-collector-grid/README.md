@@ -1,6 +1,6 @@
 # 13. Pet-Collector Grid
 
-Rarity-coloured cards in a UIGridLayout, egg/pet icons, index tab. Recipe: card Frame with rarity-coloured UIStroke. Refs: R10 R15, in-repo `Icons/`.
+Rarity-coloured cards in a UIGridLayout, egg/pet icons, index tab. Recipe: card Frame with rarity-coloured UIStroke. Refs: R10 R15, in-repo `visual-refs/icons/`.
 
 Back to the [style catalog](../GUI-STYLES.md).
 
@@ -11,7 +11,7 @@ Back to the [style catalog](../GUI-STYLES.md).
 *Cute Cartoony UI Pack* by Coffee Beans Studio, [source page](https://coffee-beans-studio.itch.io/casual-game-ui-pack-icons-buttons). Resized preview, all rights with the creator.
 
 ## In this repo
-See the [`Icons/`](../../Icons/) folder.
+See the [`visual-refs/icons/`](../../visual-refs/icons/) folder.
 
 ## More previews (itch.io top results, credited)
 

@@ -23,10 +23,10 @@ A curated collection of Roblox UI references for Claude Code, Codex, and other A
 | [`thumbnails/`](thumbnails/README.md) | 30 Roblox game research links + [30 thumbnail composition briefs](thumbnails/EXTRA-REFERENCES.md) | 30 links + 30 briefs |
 | [`logos/`](logos/README.md) | 30 Roblox game research links + [30 icon directions](logos/EXTRA-REFERENCES.md) | 30 links + 30 briefs |
 | [`libraries.md`](libraries.md) | Open-source libraries, plugins, asset sources | |
-| [`studs-ui/`](studs-ui/README.md) | Visual references; 7 existing PNGs and 9 sourced external creator projects | |
-| `sports/` | Sports game UI screenshots (basketball, boxing, football, loading screen, main menu) | 5 images |
-| `Icons/` | Outline icon set (256px PNGs: calendars, bag, egg, book, candy cane and more) | 31 files |
-| [`Animation-Refs/`](Animation-Refs/STYLE-BRIEFS.md) | Animation reference videos (basketball, battle, cutscene, fighting, tough animation) + [33 style briefs](Animation-Refs/STYLE-BRIEFS.md) (anime/battlegrounds, cartoony, egg hatch, box opening, sports, cutscene) + [reference links](Animation-Refs/LINKS.md) | 5 MP4s + 33 briefs |
+| [`visual-refs/studs-ui/`](visual-refs/studs-ui/README.md) | Visual references; 7 existing PNGs and 9 sourced external creator projects | |
+| `visual-refs/sports/` | Sports game UI screenshots (basketball, boxing, football, loading screen, main menu) | 5 images |
+| `visual-refs/icons/` | Outline icon set (256px PNGs: calendars, bag, egg, book, candy cane and more) | 31 files |
+| [`visual-refs/animation-refs/`](visual-refs/animation-refs/STYLE-BRIEFS.md) | Animation reference videos (basketball, battle, cutscene, fighting, tough animation) + [33 style briefs](visual-refs/animation-refs/STYLE-BRIEFS.md) (anime/battlegrounds, cartoony, egg hatch, box opening, sports, cutscene) + [reference links](visual-refs/animation-refs/LINKS.md) | 5 MP4s + 33 briefs |
 
 About 124 more images sit inside the entry folders, credited in [ui-styles/IMAGE-CREDITS.md](ui-styles/IMAGE-CREDITS.md) and [previews/CREDITS.md](previews/CREDITS.md).
 

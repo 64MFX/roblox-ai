@@ -2,7 +2,7 @@
 
 > **Honesty note.** Researched 2026-10-20. Pictures are preview images from public itch.io listings (credits in the root `IMAGE-CREDITS.md` and on each page). Recipes come from general Roblox knowledge and linked DevForum threads, and have **not** been tested in Studio. Many DevForum answers are older, so verify against the current API.
 
-Camera, cinematic and dialogue patterns. Your own reference video: [`Animation-Refs/CutScene.mp4`](../Animation-Refs/CutScene.mp4).
+Camera, cinematic and dialogue patterns. Your own reference video: [`visual-refs/animation-refs/CutScene.mp4`](../visual-refs/animation-refs/CutScene.mp4).
 
 
 

@@ -8,7 +8,7 @@
    "number": 1,
    "name": "Classic Stud GUI",
    "path": "ui-styles/01-classic-stud-gui/",
-   "description": "Bright flat panel with a subtle round-stud pattern, chunky dark outline. Palette `#2B90FF #FFD23F #1B1B2F`. Recipe: Frame + tiled stud ImageLabel at 6-12% opacity, UIStroke 3-4px, UICorner 10. Best: simulators, tycoons. Refs: R3 R5 R6 R7, in-repo `studs-ui/`.",
+   "description": "Bright flat panel with a subtle round-stud pattern, chunky dark outline. Palette `#2B90FF #FFD23F #1B1B2F`. Recipe: Frame + tiled stud ImageLabel at 6-12% opacity, UIStroke 3-4px, UICorner 10. Best: simulators, tycoons. Refs: R3 R5 R6 R7, in-repo `visual-refs/studs-ui/`.",
    "roblox_recipe": "",
    "local_images": [],
    "preview_galleries": [
@@ -446,7 +446,7 @@
    "number": 13,
    "name": "Pet-Collector Grid",
    "path": "ui-styles/13-pet-collector-grid/",
-   "description": "Rarity-coloured cards in a UIGridLayout, egg/pet icons, index tab. Recipe: card Frame with rarity-coloured UIStroke. Refs: R10 R15, in-repo `Icons/`.",
+   "description": "Rarity-coloured cards in a UIGridLayout, egg/pet icons, index tab. Recipe: card Frame with rarity-coloured UIStroke. Refs: R10 R15, in-repo `visual-refs/icons/`.",
    "roblox_recipe": "",
    "local_images": [
     "ui-styles/13-pet-collector-grid/cute-cartoony-1.png"
@@ -481,7 +481,7 @@
    "number": 15,
    "name": "Daily Reward Calendar",
    "path": "ui-styles/15-daily-reward-calendar/",
-   "description": "7/30-day grid with claimed, today and locked states. Refs: R10, in-repo `studs-ui/Stud-DailyRewards.png`, calendar icons.",
+   "description": "7/30-day grid with claimed, today and locked states. Refs: R10, in-repo `visual-refs/studs-ui/Stud-DailyRewards.png`, calendar icons.",
    "roblox_recipe": "",
    "local_images": [],
    "preview_galleries": [
@@ -556,7 +556,7 @@
    "number": 19,
    "name": "Gacha/Egg Hatch",
    "path": "ui-styles/19-gacha-egg-hatch/",
-   "description": "Dim full-screen, egg shake, rarity-burst reveal card. Refs: R10, in-repo `Icons/Basic Egg`.",
+   "description": "Dim full-screen, egg shake, rarity-burst reveal card. Refs: R10, in-repo `visual-refs/icons/Basic Egg`.",
    "roblox_recipe": "",
    "local_images": [],
    "preview_galleries": [
@@ -625,7 +625,7 @@
    "number": 23,
    "name": "Parchment Scroll",
    "path": "ui-styles/23-parchment-scroll/",
-   "description": "Aged paper, serif font, wax-seal buttons. Refs: in-repo `Icons/Scroll`, S.",
+   "description": "Aged paper, serif font, wax-seal buttons. Refs: in-repo `visual-refs/icons/Scroll`, S.",
    "roblox_recipe": "",
    "local_images": [
     "ui-styles/23-parchment-scroll/medieval-majesty-1.png",
@@ -747,7 +747,7 @@
    "number": 30,
    "name": "Quest Journal",
    "path": "ui-styles/30-quest-journal/",
-   "description": "Book layout with tabs and ribbon bookmarks. Refs: in-repo `Icons/Book`, S.",
+   "description": "Book layout with tabs and ribbon bookmarks. Refs: in-repo `visual-refs/icons/Book`, S.",
    "roblox_recipe": "",
    "local_images": [],
    "preview_galleries": [
@@ -1384,7 +1384,7 @@
    "number": 65,
    "name": "Sports Broadcast",
    "path": "ui-styles/65-sports-broadcast/",
-   "description": "Scoreboard bars, team colours, slanted ribbons. Refs: in-repo `sports/` (Basketball, Boxing, Football, Main Menu, Loading Screen).",
+   "description": "Scoreboard bars, team colours, slanted ribbons. Refs: in-repo `visual-refs/sports/` (Basketball, Boxing, Football, Main Menu, Loading Screen).",
    "roblox_recipe": "",
    "local_images": [],
    "preview_galleries": [],
@@ -1507,7 +1507,7 @@
    "number": 72,
    "name": "Holiday/Seasonal",
    "path": "ui-styles/72-holiday-seasonal/",
-   "description": "Snowflakes, candy-cane borders, calendar. Refs: in-repo `Icons/` (Christmas Tree, Snowman, Candy Cane, Snowflake).",
+   "description": "Snowflakes, candy-cane borders, calendar. Refs: in-repo `visual-refs/icons/` (Christmas Tree, Snowman, Candy Cane, Snowflake).",
    "roblox_recipe": "",
    "local_images": [],
    "preview_galleries": [],

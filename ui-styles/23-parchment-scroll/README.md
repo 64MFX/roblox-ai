@@ -1,6 +1,6 @@
 # 23. Parchment Scroll
 
-Aged paper, serif font, wax-seal buttons. Refs: in-repo `Icons/Scroll`, S.
+Aged paper, serif font, wax-seal buttons. Refs: in-repo `visual-refs/icons/Scroll`, S.
 
 Back to the [style catalog](../GUI-STYLES.md).
 
@@ -19,7 +19,7 @@ Back to the [style catalog](../GUI-STYLES.md).
 *Medieval Majesty GUI* by Finnmercury, [source page](https://finnmercury.itch.io/medieval-majesty). Resized preview, all rights with the creator.
 
 ## In this repo
-See the [`Icons/`](../../Icons/) folder.
+See the [`visual-refs/icons/`](../../visual-refs/icons/) folder.
 
 ## More previews (itch.io top results, credited)
 

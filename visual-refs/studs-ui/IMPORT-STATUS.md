@@ -12,7 +12,7 @@
 ## How to import a real reference
 
 1. Get explicit permission from the author to **redistribute the screenshot in a public GitHub repo**, or locate an applicable licence allowing it.
-2. Save an actual PNG image in `studs-ui/creator-references/`; no recreated SVGs or invented screenshots.
+2. Save an actual PNG image in `visual-refs/studs-ui/creator-references/`; no recreated SVGs or invented screenshots.
 3. Add a manifest entry with `filename`, `title`, `creator`, `source_url`, `license_or_permission`, `permission_url_or_evidence`, and `import_date`.
 4. Verify the screenshot is genuine and files display correctly. Do not label links as imported PNGs.
 

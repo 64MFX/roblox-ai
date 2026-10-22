@@ -1,6 +1,6 @@
 # 65. Sports Broadcast
 
-Scoreboard bars, team colours, slanted ribbons. Refs: in-repo `sports/` (Basketball, Boxing, Football, Main Menu, Loading Screen).
+Scoreboard bars, team colours, slanted ribbons. Refs: in-repo `visual-refs/sports/` (Basketball, Boxing, Football, Main Menu, Loading Screen).
 
 Back to the [style catalog](../GUI-STYLES.md).
 
@@ -9,7 +9,7 @@ Back to the [style catalog](../GUI-STYLES.md).
 _No verified reference image was found for this style yet._ Use the searches below, and add images here with a source link.
 
 ## In this repo
-See the [`sports/`](../../sports/) folder.
+See the [`visual-refs/sports/`](../../visual-refs/sports/) folder.
 
 ## Find more references
 
