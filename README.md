@@ -6,6 +6,7 @@
 A curated collection of Roblox UI references for Claude Code, Codex, and other AI coding assistants to study and use as design inspiration
 
 ## Start here
+- **Website:** open [index.html](index.html) (a searchable site over [index.json](index.json); live at https://izzyfrm.github.io/roblox-ai/ once GitHub Pages is on).
 - **AI assistants:** read [AI-GUIDE.md](AI-GUIDE.md). Everything is indexed in [INDEX.md](INDEX.md) and [index.json](index.json).
 - **Humans:** browse the catalogs below.
 
