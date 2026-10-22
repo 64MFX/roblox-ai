@@ -1,10 +1,11 @@
 # Studs ui
 
-55 images in this folder and its subfolders.
+377 images in this folder and its subfolders.
 
 | Folder | Images |
 |---|---:|
 | [Original](original/README.md) | 48 |
+| [Simulator games](simulator-games/README.md) | 322 |
 
 ## Images
 
