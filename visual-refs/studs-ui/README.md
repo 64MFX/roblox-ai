@@ -1,6 +1,10 @@
 # Studs ui
 
-7 images in this folder.
+55 images in this folder and its subfolders.
+
+| Folder | Images |
+|---|---:|
+| [Original](original/README.md) | 48 |
 
 ## Images
 

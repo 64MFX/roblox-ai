@@ -2,7 +2,7 @@
 
 A folder of **image references** for Roblox UI, VFX, animation and game art.
 
-**5,515 images** and 5 short reference clips, sorted by topic:
+**5,563 images** and 5 short reference clips, sorted by topic:
 
 | Folder | What is in it | Images |
 |---|---|---:|
