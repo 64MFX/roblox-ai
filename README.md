@@ -24,6 +24,7 @@ A curated collection of Roblox UI references for Claude Code, Codex, and other A
 | [`thumbnails/`](thumbnails/README.md) | 30 Roblox game research links + [30 thumbnail composition briefs](thumbnails/EXTRA-REFERENCES.md) | 30 links + 30 briefs |
 | [`logos/`](logos/README.md) | 30 Roblox game research links + [30 icon directions](logos/EXTRA-REFERENCES.md) | 30 links + 30 briefs |
 | [`libraries.md`](libraries.md) | Open-source libraries, plugins, asset sources | |
+| [`resources/`](resources/README.md) | 116 link-checked external resources: tooling, libraries, official docs, AI tools, learning, design, audio, 3D, game design | 116 links |
 | [`visual-refs/studs-ui/`](visual-refs/studs-ui/README.md) | Visual references; 7 existing PNGs and 9 sourced external creator projects | |
 | `visual-refs/sports/` | Sports game UI screenshots (basketball, boxing, football, loading screen, main menu) | 5 images |
 | `visual-refs/icons/` | Outline icon set (256px PNGs: calendars, bag, egg, book, candy cane and more) | 31 files |
