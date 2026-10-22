@@ -1,52 +1,25 @@
 # roblox stuff for your ai
 
-**Over 18,000 references for your AI** — 4,357 GitHub repos, 13,073 DevForum topics, visual previews, Roblox UI patterns, thumbnail and logo briefs, animations, cutscenes, VFX, SFX, and tested-status-labelled coding examples for Claude Code, Codex, and other AI assistants.
+A folder of **image references** for Roblox UI, VFX, animation and game art. Just pictures, no code, no scripts, no links to stores.
 
-> **Count methodology:** 707 existing preview images + 112 existing GUI styles + 33 animation patterns + 18 cutscenes + 36 VFX patterns + 54 SFX patterns + 23 cookbook scripts + **195 newly added original design briefs** = **1,178 category entries/assets**. These categories count different types of items; this is not 1,178 unique PNGs. Other official-document references are excluded from this subtotal. Existing category counts are taken from their repository catalog summaries, not a full independent asset audit. Check artwork licenses before reuse.
->
-> **Total (2026-10-21):** 1,178 category entries + 33 animation style briefs + 116 link-checked resources + 4,357 GitHub repositories + 13,073 DevForum topics = **18,757 references**. The GitHub and DevForum rows are listings harvested from public APIs (see [resources/](resources/README.md)), not tested or vetted, and some repos are off-topic. Counts are snapshots.
-A curated collection of Roblox UI references for Claude Code, Codex, and other AI coding assistants to study and use as design inspiration
+**890 images** and 5 short reference clips, sorted by topic:
 
-## Start here
-- **AI assistants:** read [AI-GUIDE.md](AI-GUIDE.md). Everything is indexed in [INDEX.md](INDEX.md) and [index.json](index.json).
-- **Humans:** browse the catalogs below.
+| Folder | What is in it | Images |
+|---|---|---:|
+| `previews/` | Cover images grouped by tag (UI styles, effects, animation, cinematic, icons and more) | 707 |
+| `ui-styles/` | Example pictures for GUI styles | 69 |
+| `visual-refs/` | Icons, sports UI, stud-style GUIs, animation reference clips | 43 |
+| `vfx/` | Effect references | 28 |
+| `animations/` | Animation references | 13 |
+| `sfx/` | Sound-related references | 10 |
+| `logos/` | Icon and logo references | 8 |
+| `thumbnails/` | Game thumbnail references | 8 |
+| `cutscenes/` | Cutscene references | 4 |
 
-## Contents
-| Path | What | Size |
-|---|---|---|
-| [`ui-styles/`](ui-styles/GUI-STYLES.md) | GUI styles, one folder each, with palettes and recipes; [40 extra UI briefs](ui-styles/EXTRA-REFERENCES.md) | 112 styles + 40 briefs |
-| [`animations/`](animations/ANIMATIONS.md) | Animation patterns + [25 extra animation briefs](animations/EXTRA-REFERENCES.md) | 33 + 25 |
-| [`cutscenes/`](cutscenes/CUTSCENES.md) | Camera and dialogue patterns + [20 extra scene briefs](cutscenes/EXTRA-REFERENCES.md) | 18 + 20 |
-| [`vfx/`](vfx/VFX.md) | VFX patterns + [25 extra effect briefs](vfx/EXTRA-REFERENCES.md) | 36 + 25 |
-| [`sfx/`](sfx/SFX.md) | Audio patterns + [25 extra sound briefs](sfx/EXTRA-REFERENCES.md) | 54 + 25 |
-| [`cookbook/`](cookbook/README.md) | Small Luau modules, compile-checked in Studio 0.743 | 23 scripts |
-| [`official-docs/`](official-docs/README.md) | Roblox creator-docs subset (CC BY 4.0): guides plus class, data type and enum reference | 89 guides, 114 classes |
-| [`previews/`](previews/README.md) | Credited itch.io cover galleries by tag | 61 galleries, 707 images |
-| [`thumbnails/`](thumbnails/README.md) | 30 Roblox game research links + [30 thumbnail composition briefs](thumbnails/EXTRA-REFERENCES.md) | 30 links + 30 briefs |
-| [`logos/`](logos/README.md) | 30 Roblox game research links + [30 icon directions](logos/EXTRA-REFERENCES.md) | 30 links + 30 briefs |
-| [`libraries.md`](libraries.md) | Open-source libraries, plugins, asset sources | |
-| [`resources/`](resources/README.md) | 116 link-checked links plus catalogs of 4,357 GitHub repos and 13,073 DevForum topics (17,546 references) | 17,546 |
-| [`visual-refs/studs-ui/`](visual-refs/studs-ui/README.md) | Visual references; 7 existing PNGs and 9 sourced external creator projects | |
-| `visual-refs/sports/` | Sports game UI screenshots (basketball, boxing, football, loading screen, main menu) | 5 images |
-| `visual-refs/icons/` | Outline icon set (256px PNGs: calendars, bag, egg, book, candy cane and more) | 31 files |
-| [`visual-refs/animation-refs/`](visual-refs/animation-refs/STYLE-BRIEFS.md) | Animation reference videos (basketball, battle, cutscene, fighting, tough animation) + [33 style briefs](visual-refs/animation-refs/STYLE-BRIEFS.md) (anime/battlegrounds, cartoony, egg hatch, box opening, sports, cutscene) + [reference links](visual-refs/animation-refs/LINKS.md) | 5 MP4s + 33 briefs |
-
-About 124 more images sit inside the entry folders, credited in [ui-styles/IMAGE-CREDITS.md](ui-styles/IMAGE-CREDITS.md) and [previews/CREDITS.md](previews/CREDITS.md).
-
-## What to trust
-- `official-docs/` is Roblox's own documentation and is the authority on API names and behaviour.
-- `cookbook/` scripts were compiled in Roblox Studio and most were run against unparented instances; none were checked in a live game, and visuals/audio were not judged.
-- Style descriptions, palettes and recipes outside the cookbook are synthesis from general knowledge and linked sources, and are **not tested**.
-- Pictures are previews owned by their creators (itch.io listings), used as references. Check licences before using any asset.
-- No links to stores or paid UI packs: the references are the image files in this repo, and creator names are credited as plain text. Marketplace links (itch.io, BuiltByBit and similar) were removed on 2026-10-21 after a report.
-
-## Roblox image references
-
-- [Thumbnail catalog](thumbnails/README.md) and [logo catalog](logos/README.md) list Roblox experiences for visual research.
-- [PNG downloader](scripts/fetch_roblox_images.py) is configured for 27 Roblox experiences, fetches their public artwork, and records source game links in `roblox-image-manifest.json` when run.
-- [GitHub Actions workflow](.github/workflows/fetch-roblox-references.yml) is configured to download and commit PNG files. **Downloaded PNGs are not included in the reference total unless actually present in this repository.**
-- Artwork is owned by its respective creators; do not assume reuse rights merely because a public thumbnail is accessible.
-
+## Notes
+- Pictures belong to their creators and are here as references only. Check the creator licence before using any artwork in a game.
+- Earlier versions of this repo had markdown catalogs, Luau examples and link lists. They were removed on 2026-10-22 so the repo is only images. They remain in the git history.
+- Per-image credits lived in the removed `previews/CREDITS.md` and `ui-styles/IMAGE-CREDITS.md`; see the git history for those files.
 
 ## Star History
 
