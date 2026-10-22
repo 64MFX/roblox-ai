@@ -1,8 +1,10 @@
 # roblox stuff for your ai
 
-**Over 1,000 reference items for your AI** — visual previews, Roblox UI patterns, thumbnail and logo briefs, animations, cutscenes, VFX, SFX, and tested-status-labelled coding examples for Claude Code, Codex, and other AI assistants.
+**Over 19,000 references for your AI** — 5,086 GitHub repos, 13,076 DevForum topics, visual previews, Roblox UI patterns, thumbnail and logo briefs, animations, cutscenes, VFX, SFX, and tested-status-labelled coding examples for Claude Code, Codex, and other AI assistants.
 
 > **Count methodology:** 707 existing preview images + 112 existing GUI styles + 33 animation patterns + 18 cutscenes + 36 VFX patterns + 54 SFX patterns + 23 cookbook scripts + **195 newly added original design briefs** = **1,178 category entries/assets**. These categories count different types of items; this is not 1,178 unique PNGs. Other official-document references are excluded from this subtotal. Existing category counts are taken from their repository catalog summaries, not a full independent asset audit. Check artwork licenses before reuse.
+>
+> **Total (2026-10-21):** 1,178 category entries + 33 animation style briefs + 116 link-checked resources + 5,086 GitHub repositories + 13,076 DevForum topics = **19,489 references**. The GitHub and DevForum rows are listings harvested from public APIs (see [resources/](resources/README.md)), not tested or vetted, and some repos are off-topic. Counts are snapshots.
 A curated collection of Roblox UI references for Claude Code, Codex, and other AI coding assistants to study and use as design inspiration
 
 ## Start here
