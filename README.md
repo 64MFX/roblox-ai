@@ -2,11 +2,11 @@
 
 A folder of **image references** for Roblox UI, VFX, animation and game art.
 
-**4,742 images** and 5 short reference clips, sorted by topic:
+**4,913 images** and 5 short reference clips, sorted by topic:
 
 | Folder | What is in it | Images |
 |---|---|---:|
-| `style-refs/` | Pictures grouped by style: Studs, Sports, Cartoon, Simulator, Speed, Horror, Fantasy, Sci-fi, Pixel and input prompts (original mockups plus CC0 Kenney contact sheets) | 122 |
+| `style-refs/` | Pictures grouped by 25 styles (Studs, Sports, Cartoon, Simulator, Speed, Horror, Anime, Medieval, Cyberpunk, Kawaii, Pirate, Space, Candy, Western, Tycoon, Tower defense, Survival, Glass, Dark pro, Retro pixel, Winter and more): nine original mockups per style plus CC0 Kenney contact sheets | 293 |
 | `roblox-docs/` | Screenshots from the official Roblox creator docs, CC BY 4.0, in 31 topic folders (UI, animation, lighting and effects, modeling, art, tutorials, game design, monetization, publishing, Studio, avatar and more); each folder has a README listing its images | 3,730 |
 | `previews/` | Cover images grouped by tag (UI styles, effects, animation, cinematic, icons and more) | 707 |
 | `ui-styles/` | Example pictures for GUI styles | 69 |
