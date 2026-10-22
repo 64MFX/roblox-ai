@@ -5084,6 +5084,1978 @@
    "name": "Viewport frames",
    "path": "official-docs/guides/ui/viewport-frames.md",
    "description": "ViewportFrames use a camera to render 3D objects into a 2D viewport."
+  },
+  {
+   "id": "res-001",
+   "area": "resource",
+   "number": 1,
+   "name": "Luau",
+   "path": "resources/tooling-and-workflow.md",
+   "description": "Roblox's typed Luau language: syntax, type checking, performance guides.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://luau.org/"
+   ],
+   "tags": [
+    "Tooling and workflow"
+   ]
+  },
+  {
+   "id": "res-002",
+   "area": "resource",
+   "number": 2,
+   "name": "Luau on GitHub",
+   "path": "resources/tooling-and-workflow.md",
+   "description": "Language implementation and issue tracker.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/luau-lang/luau"
+   ],
+   "tags": [
+    "Tooling and workflow"
+   ]
+  },
+  {
+   "id": "res-003",
+   "area": "resource",
+   "number": 3,
+   "name": "Rojo",
+   "path": "resources/tooling-and-workflow.md",
+   "description": "Sync a filesystem project into Roblox Studio so you can use Git and external editors.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://rojo.space/"
+   ],
+   "tags": [
+    "Tooling and workflow"
+   ]
+  },
+  {
+   "id": "res-004",
+   "area": "resource",
+   "number": 4,
+   "name": "Rojo (GitHub)",
+   "path": "resources/tooling-and-workflow.md",
+   "description": "Source, releases and docs.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/rojo-rbx/rojo"
+   ],
+   "tags": [
+    "Tooling and workflow"
+   ]
+  },
+  {
+   "id": "res-005",
+   "area": "resource",
+   "number": 5,
+   "name": "Wally",
+   "path": "resources/tooling-and-workflow.md",
+   "description": "Package manager for Roblox.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/UpliftGames/wally"
+   ],
+   "tags": [
+    "Tooling and workflow"
+   ]
+  },
+  {
+   "id": "res-006",
+   "area": "resource",
+   "number": 6,
+   "name": "Rokit",
+   "path": "resources/tooling-and-workflow.md",
+   "description": "Toolchain manager for Roblox tools (Rojo, Wally, StyLua and more).",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/rojo-rbx/rokit"
+   ],
+   "tags": [
+    "Tooling and workflow"
+   ]
+  },
+  {
+   "id": "res-007",
+   "area": "resource",
+   "number": 7,
+   "name": "Aftman",
+   "path": "resources/tooling-and-workflow.md",
+   "description": "Earlier toolchain manager, succeeded by Rokit.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/LPGhatguy/aftman"
+   ],
+   "tags": [
+    "Tooling and workflow"
+   ]
+  },
+  {
+   "id": "res-008",
+   "area": "resource",
+   "number": 8,
+   "name": "Foreman",
+   "path": "resources/tooling-and-workflow.md",
+   "description": "Toolchain manager from Roblox.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/Roblox/foreman"
+   ],
+   "tags": [
+    "Tooling and workflow"
+   ]
+  },
+  {
+   "id": "res-009",
+   "area": "resource",
+   "number": 9,
+   "name": "StyLua",
+   "path": "resources/tooling-and-workflow.md",
+   "description": "Opinionated Luau code formatter.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/JohnnyMorganz/StyLua"
+   ],
+   "tags": [
+    "Tooling and workflow"
+   ]
+  },
+  {
+   "id": "res-010",
+   "area": "resource",
+   "number": 10,
+   "name": "Selene",
+   "path": "resources/tooling-and-workflow.md",
+   "description": "Luau linter.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/Kampfkarren/selene"
+   ],
+   "tags": [
+    "Tooling and workflow"
+   ]
+  },
+  {
+   "id": "res-011",
+   "area": "resource",
+   "number": 11,
+   "name": "luau-lsp",
+   "path": "resources/tooling-and-workflow.md",
+   "description": "Language server for Luau with Roblox type definitions; works in VS Code and other editors.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/JohnnyMorganz/luau-lsp"
+   ],
+   "tags": [
+    "Tooling and workflow"
+   ]
+  },
+  {
+   "id": "res-012",
+   "area": "resource",
+   "number": 12,
+   "name": "Lune",
+   "path": "resources/tooling-and-workflow.md",
+   "description": "Standalone Luau runtime for scripts and tooling outside Roblox.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/lune-org/lune"
+   ],
+   "tags": [
+    "Tooling and workflow"
+   ]
+  },
+  {
+   "id": "res-013",
+   "area": "resource",
+   "number": 13,
+   "name": "Darklua",
+   "path": "resources/tooling-and-workflow.md",
+   "description": "Transforms and bundles Luau code.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/seaofvoices/darklua"
+   ],
+   "tags": [
+    "Tooling and workflow"
+   ]
+  },
+  {
+   "id": "res-014",
+   "area": "resource",
+   "number": 14,
+   "name": "Remodel",
+   "path": "resources/tooling-and-workflow.md",
+   "description": "Scriptable manipulation of Roblox place and model files.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/rojo-rbx/remodel"
+   ],
+   "tags": [
+    "Tooling and workflow"
+   ]
+  },
+  {
+   "id": "res-015",
+   "area": "resource",
+   "number": 15,
+   "name": "Mantle",
+   "path": "resources/tooling-and-workflow.md",
+   "description": "Infrastructure-as-code for Roblox experiences.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/blake-mealey/mantle"
+   ],
+   "tags": [
+    "Tooling and workflow"
+   ]
+  },
+  {
+   "id": "res-016",
+   "area": "resource",
+   "number": 16,
+   "name": "Moonwave",
+   "path": "resources/tooling-and-workflow.md",
+   "description": "Documentation generator for Luau projects.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/evaera/moonwave"
+   ],
+   "tags": [
+    "Tooling and workflow"
+   ]
+  },
+  {
+   "id": "res-017",
+   "area": "resource",
+   "number": 17,
+   "name": "roblox-ts",
+   "path": "resources/tooling-and-workflow.md",
+   "description": "TypeScript-to-Luau compiler.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/roblox-ts/roblox-ts"
+   ],
+   "tags": [
+    "Tooling and workflow"
+   ]
+  },
+  {
+   "id": "res-018",
+   "area": "resource",
+   "number": 18,
+   "name": "roblox-ts site",
+   "path": "resources/tooling-and-workflow.md",
+   "description": "Docs for roblox-ts.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://roblox-ts.com/"
+   ],
+   "tags": [
+    "Tooling and workflow"
+   ]
+  },
+  {
+   "id": "res-019",
+   "area": "resource",
+   "number": 19,
+   "name": "Argon",
+   "path": "resources/tooling-and-workflow.md",
+   "description": "Rojo alternative with its own Studio plugin.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/argon-rbx/argon"
+   ],
+   "tags": [
+    "Tooling and workflow"
+   ]
+  },
+  {
+   "id": "res-020",
+   "area": "resource",
+   "number": 20,
+   "name": "jest-lua",
+   "path": "resources/tooling-and-workflow.md",
+   "description": "Jest port for Luau testing.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/jsdotlua/jest-lua"
+   ],
+   "tags": [
+    "Tooling and workflow"
+   ]
+  },
+  {
+   "id": "res-021",
+   "area": "resource",
+   "number": 21,
+   "name": "TestEZ",
+   "path": "resources/tooling-and-workflow.md",
+   "description": "Roblox's BDD-style testing framework.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/Roblox/testez"
+   ],
+   "tags": [
+    "Tooling and workflow"
+   ]
+  },
+  {
+   "id": "res-022",
+   "area": "resource",
+   "number": 22,
+   "name": "Roblox Studio MCP server",
+   "path": "resources/tooling-and-workflow.md",
+   "description": "Official MCP server that lets AI assistants drive Roblox Studio.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/Roblox/studio-rust-mcp-server"
+   ],
+   "tags": [
+    "Tooling and workflow"
+   ]
+  },
+  {
+   "id": "res-023",
+   "area": "resource",
+   "number": 23,
+   "name": "Knit",
+   "path": "resources/frameworks-and-libraries.md",
+   "description": "Lightweight game framework (archived; read the README for status).",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/Sleitnick/Knit"
+   ],
+   "tags": [
+    "Frameworks and libraries"
+   ]
+  },
+  {
+   "id": "res-024",
+   "area": "resource",
+   "number": 24,
+   "name": "Flamework",
+   "path": "resources/frameworks-and-libraries.md",
+   "description": "Decorator-based framework for roblox-ts.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/rbxts-flamework/core"
+   ],
+   "tags": [
+    "Frameworks and libraries"
+   ]
+  },
+  {
+   "id": "res-025",
+   "area": "resource",
+   "number": 25,
+   "name": "Matter",
+   "path": "resources/frameworks-and-libraries.md",
+   "description": "Entity component system for Roblox.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/matter-ecs/matter"
+   ],
+   "tags": [
+    "Frameworks and libraries"
+   ]
+  },
+  {
+   "id": "res-026",
+   "area": "resource",
+   "number": 26,
+   "name": "Jecs",
+   "path": "resources/frameworks-and-libraries.md",
+   "description": "Fast ECS for Luau.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/Ukendio/jecs"
+   ],
+   "tags": [
+    "Frameworks and libraries"
+   ]
+  },
+  {
+   "id": "res-027",
+   "area": "resource",
+   "number": 27,
+   "name": "Planck",
+   "path": "resources/frameworks-and-libraries.md",
+   "description": "ECS scheduler/plugin system for Luau.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/YetAnotherClown/planck"
+   ],
+   "tags": [
+    "Frameworks and libraries"
+   ]
+  },
+  {
+   "id": "res-028",
+   "area": "resource",
+   "number": 28,
+   "name": "ProfileService",
+   "path": "resources/frameworks-and-libraries.md",
+   "description": "Session-locked DataStore wrapper (older).",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/MadStudioRoblox/ProfileService"
+   ],
+   "tags": [
+    "Frameworks and libraries"
+   ]
+  },
+  {
+   "id": "res-029",
+   "area": "resource",
+   "number": 29,
+   "name": "ProfileStore",
+   "path": "resources/frameworks-and-libraries.md",
+   "description": "Session-locked DataStore wrapper, successor to ProfileService.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/MadStudioRoblox/ProfileStore"
+   ],
+   "tags": [
+    "Frameworks and libraries"
+   ]
+  },
+  {
+   "id": "res-030",
+   "area": "resource",
+   "number": 30,
+   "name": "Lapis",
+   "path": "resources/frameworks-and-libraries.md",
+   "description": "DataStore abstraction with document-style API.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/nezuo/lapis"
+   ],
+   "tags": [
+    "Frameworks and libraries"
+   ]
+  },
+  {
+   "id": "res-031",
+   "area": "resource",
+   "number": 31,
+   "name": "ReplicaService",
+   "path": "resources/frameworks-and-libraries.md",
+   "description": "State replication from server to clients.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/MadStudioRoblox/ReplicaService"
+   ],
+   "tags": [
+    "Frameworks and libraries"
+   ]
+  },
+  {
+   "id": "res-032",
+   "area": "resource",
+   "number": 32,
+   "name": "roblox-lua-promise",
+   "path": "resources/frameworks-and-libraries.md",
+   "description": "Promise implementation for Luau.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/evaera/roblox-lua-promise"
+   ],
+   "tags": [
+    "Frameworks and libraries"
+   ]
+  },
+  {
+   "id": "res-033",
+   "area": "resource",
+   "number": 33,
+   "name": "Janitor",
+   "path": "resources/frameworks-and-libraries.md",
+   "description": "Cleanup/maid object for connections and instances.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/howmanysmall/Janitor"
+   ],
+   "tags": [
+    "Frameworks and libraries"
+   ]
+  },
+  {
+   "id": "res-034",
+   "area": "resource",
+   "number": 34,
+   "name": "TopbarPlus",
+   "path": "resources/frameworks-and-libraries.md",
+   "description": "Topbar icon and menu builder.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/1ForeverHD/TopbarPlus"
+   ],
+   "tags": [
+    "Frameworks and libraries"
+   ]
+  },
+  {
+   "id": "res-035",
+   "area": "resource",
+   "number": 35,
+   "name": "ZonePlus",
+   "path": "resources/frameworks-and-libraries.md",
+   "description": "Zone detection for players and parts.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/1ForeverHD/ZonePlus"
+   ],
+   "tags": [
+    "Frameworks and libraries"
+   ]
+  },
+  {
+   "id": "res-036",
+   "area": "resource",
+   "number": 36,
+   "name": "Blink",
+   "path": "resources/frameworks-and-libraries.md",
+   "description": "IDL-based networking code generator for efficient remotes.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/1Axen/blink"
+   ],
+   "tags": [
+    "Frameworks and libraries"
+   ]
+  },
+  {
+   "id": "res-037",
+   "area": "resource",
+   "number": 37,
+   "name": "ByteNet",
+   "path": "resources/frameworks-and-libraries.md",
+   "description": "Buffer-based networking library.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/ffrostfall/ByteNet"
+   ],
+   "tags": [
+    "Frameworks and libraries"
+   ]
+  },
+  {
+   "id": "res-038",
+   "area": "resource",
+   "number": 38,
+   "name": "BridgeNet2",
+   "path": "resources/frameworks-and-libraries.md",
+   "description": "Networking library with buffer serialization.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/ffrostfall/BridgeNet2"
+   ],
+   "tags": [
+    "Frameworks and libraries"
+   ]
+  },
+  {
+   "id": "res-039",
+   "area": "resource",
+   "number": 39,
+   "name": "Fusion",
+   "path": "resources/frameworks-and-libraries.md",
+   "description": "Reactive UI library.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/dphfox/Fusion"
+   ],
+   "tags": [
+    "Frameworks and libraries"
+   ]
+  },
+  {
+   "id": "res-040",
+   "area": "resource",
+   "number": 40,
+   "name": "react-lua",
+   "path": "resources/frameworks-and-libraries.md",
+   "description": "Community React port for Luau.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/jsdotlua/react-lua"
+   ],
+   "tags": [
+    "Frameworks and libraries"
+   ]
+  },
+  {
+   "id": "res-041",
+   "area": "resource",
+   "number": 41,
+   "name": "Reflex",
+   "path": "resources/frameworks-and-libraries.md",
+   "description": "Redux-style state management.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/littensy/reflex"
+   ],
+   "tags": [
+    "Frameworks and libraries"
+   ]
+  },
+  {
+   "id": "res-042",
+   "area": "resource",
+   "number": 42,
+   "name": "Cmdr",
+   "path": "resources/frameworks-and-libraries.md",
+   "description": "Extensible command console.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/evaera/Cmdr"
+   ],
+   "tags": [
+    "Frameworks and libraries"
+   ]
+  },
+  {
+   "id": "res-043",
+   "area": "resource",
+   "number": 43,
+   "name": "Adonis",
+   "path": "resources/frameworks-and-libraries.md",
+   "description": "Admin system and moderation tools.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/Epix-Incorporated/Adonis"
+   ],
+   "tags": [
+    "Frameworks and libraries"
+   ]
+  },
+  {
+   "id": "res-044",
+   "area": "resource",
+   "number": 44,
+   "name": "RbxUtil",
+   "path": "resources/frameworks-and-libraries.md",
+   "description": "Utility modules (Signal, Trove, Timer, Tween helpers and more).",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/Sleitnick/RbxUtil"
+   ],
+   "tags": [
+    "Frameworks and libraries"
+   ]
+  },
+  {
+   "id": "res-045",
+   "area": "resource",
+   "number": 45,
+   "name": "NevermoreEngine",
+   "path": "resources/frameworks-and-libraries.md",
+   "description": "Large module collection including Spring and UI helpers.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/Quenty/NevermoreEngine"
+   ],
+   "tags": [
+    "Frameworks and libraries"
+   ]
+  },
+  {
+   "id": "res-046",
+   "area": "resource",
+   "number": 46,
+   "name": "Iris",
+   "path": "resources/frameworks-and-libraries.md",
+   "description": "Immediate-mode GUI for debug tools.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/SirMallard/Iris"
+   ],
+   "tags": [
+    "Frameworks and libraries"
+   ]
+  },
+  {
+   "id": "res-047",
+   "area": "resource",
+   "number": 47,
+   "name": "Creator Hub docs",
+   "path": "resources/official-roblox-docs.md",
+   "description": "Primary documentation.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://create.roblox.com/docs"
+   ],
+   "tags": [
+    "Official Roblox docs"
+   ]
+  },
+  {
+   "id": "res-048",
+   "area": "resource",
+   "number": 48,
+   "name": "Engine API reference",
+   "path": "resources/official-roblox-docs.md",
+   "description": "Classes, data types, enums and libraries.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://create.roblox.com/docs/reference/engine"
+   ],
+   "tags": [
+    "Official Roblox docs"
+   ]
+  },
+  {
+   "id": "res-049",
+   "area": "resource",
+   "number": 49,
+   "name": "Scripting",
+   "path": "resources/official-roblox-docs.md",
+   "description": "Scripting guides.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://create.roblox.com/docs/scripting"
+   ],
+   "tags": [
+    "Official Roblox docs"
+   ]
+  },
+  {
+   "id": "res-050",
+   "area": "resource",
+   "number": 50,
+   "name": "UI",
+   "path": "resources/official-roblox-docs.md",
+   "description": "UI layout, text, styling and interaction guides.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://create.roblox.com/docs/ui"
+   ],
+   "tags": [
+    "Official Roblox docs"
+   ]
+  },
+  {
+   "id": "res-051",
+   "area": "resource",
+   "number": 51,
+   "name": "Animation",
+   "path": "resources/official-roblox-docs.md",
+   "description": "Animation Editor, events, priorities.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://create.roblox.com/docs/animation"
+   ],
+   "tags": [
+    "Official Roblox docs"
+   ]
+  },
+  {
+   "id": "res-052",
+   "area": "resource",
+   "number": 52,
+   "name": "Particle emitters",
+   "path": "resources/official-roblox-docs.md",
+   "description": "Particle effects guide.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://create.roblox.com/docs/effects/particle-emitters"
+   ],
+   "tags": [
+    "Official Roblox docs"
+   ]
+  },
+  {
+   "id": "res-053",
+   "area": "resource",
+   "number": 53,
+   "name": "Beams",
+   "path": "resources/official-roblox-docs.md",
+   "description": "Beam effects guide.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://create.roblox.com/docs/effects/beams"
+   ],
+   "tags": [
+    "Official Roblox docs"
+   ]
+  },
+  {
+   "id": "res-054",
+   "area": "resource",
+   "number": 54,
+   "name": "Trails",
+   "path": "resources/official-roblox-docs.md",
+   "description": "Trail effects guide.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://create.roblox.com/docs/effects/trails"
+   ],
+   "tags": [
+    "Official Roblox docs"
+   ]
+  },
+  {
+   "id": "res-055",
+   "area": "resource",
+   "number": 55,
+   "name": "Data stores",
+   "path": "resources/official-roblox-docs.md",
+   "description": "Persistent data guide.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://create.roblox.com/docs/cloud-services/data-stores"
+   ],
+   "tags": [
+    "Official Roblox docs"
+   ]
+  },
+  {
+   "id": "res-056",
+   "area": "resource",
+   "number": 56,
+   "name": "Security tactics",
+   "path": "resources/official-roblox-docs.md",
+   "description": "Client/server trust and exploit mitigation.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://create.roblox.com/docs/scripting/security/security-tactics"
+   ],
+   "tags": [
+    "Official Roblox docs"
+   ]
+  },
+  {
+   "id": "res-057",
+   "area": "resource",
+   "number": 57,
+   "name": "Performance optimization",
+   "path": "resources/official-roblox-docs.md",
+   "description": "Profiling and optimization guides.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://create.roblox.com/docs/performance-optimization"
+   ],
+   "tags": [
+    "Official Roblox docs"
+   ]
+  },
+  {
+   "id": "res-058",
+   "area": "resource",
+   "number": 58,
+   "name": "Open Cloud",
+   "path": "resources/official-roblox-docs.md",
+   "description": "Web APIs for Roblox resources.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://create.roblox.com/docs/cloud"
+   ],
+   "tags": [
+    "Official Roblox docs"
+   ]
+  },
+  {
+   "id": "res-059",
+   "area": "resource",
+   "number": 59,
+   "name": "Monetization",
+   "path": "resources/official-roblox-docs.md",
+   "description": "Passes, products, subscriptions, ads.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://create.roblox.com/docs/production/monetization"
+   ],
+   "tags": [
+    "Official Roblox docs"
+   ]
+  },
+  {
+   "id": "res-060",
+   "area": "resource",
+   "number": 60,
+   "name": "Studio MCP server",
+   "path": "resources/official-roblox-docs.md",
+   "description": "Official guide to connecting AI assistants to Studio.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://create.roblox.com/docs/studio/mcp"
+   ],
+   "tags": [
+    "Official Roblox docs"
+   ]
+  },
+  {
+   "id": "res-061",
+   "area": "resource",
+   "number": 61,
+   "name": "Assistant",
+   "path": "resources/official-roblox-docs.md",
+   "description": "Roblox's built-in AI assistant.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://create.roblox.com/docs/assistant"
+   ],
+   "tags": [
+    "Official Roblox docs"
+   ]
+  },
+  {
+   "id": "res-062",
+   "area": "resource",
+   "number": 62,
+   "name": "Luau type checking",
+   "path": "resources/official-roblox-docs.md",
+   "description": "Type system reference.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://luau.org/typecheck"
+   ],
+   "tags": [
+    "Official Roblox docs"
+   ]
+  },
+  {
+   "id": "res-063",
+   "area": "resource",
+   "number": 63,
+   "name": "Luau performance",
+   "path": "resources/official-roblox-docs.md",
+   "description": "What makes Luau code fast.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://luau.org/performance"
+   ],
+   "tags": [
+    "Official Roblox docs"
+   ]
+  },
+  {
+   "id": "res-064",
+   "area": "resource",
+   "number": 64,
+   "name": "creator-docs repository",
+   "path": "resources/official-roblox-docs.md",
+   "description": "Source of the docs (CC BY 4.0).",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/Roblox/creator-docs"
+   ],
+   "tags": [
+    "Official Roblox docs"
+   ]
+  },
+  {
+   "id": "res-065",
+   "area": "resource",
+   "number": 65,
+   "name": "DevForum",
+   "path": "resources/official-roblox-docs.md",
+   "description": "Official developer community forum.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://devforum.roblox.com/"
+   ],
+   "tags": [
+    "Official Roblox docs"
+   ]
+  },
+  {
+   "id": "res-066",
+   "area": "resource",
+   "number": 66,
+   "name": "Roblox on GitHub",
+   "path": "resources/official-roblox-docs.md",
+   "description": "Open-source projects from Roblox.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/Roblox"
+   ],
+   "tags": [
+    "Official Roblox docs"
+   ]
+  },
+  {
+   "id": "res-067",
+   "area": "resource",
+   "number": 67,
+   "name": "Creator Dashboard",
+   "path": "resources/official-roblox-docs.md",
+   "description": "Manage experiences and assets.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://create.roblox.com/dashboard/creations"
+   ],
+   "tags": [
+    "Official Roblox docs"
+   ]
+  },
+  {
+   "id": "res-068",
+   "area": "resource",
+   "number": 68,
+   "name": "Claude Code docs",
+   "path": "resources/ai-for-roblox-development.md",
+   "description": "Anthropic's agentic coding tool.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://docs.claude.com/en/docs/claude-code/overview"
+   ],
+   "tags": [
+    "AI for Roblox development"
+   ]
+  },
+  {
+   "id": "res-069",
+   "area": "resource",
+   "number": 69,
+   "name": "Model Context Protocol",
+   "path": "resources/ai-for-roblox-development.md",
+   "description": "Open protocol for connecting AI tools to external systems.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://modelcontextprotocol.io/"
+   ],
+   "tags": [
+    "AI for Roblox development"
+   ]
+  },
+  {
+   "id": "res-070",
+   "area": "resource",
+   "number": 70,
+   "name": "Roblox Cube (GitHub)",
+   "path": "resources/ai-for-roblox-development.md",
+   "description": "Roblox's open-source 3D generation work.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/Roblox/cube"
+   ],
+   "tags": [
+    "AI for Roblox development"
+   ]
+  },
+  {
+   "id": "res-071",
+   "area": "resource",
+   "number": 71,
+   "name": "Roblox Studio MCP server",
+   "path": "resources/ai-for-roblox-development.md",
+   "description": "Official MCP server for Studio.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/Roblox/studio-rust-mcp-server"
+   ],
+   "tags": [
+    "AI for Roblox development"
+   ]
+  },
+  {
+   "id": "res-072",
+   "area": "resource",
+   "number": 72,
+   "name": "Studio MCP docs",
+   "path": "resources/ai-for-roblox-development.md",
+   "description": "How to connect assistants to Studio.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://create.roblox.com/docs/studio/mcp"
+   ],
+   "tags": [
+    "AI for Roblox development"
+   ]
+  },
+  {
+   "id": "res-073",
+   "area": "resource",
+   "number": 73,
+   "name": "Roblox Assistant",
+   "path": "resources/ai-for-roblox-development.md",
+   "description": "In-Studio AI assistant.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://create.roblox.com/docs/assistant"
+   ],
+   "tags": [
+    "AI for Roblox development"
+   ]
+  },
+  {
+   "id": "res-074",
+   "area": "resource",
+   "number": 74,
+   "name": "AGENTS.md",
+   "path": "resources/ai-for-roblox-development.md",
+   "description": "Convention for giving coding agents project instructions.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://agents.md/"
+   ],
+   "tags": [
+    "AI for Roblox development"
+   ]
+  },
+  {
+   "id": "res-075",
+   "area": "resource",
+   "number": 75,
+   "name": "Cursor",
+   "path": "resources/ai-for-roblox-development.md",
+   "description": "AI code editor commonly used with Rojo projects.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://cursor.com/"
+   ],
+   "tags": [
+    "AI for Roblox development"
+   ]
+  },
+  {
+   "id": "res-076",
+   "area": "resource",
+   "number": 76,
+   "name": "GitHub Copilot",
+   "path": "resources/ai-for-roblox-development.md",
+   "description": "AI pair programmer.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/features/copilot"
+   ],
+   "tags": [
+    "AI for Roblox development"
+   ]
+  },
+  {
+   "id": "res-077",
+   "area": "resource",
+   "number": 77,
+   "name": "Roblox Creator Hub tutorials",
+   "path": "resources/learning-and-community.md",
+   "description": "Official step-by-step tutorials.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://create.roblox.com/docs/tutorials"
+   ],
+   "tags": [
+    "Learning and community"
+   ]
+  },
+  {
+   "id": "res-078",
+   "area": "resource",
+   "number": 78,
+   "name": "DevForum resources",
+   "path": "resources/learning-and-community.md",
+   "description": "Community-released tools and modules.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://devforum.roblox.com/c/resources/"
+   ],
+   "tags": [
+    "Learning and community"
+   ]
+  },
+  {
+   "id": "res-079",
+   "area": "resource",
+   "number": 79,
+   "name": "DevForum community tutorials",
+   "path": "resources/learning-and-community.md",
+   "description": "Community written tutorials.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://devforum.roblox.com/c/resources/community-tutorials/"
+   ],
+   "tags": [
+    "Learning and community"
+   ]
+  },
+  {
+   "id": "res-080",
+   "area": "resource",
+   "number": 80,
+   "name": "DevForum announcements",
+   "path": "resources/learning-and-community.md",
+   "description": "Platform updates.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://devforum.roblox.com/c/updates/announcements/"
+   ],
+   "tags": [
+    "Learning and community"
+   ]
+  },
+  {
+   "id": "res-081",
+   "area": "resource",
+   "number": 81,
+   "name": "r/robloxgamedev",
+   "path": "resources/learning-and-community.md",
+   "description": "Developer community on Reddit.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://www.reddit.com/r/robloxgamedev/"
+   ],
+   "tags": [
+    "Learning and community"
+   ]
+  },
+  {
+   "id": "res-082",
+   "area": "resource",
+   "number": 82,
+   "name": "GitHub topic: roblox",
+   "path": "resources/learning-and-community.md",
+   "description": "Public repositories tagged roblox.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/topics/roblox"
+   ],
+   "tags": [
+    "Learning and community"
+   ]
+  },
+  {
+   "id": "res-083",
+   "area": "resource",
+   "number": 83,
+   "name": "GitHub topic: luau",
+   "path": "resources/learning-and-community.md",
+   "description": "Public repositories tagged luau.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://github.com/topics/luau"
+   ],
+   "tags": [
+    "Learning and community"
+   ]
+  },
+  {
+   "id": "res-084",
+   "area": "resource",
+   "number": 84,
+   "name": "AlvinBlox (YouTube)",
+   "path": "resources/learning-and-community.md",
+   "description": "Scripting tutorial channel.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://www.youtube.com/@AlvinBlox"
+   ],
+   "tags": [
+    "Learning and community"
+   ]
+  },
+  {
+   "id": "res-085",
+   "area": "resource",
+   "number": 85,
+   "name": "TheDevKing (YouTube)",
+   "path": "resources/learning-and-community.md",
+   "description": "Scripting tutorial channel.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://www.youtube.com/@TheDevKing"
+   ],
+   "tags": [
+    "Learning and community"
+   ]
+  },
+  {
+   "id": "res-086",
+   "area": "resource",
+   "number": 86,
+   "name": "GnomeCode (YouTube)",
+   "path": "resources/learning-and-community.md",
+   "description": "Scripting tutorial channel.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://www.youtube.com/@GnomeCode"
+   ],
+   "tags": [
+    "Learning and community"
+   ]
+  },
+  {
+   "id": "res-087",
+   "area": "resource",
+   "number": 87,
+   "name": "Roblox (YouTube)",
+   "path": "resources/learning-and-community.md",
+   "description": "Official channel, includes RDC talks.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://www.youtube.com/@Roblox"
+   ],
+   "tags": [
+    "Learning and community"
+   ]
+  },
+  {
+   "id": "res-088",
+   "area": "resource",
+   "number": 88,
+   "name": "Game UI Database",
+   "path": "resources/ui-and-design-inspiration.md",
+   "description": "Large searchable game UI screenshot library.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://www.gameuidatabase.com/"
+   ],
+   "tags": [
+    "UI and design inspiration"
+   ]
+  },
+  {
+   "id": "res-089",
+   "area": "resource",
+   "number": 89,
+   "name": "Lucide icons",
+   "path": "resources/ui-and-design-inspiration.md",
+   "description": "Open-source icon set.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://lucide.dev/"
+   ],
+   "tags": [
+    "UI and design inspiration"
+   ]
+  },
+  {
+   "id": "res-090",
+   "area": "resource",
+   "number": 90,
+   "name": "Phosphor icons",
+   "path": "resources/ui-and-design-inspiration.md",
+   "description": "Flexible icon family.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://phosphoricons.com/"
+   ],
+   "tags": [
+    "UI and design inspiration"
+   ]
+  },
+  {
+   "id": "res-091",
+   "area": "resource",
+   "number": 91,
+   "name": "game-icons.net",
+   "path": "resources/ui-and-design-inspiration.md",
+   "description": "Free game-themed icons (check each licence/attribution).",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://game-icons.net/"
+   ],
+   "tags": [
+    "UI and design inspiration"
+   ]
+  },
+  {
+   "id": "res-092",
+   "area": "resource",
+   "number": 92,
+   "name": "Kenney game icons",
+   "path": "resources/ui-and-design-inspiration.md",
+   "description": "CC0 icon packs.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://kenney.nl/assets/category:Icons"
+   ],
+   "tags": [
+    "UI and design inspiration"
+   ]
+  },
+  {
+   "id": "res-093",
+   "area": "resource",
+   "number": 93,
+   "name": "Kenney UI packs",
+   "path": "resources/ui-and-design-inspiration.md",
+   "description": "CC0 UI assets.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://kenney.nl/assets/category:UI"
+   ],
+   "tags": [
+    "UI and design inspiration"
+   ]
+  },
+  {
+   "id": "res-094",
+   "area": "resource",
+   "number": 94,
+   "name": "Lospec palettes",
+   "path": "resources/ui-and-design-inspiration.md",
+   "description": "Searchable colour palettes.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://lospec.com/palette-list"
+   ],
+   "tags": [
+    "UI and design inspiration"
+   ]
+  },
+  {
+   "id": "res-095",
+   "area": "resource",
+   "number": 95,
+   "name": "Coolors",
+   "path": "resources/ui-and-design-inspiration.md",
+   "description": "Palette generator.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://coolors.co/"
+   ],
+   "tags": [
+    "UI and design inspiration"
+   ]
+  },
+  {
+   "id": "res-096",
+   "area": "resource",
+   "number": 96,
+   "name": "Google Fonts",
+   "path": "resources/ui-and-design-inspiration.md",
+   "description": "Typeface inspiration (Roblox uses its own font enum).",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://fonts.google.com/"
+   ],
+   "tags": [
+    "UI and design inspiration"
+   ]
+  },
+  {
+   "id": "res-097",
+   "area": "resource",
+   "number": 97,
+   "name": "Roblox Font enum",
+   "path": "resources/ui-and-design-inspiration.md",
+   "description": "Fonts available in Studio.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://create.roblox.com/docs/reference/engine/enums/Font"
+   ],
+   "tags": [
+    "UI and design inspiration"
+   ]
+  },
+  {
+   "id": "res-098",
+   "area": "resource",
+   "number": 98,
+   "name": "Easing functions cheat sheet",
+   "path": "resources/ui-and-design-inspiration.md",
+   "description": "Visual reference for easing curves.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://easings.net/"
+   ],
+   "tags": [
+    "UI and design inspiration"
+   ]
+  },
+  {
+   "id": "res-099",
+   "area": "resource",
+   "number": 99,
+   "name": "Kenney audio",
+   "path": "resources/audio.md",
+   "description": "CC0 sound packs.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://kenney.nl/assets/category:Audio"
+   ],
+   "tags": [
+    "Audio"
+   ]
+  },
+  {
+   "id": "res-100",
+   "area": "resource",
+   "number": 100,
+   "name": "OpenGameArt",
+   "path": "resources/audio.md",
+   "description": "Community game art and audio with varied licences.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://opengameart.org/"
+   ],
+   "tags": [
+    "Audio"
+   ]
+  },
+  {
+   "id": "res-101",
+   "area": "resource",
+   "number": 101,
+   "name": "Freesound",
+   "path": "resources/audio.md",
+   "description": "Community sound library (licences vary).",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://freesound.org/"
+   ],
+   "tags": [
+    "Audio"
+   ]
+  },
+  {
+   "id": "res-102",
+   "area": "resource",
+   "number": 102,
+   "name": "Sonniss GDC audio",
+   "path": "resources/audio.md",
+   "description": "Annual free royalty-free game audio bundles.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://sonniss.com/gameaudiogdc"
+   ],
+   "tags": [
+    "Audio"
+   ]
+  },
+  {
+   "id": "res-103",
+   "area": "resource",
+   "number": 103,
+   "name": "Incompetech",
+   "path": "resources/audio.md",
+   "description": "Royalty-free music by Kevin MacLeod (attribution required).",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://incompetech.com/music/royalty-free/"
+   ],
+   "tags": [
+    "Audio"
+   ]
+  },
+  {
+   "id": "res-104",
+   "area": "resource",
+   "number": 104,
+   "name": "Blender",
+   "path": "resources/3d-maps-and-textures.md",
+   "description": "Free 3D suite commonly used for Roblox meshes.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://www.blender.org/"
+   ],
+   "tags": [
+    "3D, maps and textures"
+   ]
+  },
+  {
+   "id": "res-105",
+   "area": "resource",
+   "number": 105,
+   "name": "Poly Haven",
+   "path": "resources/3d-maps-and-textures.md",
+   "description": "CC0 models, HDRIs and textures.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://polyhaven.com/"
+   ],
+   "tags": [
+    "3D, maps and textures"
+   ]
+  },
+  {
+   "id": "res-106",
+   "area": "resource",
+   "number": 106,
+   "name": "ambientCG",
+   "path": "resources/3d-maps-and-textures.md",
+   "description": "CC0 PBR textures.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://ambientcg.com/"
+   ],
+   "tags": [
+    "3D, maps and textures"
+   ]
+  },
+  {
+   "id": "res-107",
+   "area": "resource",
+   "number": 107,
+   "name": "Kenney assets",
+   "path": "resources/3d-maps-and-textures.md",
+   "description": "CC0 3D and 2D asset packs.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://kenney.nl/assets"
+   ],
+   "tags": [
+    "3D, maps and textures"
+   ]
+  },
+  {
+   "id": "res-108",
+   "area": "resource",
+   "number": 108,
+   "name": "Quaternius",
+   "path": "resources/3d-maps-and-textures.md",
+   "description": "Free low-poly model packs.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://quaternius.com/"
+   ],
+   "tags": [
+    "3D, maps and textures"
+   ]
+  },
+  {
+   "id": "res-109",
+   "area": "resource",
+   "number": 109,
+   "name": "Roblox modeling docs",
+   "path": "resources/3d-maps-and-textures.md",
+   "description": "Modeling and import guides.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://create.roblox.com/docs/art/modeling"
+   ],
+   "tags": [
+    "3D, maps and textures"
+   ]
+  },
+  {
+   "id": "res-110",
+   "area": "resource",
+   "number": 110,
+   "name": "Materials",
+   "path": "resources/3d-maps-and-textures.md",
+   "description": "Materials and variants guide.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://create.roblox.com/docs/parts/materials"
+   ],
+   "tags": [
+    "3D, maps and textures"
+   ]
+  },
+  {
+   "id": "res-111",
+   "area": "resource",
+   "number": 111,
+   "name": "Lighting",
+   "path": "resources/3d-maps-and-textures.md",
+   "description": "Lighting and atmosphere guide.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://create.roblox.com/docs/environment/lighting"
+   ],
+   "tags": [
+    "3D, maps and textures"
+   ]
+  },
+  {
+   "id": "res-112",
+   "area": "resource",
+   "number": 112,
+   "name": "Game Programming Patterns",
+   "path": "resources/game-design-and-production.md",
+   "description": "Free book on game code structure.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://gameprogrammingpatterns.com/"
+   ],
+   "tags": [
+    "Game design and production"
+   ]
+  },
+  {
+   "id": "res-113",
+   "area": "resource",
+   "number": 113,
+   "name": "GDC Vault",
+   "path": "resources/game-design-and-production.md",
+   "description": "Talks from the Game Developers Conference.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://gdcvault.com/"
+   ],
+   "tags": [
+    "Game design and production"
+   ]
+  },
+  {
+   "id": "res-114",
+   "area": "resource",
+   "number": 114,
+   "name": "Game Developer",
+   "path": "resources/game-design-and-production.md",
+   "description": "Industry articles and postmortems.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://www.gamedeveloper.com/"
+   ],
+   "tags": [
+    "Game design and production"
+   ]
+  },
+  {
+   "id": "res-115",
+   "area": "resource",
+   "number": 115,
+   "name": "Roblox analytics",
+   "path": "resources/game-design-and-production.md",
+   "description": "Metrics and retention tools.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://create.roblox.com/docs/production/analytics"
+   ],
+   "tags": [
+    "Game design and production"
+   ]
+  },
+  {
+   "id": "res-116",
+   "area": "resource",
+   "number": 116,
+   "name": "Roblox Community Standards",
+   "path": "resources/game-design-and-production.md",
+   "description": "Rules every experience must follow.",
+   "roblox_recipe": "",
+   "local_images": [],
+   "preview_galleries": [],
+   "external_links": [
+    "https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Standards"
+   ],
+   "tags": [
+    "Game design and production"
+   ]
   }
  ]
 }
