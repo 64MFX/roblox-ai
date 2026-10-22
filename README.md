@@ -1,39 +1,83 @@
-# Roblox References for your AI 💻
+# ROBLOX AI — Visual Reference Library
 
-A folder of **image references** for Roblox UI, VFX, animation and game art.
+**A curated visual reference collection for building better Roblox experiences with AI.**
 
-**5,885 images** and 5 short reference clips, sorted by topic:
+Explore UI design, game thumbnails, logos, animation, VFX, cutscenes, and more. Use the collection to give AI coding and design assistants clear visual direction instead of relying on vague descriptions.
 
-| Folder | What is in it | Images |
-|---|---|---:|
-| `game-refs/` | Real Roblox experience thumbnails by genre: studs and obbies, sports, cartoon, simulator, speed and racing, horror, anime and fighting, fantasy, sci-fi, survival, pirate, tower defense, candy, winter, roleplay. Each README credits game and creator | 602 |
-| `style-refs/` | Pictures grouped by 25 styles (Studs, Sports, Cartoon, Simulator, Speed, Horror, Anime, Medieval, Cyberpunk, Kawaii, Pirate, Space, Candy, Western, Tycoon, Tower defense, Survival, Glass, Dark pro, Retro pixel, Winter and more): nine original mockups per style plus CC0 Kenney contact sheets | 293 |
-| `roblox-docs/` | Screenshots from the official Roblox creator docs, CC BY 4.0, in 31 topic folders (UI, animation, lighting and effects, modeling, art, tutorials, game design, monetization, publishing, Studio, avatar and more); each folder has a README listing its images | 3,730 |
-| `previews/` | Cover images grouped by tag (UI styles, effects, animation, cinematic, icons and more) | 707 |
-| `ui-styles/` | Example pictures for GUI styles | 69 |
-| `visual-refs/` | Icons, sports UI, stud-style GUIs, animation reference clips | 43 |
-| `vfx/` | Effect references | 28 |
-| `animations/` | Animation references | 13 |
-| `sfx/` | Sound-related references | 10 |
-| `logos/` | Icon and logo references | 8 |
-| `thumbnails/` | Game thumbnail references | 8 |
-| `cutscenes/` | Cutscene references | 4 |
+> **5,885 images + 5 short reference clips** documented in the collection. Counts reflect the existing catalog and may change as new references are added.
 
-## Browsing
-Every folder has its own README that shows its pictures, so you can browse the whole collection on GitHub without downloading anything.
+---
 
-## Notes
-- `roblox-docs/` images are (c) Roblox Corporation, from github.com/Roblox/creator-docs, licensed CC BY 4.0, copied unmodified. This repo is not affiliated with Roblox.
-- `game-refs/` thumbnails are the public store images of real Roblox experiences. They belong to the experiences' creators and are collected only as visual references, not licensed for reuse. This repo is not affiliated with Roblox or those creators.
-- `style-refs/` contact sheets are made from CC0 Kenney asset packs (kenney.nl); the mockups are original illustrations made for this collection.
-- Pictures belong to their creators and are here as references only. Check the creator licence before using any artwork in a game.
+## What's inside
 
-## Star History
+| Collection | Focus | Cataloged images |
+| :-- | :-- | --: |
+| `game-refs/` | Real Roblox game thumbnails organized by genre | 602 |
+| `style-refs/` | Style mockups and CC0 asset contact sheets | 293 |
+| `roblox-docs/` | Official creator documentation screenshots | 3,730 |
+| `previews/` | Covers for UI, effects, animation, cinematics, and more | 707 |
+| `ui-styles/` | GUI design inspiration | 69 |
+| `visual-refs/` | Icons, sports interfaces, stud-style UI, animation clips | 43 |
+| `vfx/` | Visual effect inspiration | 28 |
+| `animations/` | Animation reference material | 13 |
+| `sfx/` | Sound-related visual references | 10 |
+| `logos/` | Logo and icon inspiration | 8 |
+| `thumbnails/` | Game thumbnail inspiration | 8 |
+| `cutscenes/` | Cinematic and cutscene inspiration | 4 |
 
-<a href="https://www.star-history.com/?repos=izzyfrm%2Froblox-ai&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=izzyfrm/roblox-ai&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=izzyfrm/roblox-ai&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=izzyfrm/roblox-ai&type=date&legend=top-left" />
- </picture>
-</a>
+**Note:** Folder counts are catalog figures, not a live inventory. Some assets are intended for inspiration rather than direct reuse.
+
+## How to use this library
+
+**1. Choose a direction.** Pick the folder closest to your project: interface, animation, effects, branding, or gameplay art.
+
+**2. Find references.** Browse the images and clips to identify composition, color, motion, typography, and overall style.
+
+**3. Give your AI specific context.** Attach selected references to your preferred AI assistant and explain which details to follow and which to change.
+
+**4. Build your own version.** Iterate on the generated result. References are inspiration, not a license to copy another creator's work.
+
+## Example AI prompt
+
+```text
+I'm developing a Roblox experience.
+
+Use the attached reference images as visual inspiration.
+Study the layout, spacing, colors, hierarchy, and overall style.
+
+Create an original implementation that fits my game's theme.
+Keep the interface readable, responsive, and usable in Roblox.
+Do not copy logos, copyrighted assets, or distinctive artwork.
+Explain how the design is organized and how I can customize it.
+```
+
+## Recommended workflows
+
+| Building | Start with |
+| :-- | :-- |
+| A polished game HUD | `ui-styles/`, `visual-refs/`, `previews/` |
+| A recognizable game identity | `logos/`, `thumbnails/`, `game-refs/` |
+| Better character movement | `animations/`, `visual-refs/` |
+| Combat and ability effects | `vfx/`, `previews/` |
+| A cinematic intro | `cutscenes/`, `previews/` |
+| Studio-specific implementation | `roblox-docs/` |
+| A consistent art direction | `style-refs/`, `game-refs/` |
+
+## Contributing
+
+Want to improve the collection? Add genuinely useful, well-organized references with descriptive filenames and clear source or creator attribution. Prefer original, openly licensed, or appropriately attributed reference material. Avoid duplicates, low-quality screenshots, and unverified ownership claims.
+
+## Usage and attribution
+
+This is an **independent reference library**, not an official Roblox project.
+
+- `roblox-docs/` contains Roblox Corporation documentation imagery under CC BY 4.0, as documented in the original collection. Preserve required attribution.
+- `game-refs/` includes public promotional images from Roblox experiences. Rights remain with their respective creators; inclusion does not grant permission to reuse them.
+- `style-refs/` includes original mockups and contact sheets made from CC0 Kenney assets.
+- Other imagery and media remain subject to their creators' respective rights and licenses. Verify permission before redistributing or incorporating assets into your game.
+
+---
+
+**Made for Roblox developers, artists, and AI-assisted creators.**
+
+*Find inspiration. Build something original.*
