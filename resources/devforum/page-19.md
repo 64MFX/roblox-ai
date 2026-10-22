@@ -4,8 +4,6 @@
 
 | Topic | Likes | Views | Category | Created |
 |---|---:|---:|---|---|
-| [Edited CameraScript for Obby games](https://devforum.roblox.com/t/edited-camerascript-for-obby-games/1284763) | 10 | 1846 | Resources | 2021-06-11 |
-| [PureRef: Amazing Canvas Tool](https://devforum.roblox.com/t/pureref-amazing-canvas-tool/1096817) | 10 | 5148 | Resources | 2021-03-10 |
 | [Creating a basic clock using CFrame](https://devforum.roblox.com/t/creating-a-basic-clock-using-cframe/2827955) | 10 | 1805 | Resources | 2024-02-08 |
 | [New ViewportFrame Editor plugin](https://devforum.roblox.com/t/new-viewportframe-editor-plugin/694420) | 10 | 2513 | Resources | 2020-07-28 |
 | [[OPEN SOURCE] Party UI \| Not Scripted](https://devforum.roblox.com/t/open-source-party-ui-not-scripted/1387022) | 10 | 1249 | Resources | 2021-08-02 |
@@ -504,3 +502,5 @@
 | [A Set of Custom Luau Type Utilities](https://devforum.roblox.com/t/a-set-of-custom-luau-type-utilities/4069299) | 9 | 493 | Resources | 2025-11-14 |
 | [MovementHandler](https://devforum.roblox.com/t/movementhandler/1539962) | 9 | 2556 | Resources | 2021-11-08 |
 | [EyeController - Make your character look at stuff with his very own eyes!](https://devforum.roblox.com/t/eyecontroller-make-your-character-look-at-stuff-with-his-very-own-eyes/3815008) | 9 | 592 | Resources | 2025-07-14 |
+| [UIStroke Scaling Plugin](https://devforum.roblox.com/t/uistroke-scaling-plugin/1653121) | 9 | 1849 | Resources | 2022-02-02 |
+| [GetMouseLocation on SurfaceGui](https://devforum.roblox.com/t/getmouselocation-on-surfacegui/2392815) | 9 | 668 | Resources | 2023-05-25 |

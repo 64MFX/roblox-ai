@@ -4,7 +4,6 @@
 
 | Topic | Likes | Views | Category | Created |
 |---|---:|---:|---|---|
-| [Rocrastinate: a Roact/Rodux-like Library Optimized for Roblox](https://devforum.roblox.com/t/rocrastinate-a-roactrodux-like-library-optimized-for-roblox/273539) | 103 | 12197 | Resources | 2019-04-28 |
 | [Roblox Forum Archive Beta](https://devforum.roblox.com/t/roblox-forum-archive-beta/92670) | 103 | 14740 | Resources | 2018-02-14 |
 | [[OPEN SOURCE] Abd's Admin Panel](https://devforum.roblox.com/t/open-source-abds-admin-panel/811105) | 103 | 24919 | Resources | 2020-10-08 |
 | [Completo \| The PERFECT autocomplete for you (and it’s free!)](https://devforum.roblox.com/t/completo-the-perfect-autocomplete-for-you-and-it%E2%80%99s-free/3874342) | 103 | 7118 | Resources | 2025-08-11 |
@@ -504,3 +503,4 @@
 | [How to use Alpha channels for transparent textures](https://devforum.roblox.com/t/how-to-use-alpha-channels-for-transparent-textures/2312747) | 79 | 8942 | Resources | 2023-04-27 |
 | [Open Source Modern UI](https://devforum.roblox.com/t/open-source-modern-ui/1190014) | 79 | 5569 | Resources | 2021-04-26 |
 | [How to avoid double tax ( and save R$ in the long term )](https://devforum.roblox.com/t/how-to-avoid-double-tax-and-save-r-in-the-long-term/766485) | 79 | 12919 | Resources | 2020-09-11 |
+| [Fast Minkowski Shapecast](https://devforum.roblox.com/t/fast-minkowski-shapecast/3351159) | 79 | 3039 | Resources | 2025-01-06 |

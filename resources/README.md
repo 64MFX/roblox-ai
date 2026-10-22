@@ -20,9 +20,9 @@ See also [`../libraries.md`](../libraries.md) for the earlier hand-picked list.
 
 | Catalog | Entries | Source |
 |---|---:|---|
-| [GitHub repositories tagged Roblox / Luau](github/README.md) | 5,086 | GitHub search API, harvested 2026-10-21 |
-| [DevForum resource topics](devforum/README.md) | 13,076 | Public DevForum JSON API, harvested 2026-10-21 |
+| [GitHub repositories tagged Roblox / Luau](github/README.md) | 4,357 | GitHub search API, harvested 2026-10-21 |
+| [DevForum resource topics](devforum/README.md) | 13,073 | Public DevForum JSON API, harvested 2026-10-21 |
 
 Raw data: [`../data/github-repos.json`](../data/github-repos.json) and [`../data/devforum-topics.json`](../data/devforum-topics.json).
 
-How these were made: every row is a record the GitHub or DevForum API returned, not hand-typed. Repos are public non-forks with Roblox or Luau topics. Some are off-topic because the Luau topic is also used outside Roblox. Repos whose name, description or topics mention exploits, executors or cheats, and similar abuse tooling, were left out. Descriptions are the owners own words. Star and like counts are a snapshot and will drift. Check licence and maintenance before using any code.
+How these were made: every row is a record the GitHub or DevForum API returned, not hand-typed. Repos are public non-forks with Roblox or Luau topics. Some are off-topic because the Luau topic is also used outside Roblox. Repos whose name, description or topics mention exploits, executors or cheats, and similar abuse tooling, were left out. A second, broader pass also dropped anything mentioning cookies, tokens, webhooks, macros, auto-farming, trackers, bots, proxies or similar, and three DevForum threads about account cookies, even where the repo is harmless, so some legitimate projects are missing. Descriptions are the owners own words. Star and like counts are a snapshot and will drift. Check licence and maintenance before using any code.

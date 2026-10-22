@@ -4,8 +4,6 @@
 
 | Topic | Likes | Views | Category | Created |
 |---|---:|---:|---|---|
-| [Buffers, save more with less](https://devforum.roblox.com/t/buffers-save-more-with-less/3635791) | 25 | 2085 | Resources | 2025-05-03 |
-| [The Game Design Process](https://devforum.roblox.com/t/the-game-design-process/574528) | 25 | 1292 | Resources | 2020-05-14 |
 | [Cartoony Sim Buttons (free)](https://devforum.roblox.com/t/cartoony-sim-buttons-free/2705203) | 25 | 4522 | Resources | 2023-11-17 |
 | [Trajectory Prediction](https://devforum.roblox.com/t/trajectory-prediction/3350931) | 25 | 1173 | Resources | 2025-01-06 |
 | [PremiumWrapper module](https://devforum.roblox.com/t/premiumwrapper-module/485143) | 25 | 2110 | Resources | 2020-03-16 |
@@ -504,3 +502,5 @@
 | [Free map for everyone](https://devforum.roblox.com/t/free-map-for-everyone/806020) | 22 | 4293 | Resources | 2020-10-05 |
 | [How to Write a Good Codebase: Clarity Comes First](https://devforum.roblox.com/t/how-to-write-a-good-codebase-clarity-comes-first/3400677) | 22 | 1332 | Resources | 2025-01-21 |
 | [Simple Floating Module](https://devforum.roblox.com/t/simple-floating-module/3043729) | 22 | 2916 | Resources | 2024-06-28 |
+| [[Tutorial] From OOP to Data-Oriented Design: Memory layout, AoS vs SoA, FIFO/LIFO](https://devforum.roblox.com/t/tutorial-from-oop-to-data-oriented-design-memory-layout-aos-vs-soa-fifolifo/4342926) | 22 | 1248 | Resources | 2026-02-07 |
+| [Star Wars Audios](https://devforum.roblox.com/t/star-wars-audios/792749) | 22 | 4723 | Resources | 2020-09-27 |

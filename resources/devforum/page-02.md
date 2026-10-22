@@ -4,7 +4,6 @@
 
 | Topic | Likes | Views | Category | Created |
 |---|---:|---:|---|---|
-| [Discord Webhooks - Integrating Roblox with Discord](https://devforum.roblox.com/t/discord-webhooks-integrating-roblox-with-discord/458366) | 270 | 56202 | Resources | 2020-02-15 |
 | [[DISCONTINUED] Citrus R6 V.1.2.0 \| R6 rigs without humanoids](https://devforum.roblox.com/t/discontinued-citrus-r6-v120-r6-rigs-without-humanoids/3269673) | 270 | 12198 | Resources | 2024-11-22 |
 | [Fixing HttpService: Make PUT, PATCH, DELETE requests, access response headers, proxy to any site, and more](https://devforum.roblox.com/t/fixing-httpservice-make-put-patch-delete-requests-access-response-headers-proxy-to-any-site-and-more/119400) | 269 | 35619 | Resources | 2018-04-21 |
 | [(NEW PLUGIN) AutoDebug⚙️ V1.1 - Debugging & Fixing easily your Scripts](https://devforum.roblox.com/t/new-plugin-autodebug%E2%9A%99%EF%B8%8F-v11-debugging-fixing-easily-your-scripts/2618899) | 269 | 10798 | Resources | 2023-09-26 |
@@ -504,3 +503,4 @@
 | [Learning to Design 2d Clothing \| ScenicRose](https://devforum.roblox.com/t/learning-to-design-2d-clothing-scenicrose/1330543) | 150 | 15336 | Resources | 2021-07-05 |
 | [Using :GetNetworkPing() to get players ping](https://devforum.roblox.com/t/using-getnetworkping-to-get-players-ping/1613691) | 150 | 52668 | Resources | 2022-01-04 |
 | [Service Autocomplete (code completions)](https://devforum.roblox.com/t/service-autocomplete-code-completions/2034346) | 150 | 14904 | Resources | 2022-10-26 |
+| [SimpleCast - An Alternative to FastCast](https://devforum.roblox.com/t/simplecast-an-alternative-to-fastcast/2271321) | 150 | 16168 | Resources | 2023-04-02 |

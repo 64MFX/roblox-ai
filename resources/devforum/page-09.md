@@ -4,7 +4,6 @@
 
 | Topic | Likes | Views | Category | Created |
 |---|---:|---:|---|---|
-| [AI Development: Finite State Machines](https://devforum.roblox.com/t/ai-development-finite-state-machines/606268) | 38 | 6323 | Resources | 2020-06-02 |
 | [[No Longer Supported] Redon Tech Advanced Combat System Installer](https://devforum.roblox.com/t/no-longer-supported-redon-tech-advanced-combat-system-installer/855806) | 38 | 8705 | Resources | 2020-11-05 |
 | [Simple Vegetation Pack](https://devforum.roblox.com/t/simple-vegetation-pack/830982) | 38 | 2627 | Resources | 2020-10-21 |
 | [Rope Stitcher - Easily create ropes!](https://devforum.roblox.com/t/rope-stitcher-easily-create-ropes/1763043) | 38 | 4633 | Resources | 2022-04-21 |
@@ -504,3 +503,4 @@
 | [Mapping of the roblox skybox](https://devforum.roblox.com/t/mapping-of-the-roblox-skybox/132678) | 33 | 4789 | Resources | 2018-06-04 |
 | [Global Server Announcement System - Phone, No Code (Paid, $4.99)](https://devforum.roblox.com/t/global-server-announcement-system-phone-no-code-paid-499/4938147) | 33 | 360 | Resources | 2026-10-16 |
 | [RigLink – A Simple, Smarter Way to Rig Models in Studio [Now Free!]](https://devforum.roblox.com/t/riglink-%E2%80%93-a-simple-smarter-way-to-rig-models-in-studio-now-free/3680684) | 33 | 1713 | Resources | 2025-06-07 |
+| [Extremely easy elevator system](https://devforum.roblox.com/t/extremely-easy-elevator-system/2324485) | 33 | 4430 | Resources | 2023-05-08 |

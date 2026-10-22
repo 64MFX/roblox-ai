@@ -16,7 +16,7 @@ This repo is a reference library for building **Roblox GUI, animations, VFX, cut
 | [`official-docs/`](official-docs/README.md) | Roblox creator-docs subset (guides plus class, data type and enum YAML), CC BY 4.0 | **authoritative** for API names, properties and behaviour |
 | [`previews/`](previews/README.md) | Credited itch.io cover galleries per tag | pictures only; keyword-matched |
 | [`libraries.md`](libraries.md) | Open-source libraries, plugins, asset sources | links checked 2026-10-20 |
-| [`resources/`](resources/README.md) | 116 curated links, 5,086 GitHub repos and 13,076 DevForum topics (harvested from APIs 2026-10-21; machine data in `data/`) | catalogs are listings only, check licences |
+| [`resources/`](resources/README.md) | 116 curated links, 4,357 GitHub repos and 13,073 DevForum topics (harvested from APIs 2026-10-21; machine data in `data/`) | catalogs are listings only, check licences |
 | `visual-refs/studs-ui/`, `visual-refs/sports/`, `visual-refs/icons/`, `visual-refs/animation-refs/` | The owner's own image/video references | owner's material |
 
 ## How to use it for a task

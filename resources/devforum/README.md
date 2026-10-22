@@ -2,7 +2,7 @@
 
 Harvested 2026-10-21 from the public DevForum JSON API with `scripts/harvest_devforum.py`. Titles belong to their authors; follow the links to read them.
 
-13076 entries in 27 pages, sorted by popularity.
+13073 entries in 27 pages, sorted by popularity.
 
 | Page | Range |
 |---|---|
@@ -32,4 +32,4 @@ Harvested 2026-10-21 from the public DevForum JSON API with `scripts/harvest_dev
 | [24](page-24.md) | #11501-12000 |
 | [25](page-25.md) | #12001-12500 |
 | [26](page-26.md) | #12501-13000 |
-| [27](page-27.md) | #13001-13076 |
+| [27](page-27.md) | #13001-13073 |

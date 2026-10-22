@@ -4,8 +4,6 @@
 
 | Topic | Likes | Views | Category | Created |
 |---|---:|---:|---|---|
-| [CactusBase 2 - A simple extenal database](https://devforum.roblox.com/t/cactusbase-2-a-simple-extenal-database/2848679) | 17 | 977 | Resources | 2024-02-22 |
-| [Sound Analyzer and Visualizer](https://devforum.roblox.com/t/sound-analyzer-and-visualizer/682178) | 17 | 2636 | Resources | 2020-07-21 |
 | [Explorer Asset Preview [v1.0]](https://devforum.roblox.com/t/explorer-asset-preview-v10/2656917) | 17 | 2182 | Resources | 2023-10-22 |
 | [Auto Aiming/Targeting System Tutorial](https://devforum.roblox.com/t/auto-aimingtargeting-system-tutorial/3112818) | 17 | 18449 | Resources | 2024-08-11 |
 | [Uncopylocking my 4 game projects because they suck](https://devforum.roblox.com/t/uncopylocking-my-4-game-projects-because-they-suck/2558451) | 17 | 6123 | Resources | 2023-08-24 |
@@ -504,3 +502,5 @@
 | [Halloween Sound Effects and Music IDs from the Roblox Audio Catalog](https://devforum.roblox.com/t/halloween-sound-effects-and-music-ids-from-the-roblox-audio-catalog/3171258) | 15 | 13171 | Resources | 2024-09-24 |
 | [Visuality \| Transparencies Redefined](https://devforum.roblox.com/t/visuality-transparencies-redefined/4233614) | 15 | 969 | Resources | 2026-01-09 |
 | [RichEditableImage - EditableImage with TextLabels](https://devforum.roblox.com/t/richeditableimage-editableimage-with-textlabels/4938102) | 15 | 281 | Resources | 2026-10-16 |
+| [Modules for a Donation Game](https://devforum.roblox.com/t/modules-for-a-donation-game/3141065) | 15 | 1289 | Resources | 2024-08-31 |
+| [[R6] Floating Idle Animations](https://devforum.roblox.com/t/r6-floating-idle-animations/3012149) | 15 | 7429 | Resources | 2024-06-08 |

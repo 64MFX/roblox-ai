@@ -1,176 +1,9 @@
-# GitHub repositories tagged Roblox / Luau: page 3 of 11
+# GitHub repositories tagged Roblox / Luau: page 3 of 9
 
 [Index](README.md)
 
 | Repo | Stars | Language | License | Description |
 |---|---:|---|---|---|
-| [Chrrxs/kimodo-r15-retarget](https://github.com/Chrrxs/kimodo-r15-retarget) | 9 | Python | MIT | Retarget NVIDIA Kimodo text-to-motion BVH (SOMA somaskel77) onto Roblox R15 rigs as KeyframeSequence .rbxmx |
-| [Rapidsfoclass/Roblox-Unexpected-Client-Fix](https://github.com/Rapidsfoclass/Roblox-Unexpected-Client-Fix) | 9 |  |  | roblox error 268 fix — Roblox Unexpected Client Fix for Windows 11 & 10. Direct repair download and step-by-step fix guide. |
-| [uwufuzzywiiiaisddd/Roblox-Studio-Patcher](https://github.com/uwufuzzywiiiaisddd/Roblox-Studio-Patcher) | 9 | Rust | MIT | Unlock Studio's internal build and do anything with it — retheme it top to bottom and add native hooks |
-| [PumbaaDev/luau-decompiler](https://github.com/PumbaaDev/luau-decompiler) | 9 | Rust | MIT | Fast, fully-offline Luau bytecode decompiler, disassembler and obfuscator, written in Rust. Verified by semantic round-trip testing. |
-| [gogolumo/rbsmithy-roblox-claude-skill](https://github.com/gogolumo/rbsmithy-roblox-claude-skill) | 9 | Luau |  | A Claude Skill that turns Claude Code into a Roblox game development assistant for Luau, Rojo, multiplayer systems, 3D assets, optimization, QA, and production-ready Roblox releases. |
-| [cvcj503/permission_studio](https://github.com/cvcj503/permission_studio) | 9 | JavaScript | MIT | Visualize and debug Frappe and ERPNext permissions in one dashboard to quickly understand user access, roles, and document restrictions. |
-| [mehhovcki-dev/group-autoclaimer](https://github.com/mehhovcki-dev/group-autoclaimer) | 9 | Python | CC0-1.0 | brand new version of "mehhovcki group autoclaimer". |
-| [fiveman1/strafes-site](https://github.com/fiveman1/strafes-site) | 9 | TypeScript | MIT | Website for serving content from the StrafesNET Roblox games (bhop/surf) |
-| [jumpogpo/roblox-snipe-player](https://github.com/jumpogpo/roblox-snipe-player) | 9 | JavaScript |  | High-performance tool for finding Roblox players in game servers. Uses parallel processing, proxy rotation, and profile matching to locate players quickly. Works around Roblox API limitations. Perfect |
-| [Gh0styTongue/robloxAssetDownloader](https://github.com/Gh0styTongue/robloxAssetDownloader) | 9 | Python | MIT | This desktop application, built with Python, is for downloading any Roblox asset you throw at it. Yes, that includes the ones others can't handle. |
-| [AdvanceFTeam/Script_Searcher_Discord_Bot](https://github.com/AdvanceFTeam/Script_Searcher_Discord_Bot) | 9 | Python |  | A discord bot that searches script using Scriptblox & Rscripts API. |
-| [Sleitnick/rbx-doc-search](https://github.com/Sleitnick/rbx-doc-search) | 9 | JavaScript | MIT | Roblox Creator Docs search extension and data aggregation |
-| [GiFXED/Roblox-FFlag-Editor](https://github.com/GiFXED/Roblox-FFlag-Editor) (archived) | 9 | Python | Unlicense | a Python application designed for easy management of FFlags in Roblox. This tool allows users to toggle specific flags, set hip height values, and add custom FFlags. |
-| [worships/2021e-localhost-guide](https://github.com/worships/2021e-localhost-guide) (archived) | 9 |  |  | A guide on how to patch 2021E (early) ROBLOX client & server. (fixed jetray guide) |
-| [littensy/nanoai](https://github.com/littensy/nanoai) | 9 | Luau | MIT | ✨ Minimal library for creating neural networks |
-| [jensonhirst/rayfield-docs](https://github.com/jensonhirst/rayfield-docs) (archived) | 9 | Astro |  |  |
-| [scr-autopilot/scr-autopilot](https://github.com/scr-autopilot/scr-autopilot) (archived) | 9 | Python | Apache-2.0 | 🚄 The only fully automatic autopilot for Stepford County Railway. |
-| [SoCuul/ManualVerification](https://github.com/SoCuul/ManualVerification) (archived) | 9 | JavaScript |  | A self-hosted manual Roblox verification bot for Discord. |
-| [5S6/Roblox-Ally-Bot](https://github.com/5S6/Roblox-Ally-Bot) | 9 | Python | Apache-2.0 | A tool used to mass send ally requests to random groups. |
-| [jammees/Rethink-Engine](https://github.com/jammees/Rethink-Engine) (archived) | 9 | Lua | MIT | Versatile, easy-to-use 2D game engine for ROBLOX |
-| [AetherInteractiveLtd/Tina](https://github.com/AetherInteractiveLtd/Tina) | 9 | TypeScript | GPL-2.0 | ☄ A high-tech framework for the future of experiences on Roblox |
-| [Sightem/RoPP](https://github.com/Sightem/RoPP) | 9 | C++ | AGPL-3.0 | RoPP is a Roblox API end-point wrapper in C++ |
-| [scoobyluvs/Fake-Vouch](https://github.com/scoobyluvs/Fake-Vouch) | 9 | Python |  | fake vouch that replicates the "ticket" webhook vouch thing |
-| [Dew3/Roblox-Username-Checker](https://github.com/Dew3/Roblox-Username-Checker) | 9 | Python |  | Extremely fast Roblox username availability checker. |
-| [Mullets-Gavin/Roblox](https://github.com/Mullets-Gavin/Roblox) | 9 | Lua | MIT | Roblox Modules. These are all the modules I wrote that I didn't think needed a repository. Have fun & code may not be maintained here. |
-| [filiptibell/wally-utilities-extension](https://github.com/filiptibell/wally-utilities-extension) (archived) | 9 | TypeScript | MIT | Autocomplete, diagnostics, hover info & more for the Wally package manager |
-| [vocksel/context-controls](https://github.com/vocksel/context-controls) | 9 | Lua | MIT | Wrapper for ContextActionService with an easy to use API |
-| [FarFromLittle/Questline](https://github.com/FarFromLittle/Questline) | 9 | Lua | MIT | A Roblox Quest Creation Module |
-| [Dionysusnu/rbxts-rust-classes](https://github.com/Dionysusnu/rbxts-rust-classes) | 9 | TypeScript | MPL-2.0 | Typescript implementations of Rust's std types |
-| [LastTalon/Monolith](https://github.com/LastTalon/Monolith) | 9 | Lua | MIT | Monolith is a Luau collections library. |
-| [Quenty/ClassConverterPlugin](https://github.com/Quenty/ClassConverterPlugin) | 9 | Lua |  | Convert between classes, loading from Anaminus's API dump. Inspired by Stravant's ClassChanger. |
-| [suufi/Sphere](https://github.com/suufi/Sphere) | 9 | JavaScript | MIT | An Express-based API that can be used to moderate your ROBLOX game remotely. |
-| [TigersUniverse/LuauSharp](https://github.com/TigersUniverse/LuauSharp) | 9 | C# | MIT | A C# interpreter for Luau |
-| [CompeyDev/lune-packaging](https://github.com/CompeyDev/lune-packaging) | 9 | Rust |  | Cross-platform packaging scripts for lune. |
-| [roblox-aurora/rbxts-transform-debug](https://github.com/roblox-aurora/rbxts-transform-debug) | 9 | TypeScript | MIT | Debug transformers for roblox-ts |
-| [zriptic/roclicks-skills](https://github.com/zriptic/roclicks-skills) | 8 | Luau | MIT | Claude Code skills and the meshlab toolkit for making Roblox games: UI, VFX, stud builds, stud models in Lune, trailers, music. From roclicks.gg |
-| [cursed-blip/catstrap](https://github.com/cursed-blip/catstrap) | 8 | C# | MIT | A custom Roblox bootstrapper with a built-in asset proxy, quickplay, account profiles and a redesigned settings window. |
-| [TesseractSoftwares/Praxsuite-Roblox-Demo](https://github.com/TesseractSoftwares/Praxsuite-Roblox-Demo) | 8 | Python |  | Demo Roblox place built on the Praxsuite SDK for Lua - player auth, server-authoritative Minesweeper, cosmetics and redeem codes through Praxsuite gateway endpoints. |
-| [befexx/Moon-Animator-2-Unlocked](https://github.com/befexx/Moon-Animator-2-Unlocked) | 8 |  |  | Moon Animator 2 with removed "OUT OF DATE" lock and disabled version check. |
-| [yoits9090/plumber](https://github.com/yoits9090/plumber) | 8 | TypeScript | MIT | A Nintendo 64 emulator that runs inside Roblox — R4300 interpreter, software Fast3D rasterizer, and an EditableImage framebuffer. |
-| [ericplane/Luix](https://github.com/ericplane/Luix) | 8 | TypeScript | MIT | One VS Code extension that gives React-Luau, Roact, Fusion, and Vide users the same prop hints, hover docs, color pickers, RichText tooling, and asset previews. |
-| [Shadercloud/rbxts-react-clean-ui](https://github.com/Shadercloud/rbxts-react-clean-ui) | 8 | Luau | ISC | An easy to use React component library for Roblox |
-| [TesseractSoftwares/Praxsuite-SDK-Lua](https://github.com/TesseractSoftwares/Praxsuite-SDK-Lua) | 8 | Lua |  | SDK for implementing praxsuite into Lua based games: Roblox, FiveM, GarrysMod |
-| [lutest-dev/lutest](https://github.com/lutest-dev/lutest) (archived) | 8 | Luau | MIT | A modern test runner for Luau |
-| [krishsharma-code/krishsharma-code](https://github.com/krishsharma-code/krishsharma-code) | 8 |  |  | Computer Engineering Student @ DSEU \| Lead Developer @ VS Gaming Studio \| Building AI-Driven Web Solutions & Python Scripts 🚀 |
-| [JustineDevs/roblox-ai-os](https://github.com/JustineDevs/roblox-ai-os) | 8 | Lua |  | Roblox AI OS (Creator) Skills for Codex, Claude, Cursor, and more IDE |
-| [jaeymo/classy](https://github.com/jaeymo/classy) | 8 | Luau | MIT | Classy library. |
-| [Pugbread/ro-sync](https://github.com/Pugbread/ro-sync) | 8 | Rust |  | Local-first Roblox Studio control plane for humans and coding agents — two-way script sync, live DataModel inspection, capture, playtests, and Studio-aware lint from one CLI. |
-| [TheRouletteBoi/RobloxExternal-macOS](https://github.com/TheRouletteBoi/RobloxExternal-macOS) | 8 | C++ | MIT | ESP for most games on Roblox |
-| [panduh16/juju](https://github.com/panduh16/juju) | 8 | Lua | Apache-2.0 | Juju ported to work as a library, featuring much more than just the UI segment. |
-| [welcomestohell/boba](https://github.com/welcomestohell/boba) | 8 | Luau | Zlib | Idiomatic and type-safe Luau runtime typechecker |
-| [chansoo-kr/Roblox-Supabase](https://github.com/chansoo-kr/Roblox-Supabase) | 8 | TypeScript | MIT | A type-safe PostgREST client for Supabase, designed for Roblox servers using roblox-ts |
-| [roqols/omega](https://github.com/roqols/omega) | 8 | Python |  | Roblox External ESP |
-| [Cobbdevv/luau-grader](https://github.com/Cobbdevv/luau-grader) | 8 | Rust | MIT | Static analysis and grading tool for Luau code  (desktop app + CLI) |
-| [rbxlx/UniversalSynSaveInstance](https://github.com/rbxlx/UniversalSynSaveInstance) (archived) | 8 | Luau |  |  |
-| [pinkythegawd/Roblox-rbxl-extractor](https://github.com/pinkythegawd/Roblox-rbxl-extractor) | 8 | TeX | MIT | A specialized tool for extracting and recovering scripts, assets, and resources from Roblox RBXL files. This project aims to preserve and access content from Roblox place files, featuring intelligent |
-| [sparkiyy/Compo](https://github.com/sparkiyy/Compo) | 8 | TypeScript | MIT | A simple component framework for Roblox 🚀. |
-| [patangation/roblox-script-exporter](https://github.com/patangation/roblox-script-exporter) | 8 | Lua | MIT | Extract and organize Lua scripts from Roblox place files (.rbxl) using Lune runtime |
-| [SuperPuiu/Pwootie](https://github.com/SuperPuiu/Pwootie) | 8 | C | GPL-3.0 | Linux bootstrapper for ROBLOX Studio. |
-| [dubit/roblox-dubit-tools](https://github.com/dubit/roblox-dubit-tools) | 8 | Lua | MIT | This roblox-dubit-tools is a mono-repository that houses a multitude of tools that can be used across all projects on the Roblox platform. |
-| [AlexanderLindholt/PacketPlus](https://github.com/AlexanderLindholt/PacketPlus) | 8 | Luau | MIT | An improved version of the Packet networking library. |
-| [HiTZEimfan/Decompiled-Roblox-Games](https://github.com/HiTZEimfan/Decompiled-Roblox-Games) | 8 |  |  | Decompiled Roblox Games, Does not VIOLATE THE TOS Of ROBLOX. |
-| [IconPippi/MockMessagingService](https://github.com/IconPippi/MockMessagingService) | 8 | Lua | MIT | Localhost alternative to the MessagingService Roblox API |
-| [undertailx/roblox-bot-following](https://github.com/undertailx/roblox-bot-following) | 8 | Python |  | roblox-bot-following |
-| [PiratePeep/roblox-3d-avatar-viewer](https://github.com/PiratePeep/roblox-3d-avatar-viewer) | 8 | JavaScript |  | An implementation of Roblox's 3D avatar viewer in Next.JS |
-| [Missile05/erlcPY](https://github.com/Missile05/erlcPY) | 8 | Python |  | The first Python API wrapper for the ER:LC API. |
-| [gdr1461/GAdmin](https://github.com/gdr1461/GAdmin) | 8 | Lua |  | Highly customizable admin system for Roblox. |
-| [EfazDev/orangeblox](https://github.com/EfazDev/orangeblox) | 8 | Python | MIT | A Python Command line interface (CLI) bootstrapper inspired by Bloxstrap! |
-| [cxmeel/resurface-plugin](https://github.com/cxmeel/resurface-plugin) | 8 | Luau |  | Convert surfaces to studs and more. |
-| [zacharie410/GitHub-Integration-for-Roblox-Studio-with-Rojo-and-Visual-Studio-Code](https://github.com/zacharie410/GitHub-Integration-for-Roblox-Studio-with-Rojo-and-Visual-Studio-Code) | 8 | Lua | Apache-2.0 | Integrate Roblox Studio with GitHub using Rojo and Visual Studio Code for streamlined collaboration and version control. |
-| [Tunahan-Uysal/RoGen](https://github.com/Tunahan-Uysal/RoGen) | 8 | Python | BSD-2-Clause | An Image-To-3D Map Generator using Python and Lune |
-| [smoressy/Roblox-Alt-Generator-v3](https://github.com/smoressy/Roblox-Alt-Generator-v3) | 8 |  |  | Generate Roblox Alt Accounts Faster |
-| [elomala/Fighting-game](https://github.com/elomala/Fighting-game) | 8 | Lua |  | A roblox fighting game that I worked on |
-| [AlexR32/Roblox-Videoplayer](https://github.com/AlexR32/Roblox-Videoplayer) (archived) | 8 | Lua |  | Download YouTube videos and watch them directly in Roblox with this awesome script! |
-| [cxmeel/dump-parser](https://github.com/cxmeel/dump-parser) (archived) | 8 | Lua | MIT | Parses data from the Roblox API dump |
-| [iUnstable0/Roblox-Server-Joiner](https://github.com/iUnstable0/Roblox-Server-Joiner) | 8 | JavaScript | MIT | This userscript allows you to join a specific Roblox server with the server Job Id. Useful for game moderation. |
-| [datlass/fabrik-ik-motor6d](https://github.com/datlass/fabrik-ik-motor6d) | 8 | Lua | MIT | Open source vector based FABRIK solver for roblox rigs |
-| [ohretro/roblox-tweaker](https://github.com/ohretro/roblox-tweaker) (archived) | 8 | C# | GPL-3.0 | A program that allows you to tweak Roblox Textures |
-| [ValiantWind/cloudblox](https://github.com/ValiantWind/cloudblox) | 8 | TypeScript | MPL-2.0 | A Promise-Based API Wrapper for Roblox's Web API w/ Full Open Cloud Support |
-| [RadiatedExodus/LuaTextBox](https://github.com/RadiatedExodus/LuaTextBox) | 8 | Lua |  | LuaTextBox is a module providing a text input field with Lua syntax highlighting and autocompletion |
-| [iamysko/cds](https://github.com/iamysko/cds) | 8 | Java | Apache-2.0 | Discord bot based on Spring Boot. Implements JDA Discord API wrapper. |
-| [NotDSF/leopard](https://github.com/NotDSF/leopard) | 8 | Lua |  | The "fastest" serializer for Lua 5.1 and Roblox |
-| [Roblox-Thot/captchaCodeMakerV2](https://github.com/Roblox-Thot/captchaCodeMakerV2) (archived) | 8 | HTML | Apache-2.0 | Make Roblox's signup funcaptcha code so you can send to discord bots (PATCHED) |
-| [raphtalia/Enum](https://github.com/raphtalia/Enum) (archived) | 8 | Lua | MIT | Roblox Lua custom Enum library |
-| [jackssrt/robloxnotif](https://github.com/jackssrt/robloxnotif) (archived) | 8 | Python | MIT | A roblox friend notifier made in python. |
-| [TheArturZh/RTerrainGenerator](https://github.com/TheArturZh/RTerrainGenerator) | 8 | Lua | MIT | A procedural terrain generator for games on Roblox platform |
-| [Bytebit-Org/lua-linalg](https://github.com/Bytebit-Org/lua-linalg) | 8 | Lua | MIT | A simple script to implement linear algebra functions not provided by the Lua standard API, developed especially for use on Roblox |
-| [Quenty/PartToTerrainPlugin](https://github.com/Quenty/PartToTerrainPlugin) | 8 | Lua | MIT | Plugin that converts part to terrain for Roblox Studio, with options to preserve terrain underneath |
-| [Asleum/moonsweeper](https://github.com/Asleum/moonsweeper) | 8 | MoonScript | MIT | A game of Minesweeper written in Moonscript for Roblox |
-| [HuotChu/roblox-pubsub](https://github.com/HuotChu/roblox-pubsub) | 8 | Lua |  | PubSub Module for Roblox Lua |
-| [Word30210/luau-hangul](https://github.com/Word30210/luau-hangul) | 8 | Luau | MIT | a library for handling Hangul characters |
-| [tree-sitter-grammars/tree-sitter-luau](https://github.com/tree-sitter-grammars/tree-sitter-luau) | 8 | JavaScript | MIT | luau grammar for tree-sitter |
-| [UtoECat/miniLuau](https://github.com/UtoECat/miniLuau) (archived) | 8 | C++ | MIT | LuaU sources packaged into two files for easy embedding (just copy+paste them into your project). |
-| [jiwonz/lune-pathfs](https://github.com/jiwonz/lune-pathfs) | 8 | Luau | MIT | luau-path + @lune/fs with some utilities |
-| [SovereignSatellite/LuauJBC](https://github.com/SovereignSatellite/LuauJBC) | 8 | Kotlin |  | Luau bytecode to Java bytecode translation tool |
-| [OverlineJunior/toucan](https://github.com/OverlineJunior/toucan) | 8 | TypeScript | MIT | Opinionated ECS framework for productivity. |
-| [nokogoat/Rowork](https://github.com/nokogoat/Rowork) | 7 | TypeScript | MIT | Very early (v0.1.1): a meta-framework CLI for Roblox that sets up and runs Rojo, roblox-ts and Flamework, and generates the code your game keeps needing. |
-| [SPOOKEXE/atomic-game-engine](https://github.com/SPOOKEXE/atomic-game-engine) | 7 | C++ | MPL-2.0 | C++ Engine with Embedded Luau and TypeScript for multi-purpose game development. Multi-platform. |
-| [princeofscale/bloxforge](https://github.com/princeofscale/bloxforge) | 7 | Lua | MIT | Open-source AI agent toolkit for Roblox Studio |
-| [dannyphantomx64/aether-code](https://github.com/dannyphantomx64/aether-code) | 7 | JavaScript | MIT | Uncensored AI coding agent for your terminal — Claude Code alternative with MCP support. Drives IDA Pro, Roblox Studio, Wireshark, Blender, and any MCP server. |
-| [EmperorMetro/Roblox-Memory-Error-Fix](https://github.com/EmperorMetro/Roblox-Memory-Error-Fix) | 7 |  |  | roblox install failed fix — Roblox Memory Error Fix for Windows 11 & 10. Direct repair download and step-by-step fix guide. |
-| [TenebrisNoctua/FusionFoundation](https://github.com/TenebrisNoctua/FusionFoundation) | 7 | Luau | MIT | A Fusion port of Roblox's Foundation Library, to make UI components for Roblox. |
-| [Deltaandscreen23/Roblox-277-Reconnect-Fix](https://github.com/Deltaandscreen23/Roblox-277-Reconnect-Fix) | 7 |  |  | roblox error 277 — Roblox Error 277 Fix for Windows 11 & 10. Direct repair download and step-by-step fix guide. |
-| [Unreal-Works/jest-roblox-assassin](https://github.com/Unreal-Works/jest-roblox-assassin) | 7 | JavaScript | MIT | Make Jest feel like Jest. |
-| [ryanlua/roblox-studio-vscode-theme](https://github.com/ryanlua/roblox-studio-vscode-theme) | 7 | Luau | MIT | Roblox Studio light and dark themes for VS Code |
-| [KloBraticc/RiShade-old](https://github.com/KloBraticc/RiShade-old) (archived) | 7 | Python | MIT | RiShade Brings Roblox shaders back, enhancing visuals |
-| [herobrinecat/ReBloxLauncher](https://github.com/herobrinecat/ReBloxLauncher) | 7 | C# | GPL-3.0 | A launcher for old ROBLOX, but built from scratch |
-| [ema28pro/Multiple-Rich-Presence-Custom](https://github.com/ema28pro/Multiple-Rich-Presence-Custom) | 7 | JavaScript |  | Bridge en Java y userscripts para mostrar multiples estados de actividad simultaneos en Discord Rich Presence (Tetrio, YouTube, Anime, Roblox y estados custom). |
-| [ssynical/luau-parser](https://github.com/ssynical/luau-parser) | 7 | Luau | MIT | Fast lexer and parser for Luau with full AST support |
-| [R-unic/mechanism](https://github.com/R-unic/mechanism) | 7 | TypeScript |  | An elegant input wrapper for Roblox |
-| [4b1ss4l/rbxnamesniper](https://github.com/4b1ss4l/rbxnamesniper) | 7 | TypeScript |  | web-app roblox user username gamertag name-checker sniper-bot username-sniper roblox-username roblox-user username-finder username-availability auto-sniper fast-sniper username-tracker roblox-name sni |
-| [PathOnAIOrg/game-arena-roblox-starter](https://github.com/PathOnAIOrg/game-arena-roblox-starter) | 7 | Python |  | unofficial starter code for game arena roblox games |
-| [s-wick/FORTUNE_Products](https://github.com/s-wick/FORTUNE_Products) | 7 | Luau | MIT | Free assets for the developers of the Roblox car community |
-| [wizevaxel/pnguin](https://github.com/wizevaxel/pnguin) (archived) | 7 | Luau | MIT | A relatively fast, pure Luau PNG library |
-| [rbayuokt/roblox-virtual-piano-player](https://github.com/rbayuokt/roblox-virtual-piano-player) | 7 | Python |  |  |
-| [Aerodymier/Pathfinder](https://github.com/Aerodymier/Pathfinder) | 7 | Luau | MIT | A pathfinding character control module for Roblox using PathfindingService |
-| [seaofvoices/luau-character](https://github.com/seaofvoices/luau-character) | 7 | Luau | MIT | A Luau library for Unicode character classification and conversion |
-| [sivert-io/fbx-action-exporter](https://github.com/sivert-io/fbx-action-exporter) | 7 | Python | MIT | Export all animation actions in Blender as separate FBX files. Built for Roblox, Unreal Engine, Unity, and more 🎮 |
-| [Ransomwave/Roblox-Stream-Donations](https://github.com/Ransomwave/Roblox-Stream-Donations) | 7 | JavaScript | MIT | Get dynamic Robux donation alerts in OBS, with support for custom messages, TTS & more. (Similar to Streamlabs alerts) |
-| [AdvanceFTeam/Script_Searcher](https://github.com/AdvanceFTeam/Script_Searcher) | 7 | CSS |  | Search Roblox Script Using the Scriptblox API |
-| [DervexDev/setup-roblox-studio](https://github.com/DervexDev/setup-roblox-studio) | 7 | Shell | Apache-2.0 | Install Roblox Studio to use in your CI/CD workflow |
-| [matter-ecs/react-matter](https://github.com/matter-ecs/react-matter) | 7 | Luau | MIT | An interface between React and Matter |
-| [WaviestBalloon/RobloxFLogArchive](https://github.com/WaviestBalloon/RobloxFLogArchive) | 7 | TypeScript | GPL-3.0 | 🗄️ Roblox FLog Archive is a service to extract plaintext FLogs in the Roblox Player binary |
-| [blorbee1/ComputeLua](https://github.com/blorbee1/ComputeLua) | 7 | Lua | MIT | A simple library to make Parallel Luau easier |
-| [vocksel/matter-replication](https://github.com/vocksel/matter-replication) | 7 | Lua | MIT |  |
-| [frosteen/Roblox_LUA_Weapon_Scripts](https://github.com/frosteen/Roblox_LUA_Weapon_Scripts) | 7 | Lua | MIT | A collection of Roblox LUA Weapon Scrips which I have created back around my highschool days. |
-| [dannws/RobloxChannelChecker](https://github.com/dannws/RobloxChannelChecker) | 7 | Python | MIT | Roblox Channel Privacy Tracker made on python, auto updates embeds, open source and easy to use! |
-| [Redon-Tech/radio-system](https://github.com/Redon-Tech/radio-system) | 7 | Luau | MIT | A currently unnamed radio system for Roblox using the new voice/sound APIs |
-| [Roblox-Thot/DecalUploaderV2](https://github.com/Roblox-Thot/DecalUploaderV2) (archived) | 7 | Python | GPL-3.0 | Rewrite of the Decal Uploader (Broke) |
-| [PogoDigitalism/RobloxAuthenticator](https://github.com/PogoDigitalism/RobloxAuthenticator) | 7 | Python |  | A (a)synchronous wrapper for automatically authorizing Roblox HTTP requests with 6-digit TOTP (Mobile 2FA) |
-| [AstreusCoding/roblox-clothing-scraper](https://github.com/AstreusCoding/roblox-clothing-scraper) | 7 | Python |  | roblox clothing scraper |
-| [Rawblocky/RobloxPlugin-SubwaySurfers](https://github.com/Rawblocky/RobloxPlugin-SubwaySurfers) | 7 | Luau |  | I am so locked in |
-| [tp-link-extender/2013](https://github.com/tp-link-extender/2013) | 7 | Luau | Unlicense | Refactored and rewritten December 2013-related scripts and tools |
-| [Knuxy92/Ui-linoria](https://github.com/Knuxy92/Ui-linoria) | 7 | Lua | MIT |  |
-| [howmanysmall/Hooks](https://github.com/howmanysmall/Hooks) | 7 | Lua | MIT | Hooks for React |
-| [devsarim/roblox-project-template](https://github.com/devsarim/roblox-project-template) (archived) | 7 | Lua |  | In conclusion, this provides you with boilerplate for synced game state, player data saving, state synced UI, basic continuous integration workflow (styling and linting) and a nice organized structure |
-| [howmanysmall/RbxWeb](https://github.com/howmanysmall/RbxWeb) | 7 | Lua |  | Roblox DataStore module |
-| [RadiatedExodus/RunLSC](https://github.com/RadiatedExodus/RunLSC) | 7 | Lua | GPL-3.0 | Run scripts by selecting them and clicking a button or execute scripts in either server or client context regardless of the context |
-| [fewkz/character-realism](https://github.com/fewkz/character-realism) | 7 | Lua | MPL-2.0 | Fork of MaximumADHD's character realism with various improvements |
-| [fizzyhex/BufferModule](https://github.com/fizzyhex/BufferModule) | 7 | Lua | MIT | A system built to help combat input latency with physics-based items on Roblox! |
-| [Mullets-Gavin/Loader](https://github.com/Mullets-Gavin/Loader) | 7 | Lua | MIT | A library loader in Roblox Luau with lazy-loader compatibility and packaged with efficient libraries. |
-| [roblox-aurora/roact-dnd](https://github.com/roblox-aurora/roact-dnd) | 7 | Luau |  | Drag & drop functionality for Roact |
-| [codehouseRBLX/AntiBot](https://github.com/codehouseRBLX/AntiBot) | 7 | JavaScript | MIT | The newest way to detect scam bots in your Roblox game using machine learning |
-| [lunarlattice0/grapejuice-flatpak](https://github.com/lunarlattice0/grapejuice-flatpak) (archived) | 7 | Shell | GPL-3.0 | This is a community-created flatpak of the Grapejuice program found on GitLab. It is a WIP and should be run at your own risk. |
-| [iimurpyh/RobloxStudioOldIcons](https://github.com/iimurpyh/RobloxStudioOldIcons) | 7 |  |  | Port of Roblox Studio's old icon theme into the new format. |
-| [kotdes/Koute](https://github.com/kotdes/Koute) | 7 | Lua | MIT | Router library for Fusion |
-| [Stratiz/Eden](https://github.com/Stratiz/Eden) | 7 | Lua | MIT | A lightweight & flexible Roblox Luau game framework. |
-| [NotReeceHarris/DataStore3](https://github.com/NotReeceHarris/DataStore3) (archived) | 7 | HTML | Apache-2.0 | 🟥 Modular remote SQL storage for Roblox. |
-| [fxip/luaobfus](https://github.com/fxip/luaobfus) | 7 | C++ | MIT | simple lua obfuscator written in C++ |
-| [Blupo/Color](https://github.com/Blupo/Color) | 7 | Lua | MIT | A Roblox Luau library for color management and manipulation |
-| [de-contained/RoPy](https://github.com/de-contained/RoPy) | 7 | Python |  | A useful roblox API wrapper, that can register accounts, "login" into accounts, check robux, and more upcoming |
-| [Quenty/qCmdUtl](https://github.com/Quenty/qCmdUtl) | 7 | Lua | MIT | A plugin designed to streamline building and creation in Roblox Studio. |
-| [MemoryPenguin/RbxGitHubCloner](https://github.com/MemoryPenguin/RbxGitHubCloner) | 7 | Lua | MIT | Clone a GitHub repository to ROBLOX Studio. |
-| [devSparkle/sModules](https://github.com/devSparkle/sModules) (archived) | 7 | Lua | MIT | A selection of modules built to work with the Overture engine that speed-up the game development process. |
-| [benbrimeyer/rbx-plugin-testServiceWatcher](https://github.com/benbrimeyer/rbx-plugin-testServiceWatcher) | 7 | Lua | MIT | Automatically run unit tests when ModuleScript code changes in Roblox Studio ⚡ |
-| [osyrisrblx/rofresh](https://github.com/osyrisrblx/rofresh) (archived) | 7 | TypeScript | MIT | An automated sync plugin for Roblox Studio |
-| [anthony0br/RocketSys](https://github.com/anthony0br/RocketSys) (archived) | 7 | Lua | MIT | The third edition of the system built to simulate realistic rocket and projectile physics in Roblox |
-| [PlattinumBees/BeeSwarmSimulatorTimer](https://github.com/PlattinumBees/BeeSwarmSimulatorTimer) | 7 | Python |  | This is a simple timer to control the various respawn timers for Mobs and Loot in Roblox Bee Swarm Simulator |
-| [Corecii/roblox_steam_launcher](https://github.com/Corecii/roblox_steam_launcher) | 7 | Rust | MIT | Allows one to have the Steam overlay and Steam Input in Roblox by launching it through Steam. |
-| [mrparkerlol/script-builder](https://github.com/mrparkerlol/script-builder) (archived) | 7 | Lua | GPL-3.0 | A complete script builder in a single module script. Easy to use, easy to learn. |
-| [lode-luau/LodeRuntime](https://github.com/lode-luau/LodeRuntime) | 7 | C++ | MIT | A fast, modular runtime environment for executing Luau scripts. |
-| [contrafy/tern-grafana](https://github.com/contrafy/tern-grafana) | 7 | Luau | MIT | Grafana and Prometheus in the Tern terminal: native dashboards, PromQL, alerts and silences, logs, traces, and lenses for promtool, amtool and logcli. |
-| [neyuki-lang/neyuki](https://github.com/neyuki-lang/neyuki) | 7 | Rust | MIT | A Luau-inspired, batteries-included language with real integers and built-in bigint. HTTP, SQL, UI, crypto and automation out of the box. |
-| [contrafy/tern-kube](https://github.com/contrafy/tern-kube) | 7 | Luau | MIT | Native kubectl views for the Tern terminal: sortable tables, live Explore, one-key pod shells, previewed changes and GitOps drift. |
-| [hexagongemgate/Roblox-Luau-Formatter](https://github.com/hexagongemgate/Roblox-Luau-Formatter) | 7 | PowerShell | MIT | Lightweight developer utility for formatting Lua and Luau files and folders. |
-| [BrookenRecord/unicode-segmentation](https://github.com/BrookenRecord/unicode-segmentation) | 7 | Luau | MIT | ✂️ Grapheme cluster, word, and sentence segmentation according to UAX#29 rules |
-| [pesde-pkg/scripts](https://github.com/pesde-pkg/scripts) | 7 | Luau | MIT | The repository which houses scripts & other utilities for use with pesde |
 | [MineBill/odin-luau](https://github.com/MineBill/odin-luau) | 7 | Odin | MIT | Luau bindings for Odin. |
 | [LorettaDevs/Loretta.LanguageServer](https://github.com/LorettaDevs/Loretta.LanguageServer) (archived) | 7 | C# | MIT | A C# (G)Lua Language Server. |
 | [romdotdog/BigInteger.lua](https://github.com/romdotdog/BigInteger.lua) | 7 | Lua | Unlicense | A transpilation of https://github.com/Yaffle/BigInteger to Luau. |
@@ -183,7 +16,6 @@
 | [agnarbjoernstad/FindWaldo](https://github.com/agnarbjoernstad/FindWaldo) | 7 | Python | MIT | Finding Waldo/Where's Wally using convolutional neural networks. |
 | [GeoCodeCrafter/Cave](https://github.com/GeoCodeCrafter/Cave) | 6 | Luau | MIT | procedural mines for roblox. new mine every server, every cave connects |
 | [BaseSmokeHover/Roblox-Luau-Formatter](https://github.com/BaseSmokeHover/Roblox-Luau-Formatter) | 6 | PowerShell | MIT | Free Lua, Luau and Roblox code formatter with configurable formatting rules. |
-| [Paryx-games/roblox-manager](https://github.com/Paryx-games/roblox-manager) | 6 | Rust | MIT | A fast, lightweight Roblox account manager built with Rust and Tauri. Manage multiple Roblox accounts, launch games, manage groups, and switch between sessions with ease. |
 | [Horrid-12/Playnite-Roblox-Integration](https://github.com/Horrid-12/Playnite-Roblox-Integration) | 6 | C# |  | A Library Integration for Playnite that imports your favorited Roblox experiences as playable games. |
 | [tumasov69/roblox-fix-images](https://github.com/tumasov69/roblox-fix-images) | 6 | PowerShell | MIT | Не грузятся картинки, иконки и аватарки в Roblox — автоматическая диагностика и исправление DNS для Windows. Fix for Roblox images and thumbnails not loading. |
 | [cubacadabra/rust](https://github.com/cubacadabra/rust) | 6 | Rust | GPL-3.0 | Cross-platform Rust runtime shared by Cubacadabra Studio, iOS, Android, and web. Owns simulation, movement and collision, Luau execution, wgpu rendering, multiplayer client logic, shared app state, an |
@@ -233,13 +65,11 @@
 | [ThatTimothy/RoNew](https://github.com/ThatTimothy/RoNew) | 6 | JavaScript |  | In a single click, join the newest server of any Roblox experience! |
 | [dig1t/red](https://github.com/dig1t/red) | 6 | Luau | Apache-2.0 | Event-driven server-to-client, client-to-server, and server-to-server communication. |
 | [Reselim/cmdr-additions](https://github.com/Reselim/cmdr-additions) (archived) | 6 | Lua | MIT | Admin suite extension for Cmdr |
-| [AdamHing/ROBO](https://github.com/AdamHing/ROBO) | 6 | Python |  |  |
 | [R-unic/RoGems](https://github.com/R-unic/RoGems) (archived) | 6 | Ruby | MIT | A Ruby to Lua transpiler written in pure Ruby for use in the Roblox game engine |
 | [waaberi/WabzGroupFinder](https://github.com/waaberi/WabzGroupFinder) | 6 | Python |  | My group finder, decided to revive it. |
 | [olmescode/DataModule](https://github.com/olmescode/DataModule) | 6 | Lua | MIT | A Roblox Data Store Library for games |
 | [LovenseFunny/LovenseRBLX](https://github.com/LovenseFunny/LovenseRBLX) | 6 | Lua |  | Control your Lovense toy with Roblox |
 | [optimisticside/messenger](https://github.com/optimisticside/messenger) | 6 | Lua | Unlicense | A lightweight and simple cross-server messaging system for the Roblox platform |
-| [imacodr/romanager](https://github.com/imacodr/romanager) | 6 | JavaScript | Apache-2.0 | A Discord bot using noblox.js to manage Roblox groups as well as getting info. |
 | [Interfiber/rbxmidi](https://github.com/Interfiber/rbxmidi) | 6 | Rust |  | 🎹 Play roblox pianos with a MIDI keyboard |
 | [RbxAPI/Javablox](https://github.com/RbxAPI/Javablox) (archived) | 6 | Java | MIT | Retrofit2-based asynchronous Roblox endpoint wrapper |
 | [evaera/roblox-image-size](https://github.com/evaera/roblox-image-size) | 6 | Lua | MIT | A Roblox plugin that gives you the pixels size of a Roblox image asset |
@@ -251,7 +81,6 @@
 | [NotDSF/LuauDissasembler](https://github.com/NotDSF/LuauDissasembler) (archived) | 6 | Lua | MIT | A simple and efficient way of disassembling luau bytecode. |
 | [qwreey/quad](https://github.com/qwreey/quad) | 6 | Luau | MIT | State of the art Reactive rendering library for general luau engines such as Roblox, and targeting for GTK and Web-dom/Electron in future |
 | [sircfenner/CollisionGroupsEditor](https://github.com/sircfenner/CollisionGroupsEditor) | 6 | Lua | MIT | An alternative collision groups editor plugin for Roblox Studio. |
-| [DayLime/VP-Autoplayer](https://github.com/DayLime/VP-Autoplayer) | 6 | Python | MIT | A simple to use Autoplayer for Roblox Piano Games. |
 | [Shadercloud/rbxts-weather](https://github.com/Shadercloud/rbxts-weather) | 5 | Luau | ISC | Weather for roblox-ts: rain, snow, fog, storms, seasons and autumn leaves in one call, with zones, roof shelter and smooth transitions. Set on the server and drawn on every client. |
 | [xtrair/figma-to-roblox-ui](https://github.com/xtrair/figma-to-roblox-ui) | 5 | Python | MIT | Claude skill for high-fidelity Figma → Roblox Studio GUI import (Scale-only, UIStroke ScaledSize, UICorner scale) |
 | [Onur45500/blockforge](https://github.com/Onur45500/blockforge) | 5 | TypeScript | MIT | Open-source desktop app for building Roblox games with AI agents (roblox-ts, Rojo, Studio MCP, Open Cloud, OpenAI, Claude-Code) |
@@ -262,16 +91,11 @@
 | [WhiteCassowary/Roblox-529-Access-Fix](https://github.com/WhiteCassowary/Roblox-529-Access-Fix) | 5 |  |  | roblox error 529 fix — Roblox Error 529 Fix for Windows 11 & 10. Direct repair download and step-by-step fix guide. |
 | [Millifiguide/Roblox-403-Credential-Repair-Fix](https://github.com/Millifiguide/Roblox-403-Credential-Repair-Fix) | 5 |  |  | roblox error 403 authentication failed — Roblox Error 403 Fix for Windows 11 & 10. Direct repair download and step-by-step fix guide. |
 | [Kuenec/Eclipse](https://github.com/Kuenec/Eclipse) | 5 | Rust | MIT | Run Roblox on Linux with an open-source Android compatibility layer. A lightweight, native alternative to Sober. |
-| [IAmRobloxScripter-code/Macro-Nation](https://github.com/IAmRobloxScripter-code/Macro-Nation) | 5 | C++ |  | Macro Nation is a BSS Macro made for Linux! |
 | [jakeayy/server-hop-rs](https://github.com/jakeayy/server-hop-rs) (archived) | 5 | Rust |  | Roblox server hop tool. Quickly switch between servers in Roblox. Works both on Windows and Linux (through Sober) |
 | [iamthebestts/RoDocs-MCP](https://github.com/iamthebestts/RoDocs-MCP) | 5 | TypeScript | MIT | Your AI writes broken Roblox code. Give it RoDocs. |
 | [dig1t/skills](https://github.com/dig1t/skills) | 5 |  |  |  |
 | [Roxlit/installer](https://github.com/Roxlit/installer) | 5 | Rust | MIT | Open-source launcher that connects AI coding tools to Roblox Studio. One click setup for Rojo, RbxSync, MCP, and AI context packs. |
-| [nyachufemboy/Solium-Macro](https://github.com/nyachufemboy/Solium-Macro) | 5 | AutoHotkey | GPL-3.0 | The most Advanced And opensource Sols rng macro coded in AHK V1.1 |
-| [Fortune1243/erlc-api](https://github.com/Fortune1243/erlc-api) | 5 | Python |  | The most sophisticated open source API wrapper for ER:LC. |
 | [Xelvanta/roblox-custom-cursor](https://github.com/Xelvanta/roblox-custom-cursor) | 5 | Python | GPL-3.0 | Roblox Custom Cursor is a lightweight Windows application that makes it easy to customize your Roblox cursors with custom PNGs. |
-| [NirlekaPlay/asymptote-engine](https://github.com/NirlekaPlay/asymptote-engine) | 5 | Lua | GPL-3.0 | An open-source development system used for creating stealth games on Roblox, inspired by Entry Point and Operators, both made by Cishshato. |
-| [root44xs1/LoadString-Maker1](https://github.com/root44xs1/LoadString-Maker1) | 5 |  |  | Whit this you can generate loadstring for your lua scripts and your scripts will be saved to my repo so you can run your scripts all the time |
 | [OMouta/Rex](https://github.com/OMouta/Rex) (archived) | 5 | Luau | MIT | Build reactive, component-based user interfaces with Rex—a declarative UI framework inspired by React/VueJs patterns, designed specifically for Roblox and Luau. |
 | [AlexanderLindholt/LuauXML](https://github.com/AlexanderLindholt/LuauXML) | 5 | JavaScript | MIT | A simple, open-source XML-to-Luau converter, intended for and made for the Roblox text-rendering library Text+. |
 | [OMouta/Jelly](https://github.com/OMouta/Jelly) | 5 | TypeScript | MIT | A modern package manager for Roblox, built on top of Wally. Jelly provides a streamlined, npm-like experience with intelligent package optimization and a clean JSON configuration format. |
@@ -279,12 +103,8 @@
 | [TumbleWede/Val](https://github.com/TumbleWede/Val) | 5 | Luau | MIT | A simple, lightweight state management library for Roblox/Luau. |
 | [argon-rbx/argon-legacy](https://github.com/argon-rbx/argon-legacy) | 5 | JavaScript | Apache-2.0 | Argon - VS Code extension and Roblox plugin allowing easy two-way sync of code and instances in real time |
 | [Conikku/ClassicHeadConversion](https://github.com/Conikku/ClassicHeadConversion) | 5 | Luau | GPL-3.0 | Converts Roblox Dynamic heads to a classic form |
-| [RoWhoIs/RoMonitor](https://github.com/RoWhoIs/RoMonitor) (archived) | 5 | Python | AGPL-3.0 | An advanced Roblox item monitoring application to alert you on item updates. Please refer to Codeberg repository. |
-| [waktool/RankQuests](https://github.com/waktool/RankQuests) | 5 | AutoHotkey | GPL-3.0 | A Pet Simulator 99 macro for Windows. |
 | [Firebladedoge229/RobloxStudioManager](https://github.com/Firebladedoge229/RobloxStudioManager) | 5 | Python | GPL-3.0 | 🛠 A program that allows modification of Roblox Studio in multiple ways. |
 | [roblox-js/core](https://github.com/roblox-js/core) | 5 | TypeScript | MPL-2.0 | Effortlessly interact with the Roblox web API. |
-| [RoPresenceTools/RoSniper](https://github.com/RoPresenceTools/RoSniper) | 5 | Python | GPL-3.0 | CLI tool to stream snipe/join snipe Roblox players |
-| [Mikahael/roblox-avatar_shop-bot](https://github.com/Mikahael/roblox-avatar_shop-bot) | 5 | Python | MPL-2.0 | A simple python bot created to purchase limited ugc items while user is not present. |
 | [paralax034/RobloxModules](https://github.com/paralax034/RobloxModules) | 5 | Lua | GPL-3.0 | My scripts for help you |
 | [PreppHint/BiuBiu-VPN-The-Website-Unblocker](https://github.com/PreppHint/BiuBiu-VPN-The-Website-Unblocker) | 5 | JavaScript |  | Fast, ultra secure, and easy to use VPN service to protect your privacy online. Enjoy Unlimited Traffic and Bandwidth! |
 | [RoSeal-Extension/Data](https://github.com/RoSeal-Extension/Data) | 5 |  | GPL-3.0 | RoSeal's public data, hosted on data.roseal.live |
@@ -299,13 +119,9 @@
 | [opDavi1/Obby-Engine](https://github.com/opDavi1/Obby-Engine) | 5 | GDScript | GPL-3.0 | A clone of Roblox built for obbying |
 | [plainenglishh/remote-image-library](https://github.com/plainenglishh/remote-image-library) | 5 | Lua | MIT | A Roblox Luau library for loading remote image URLs. |
 | [CavefulGames/HandyNet](https://github.com/CavefulGames/HandyNet) | 5 | Luau | MIT | ByteNet fork made more handy |
-| [floridahaunted/daily-news-site-jekyll-template](https://github.com/floridahaunted/daily-news-site-jekyll-template) | 5 | JavaScript | GPL-3.0 | SEO-optimized and fully responsive Jekyll template for an entertainment news site ready for automated daily update and regeneration |
 | [seaofvoices/luau-disk](https://github.com/seaofvoices/luau-disk) | 5 | Luau | MIT | Immutable data structures for Lua/Luau |
-| [CryI3aby/Hyper-Clicker](https://github.com/CryI3aby/Hyper-Clicker) | 5 | Vue | GPL-3.0 | Modern auto-clicker built with Tauri |
-| [SmithRabbit/Roblox-Ids-Checker](https://github.com/SmithRabbit/Roblox-Ids-Checker) | 5 | Python |  | Simple Roblox Id checker |
 | [jammees/Threader](https://github.com/jammees/Threader) (archived) | 5 | Lua | MIT | Promise based Actor wrapper. |
 | [Paficent/Dex](https://github.com/Paficent/Dex) | 5 | Luau |  | Devtools for Roblox |
-| [karthikPattabhiram/Roverifica-v2](https://github.com/karthikPattabhiram/Roverifica-v2) | 5 | JavaScript | MIT | just an another roblox verification bot with advanced features apps and more coming soon |
 | [cens6r/robloxscripts](https://github.com/cens6r/robloxscripts) | 5 | Lua |  | small collection of cool roblox scripts |
 | [Beastslash/Roblox-RhythmService](https://github.com/Beastslash/Roblox-RhythmService) | 5 | Lua | MIT | Measure a player's rhythm |
 | [Mullets-Gavin/Network](https://github.com/Mullets-Gavin/Network) | 5 | Lua | MIT | A network wrapper for Roblox remote & bindable events and functions. |
@@ -313,11 +129,9 @@
 | [ConMur/StonkSimulator](https://github.com/ConMur/StonkSimulator) | 5 | Lua |  | Roblox stock simulation game |
 | [colbert2677/Roblox-Code-Samples](https://github.com/colbert2677/Roblox-Code-Samples) (archived) | 5 | Lua | Unlicense | A repository of free code samples that you can freely browse and use in your projects. Everything here is authored by me. Unlicensed repository. Inspirations credited where due. |
 | [daphnelucia/roblox-gameinstance-searcher](https://github.com/daphnelucia/roblox-gameinstance-searcher) (archived) | 5 | JavaScript |  | Simple program that can tell you (in small games) the game instance of a player in a place. |
-| [kosuke14/RBXLuaObfuscator](https://github.com/kosuke14/RBXLuaObfuscator) | 5 | Lua |  | RBXLua / Roblox / Lua 5.1 / LuaU Obfuscator (no loadstring) (Website is WIP) |
 | [revolutionxk/Custom-Roblox-Launcher](https://github.com/revolutionxk/Custom-Roblox-Launcher) | 5 | C++ | GPL-3.0 | A custom Roblox Launcher, made with C++ 20 |
 | [luhyeq/maple-predictor](https://github.com/luhyeq/maple-predictor) | 5 | Procfile |  | bloxflip / rblxwild rng predictor i made in python got pretty famous ngl |
 | [OriginalAlien/RBXAutoPhish](https://github.com/OriginalAlien/RBXAutoPhish) | 5 | Python |  | Targets users with a certain amount of RAP and sends them a phishing link. |
-| [brandonapt/bigbot](https://github.com/brandonapt/bigbot) | 5 | JavaScript | GPL-3.0 | A roblox-discord bot made for groups to remotely manage their groups! |
 | [guidojw/arora-api](https://github.com/guidojw/arora-api) | 5 | TypeScript | MIT | Backend used to access the Roblox Web API with extra features on top. |
 | [rsource-open-source/map-scripts](https://github.com/rsource-open-source/map-scripts) | 5 | Lua | Unlicense | 📖 Collection of Roblox scripts for making maps for the Roblox Bhop / Surf games. |
 | [tacheometry/SimpleSignals](https://github.com/tacheometry/SimpleSignals) (archived) | 5 | TypeScript | MIT | Get straight to connecting and firing! No more event instance boilerplate. Roblox RemoteEvent, RemoteFunction & BindableEvent wrapper. |
@@ -327,10 +141,8 @@
 | [Fiusen/filterTable](https://github.com/Fiusen/filterTable) | 5 | Lua |  | Lua/Roblox function to filter and deep search specific values inside tables blazingly fast |
 | [Sayemum/Roblox-Game-Development](https://github.com/Sayemum/Roblox-Game-Development) | 5 | Lua |  | This is the journey of how I became a Roblox developer and how it first got me into programming and video game development. |
 | [Bytebit-Org/event-log-roblox-plugin](https://github.com/Bytebit-Org/event-log-roblox-plugin) | 5 | TypeScript | MIT | A Roblox Studio Plugin for monitoring all RemoteEvents and BindableEvents in the data model. |
-| [guidojw/arora-discord](https://github.com/guidojw/arora-discord) | 5 | TypeScript | MIT | Extensive Discord utility bot that can optionally be connected with arora-api. Used in the 7000 member Twin-Rail and 2000 member NS Roblox servers. |
 | [justinkolaras/NS-V2-Game](https://github.com/justinkolaras/NS-V2-Game) | 5 | Lua |  | A Roblox framework for Next Saturday V2, coded in Luau. |
 | [homomorphist/factorial-defence-rbx](https://github.com/homomorphist/factorial-defence-rbx) | 5 | TypeScript | MIT | Roblox Tycoon Game |
-| [ribzix/ribzix.github.io](https://github.com/ribzix/ribzix.github.io) | 5 |  |  | A modified version of sysoppl/Cities-Skylines-heightmap-generator to accomodate the needs of roblox developers |
 | [haashim-ali/ROAST](https://github.com/haashim-ali/ROAST) (archived) | 5 | TypeScript | MIT | State Management Done Right |
 | [0zBug/Highlight](https://github.com/0zBug/Highlight) | 5 | Lua |  | A module for esp and chams inspired by roblox's highlight instance |
 | [Zytharian/RbxStargate](https://github.com/Zytharian/RbxStargate) | 5 | Lua | MIT | v20 of Stargates implemented on Roblox |
@@ -348,7 +160,6 @@
 | [luau-rs/luau](https://github.com/luau-rs/luau) | 5 | Rust | MIT | Reimplementation of Luau in pure Rust |
 | [omarcoaraujo/tint](https://github.com/omarcoaraujo/tint) | 5 | Luau | MIT | Terminal string styling library for Luau |
 | [gwigz/slua](https://github.com/gwigz/slua) | 5 | TypeScript | MIT | Various NPM packages for SLua, including SLua types and a TypeScriptToLua Plugin |
-| [cortesi/ruau](https://github.com/cortesi/ruau) | 5 | Rust | MIT | A pure-Rust Luau parser, type checker and VM |
 | [magicoal-nerb/luvm](https://github.com/magicoal-nerb/luvm) | 5 | Luau | MIT | Lua 5.1 reimplementation in typed Luau |
 | [yaeju1205/luau-precinct](https://github.com/yaeju1205/luau-precinct) | 5 | Luau | MIT | Finding code dependencies in pure luau |
 | [jiwonz/pesde-multitarget](https://github.com/jiwonz/pesde-multitarget) | 5 | Luau | MIT | Customizable and flexible build script for multiple pesde targets |
@@ -365,10 +176,7 @@
 | [notrtdsx/RoPY](https://github.com/notrtdsx/RoPY) | 5 | Python | GPL-3.0 | RoPY is a Python script that retrieves detailed information about Roblox users via the Roblox API. |
 | [Yolo-vault/project-boilerplate](https://github.com/Yolo-vault/project-boilerplate) | 5 | Lua |  | 🛠️ Roblox project boilerplate for efficient game development. |
 | [Fadify/RO-TX](https://github.com/Fadify/RO-TX) | 5 | Lua |  | Making roblox more realistic. |
-| [olegroblox/OlegPainter](https://github.com/olegroblox/OlegPainter) | 4 | Python | GPL-3.0 | Бесплатная программа, которая сама рисует любую картинку мышью: Roblox, Gartic Phone, Rust, Paint |
 | [JuanCrakYT/RtG-Format](https://github.com/JuanCrakYT/RtG-Format) | 4 | Python | GPL-3.0 | An independent technical documentation of the Road to Gramby's (Roblox game) construction/save system. |
-| [apiRBX/RCT](https://github.com/apiRBX/RCT) | 4 | HTML |  | Roblox Client Tracker |
-| [vexk1x/Vortex](https://github.com/vexk1x/Vortex) | 4 | C# | MIT | Sol's RNG Biome/Aura Detector that supports Multiple Webhooks and Accounts. |
 | [Daniele-Cangi/worldloop-technical-showcase](https://github.com/Daniele-Cangi/worldloop-technical-showcase) | 4 |  |  | Public technical showcase for WorldLoop procedural architecture, semantic CAD, Terrain compilation, and Roblox Studio delivery. |
 | [cubacadabra/first-game](https://github.com/cubacadabra/first-game) | 4 | Luau | GPL-3.0 | Spellbound Schoolyard, Cubacadabra’s first portable example game. A kid-friendly cooperative charm-collecting loop built with a declarative world manifest and Luau rules, designed to run across the we |
 | [KSAGlory/KSA-Accessibility-Preflight](https://github.com/KSAGlory/KSA-Accessibility-Preflight) | 4 | Luau | MIT | A free, read-only Roblox Studio accessibility preflight plugin for UI contrast, text scaling, small text, and reduced-motion checks. |
@@ -384,7 +192,6 @@
 | [iceblox-app/iceblox](https://github.com/iceblox-app/iceblox) | 4 |  |  | Optmized Linux Roblox Runtime |
 | [btc7274/control-hints](https://github.com/btc7274/control-hints) | 4 | Luau | MIT | A module for Roblox that generates game controls UI based on the Input Action System. |
 | [robby-gridpoint/Rotellisense](https://github.com/robby-gridpoint/Rotellisense) | 4 | TypeScript | MIT | Live Roblox IntelliSense, script search, and decompile for VS Code. |
-| [berkay-digital/roblox-private-server-joiner](https://github.com/berkay-digital/roblox-private-server-joiner) | 4 | AutoHotkey |  | Roblox private server joiner. It monitors for disconnects and game closures. |
 | [EL4CTEO/roblox-devforum-mcp](https://github.com/EL4CTEO/roblox-devforum-mcp) | 4 | TypeScript | MIT | Give your AI coding agent the Roblox DevForum and official creator docs — check if a bug is already known, read the accepted answer, and verify APIs before writing Luau. |
 | [R-unic/action-journal](https://github.com/R-unic/action-journal) | 4 | TypeScript |  | Record & sync state changes and replay, rollback, or inspect state at certain timestamps |
 | [Galkurta/Auto-Rejoin](https://github.com/Galkurta/Auto-Rejoin) | 4 | Python |  | Roblox private server auto rejoiner |
@@ -401,10 +208,8 @@
 | [evilbocchi/bocchi-upgrade-tree](https://github.com/evilbocchi/bocchi-upgrade-tree) | 4 | Luau | MIT | An upgrade tree game on Roblox |
 | [R-unic/runit](https://github.com/R-unic/runit) | 4 | TypeScript | MIT | A unit testing library for Roblox heavily inspired by xUnit from C# |
 | [transicle/Direxecute](https://github.com/transicle/Direxecute) (archived) | 4 | TypeScript | MIT | Directly run Lua from Visual Studio Code into your Roblox environment via WebSockets. |
-| [ittzspsv/LilyBot](https://github.com/ittzspsv/LilyBot) | 4 | Python |  | Multi-purpose Discord bot designed to do almost any stuffs |
 | [azelised/kiwicursor](https://github.com/azelised/kiwicursor) | 4 | HTML | MIT | KiwiCursor is a heavily customizable mouse that also has a lot of useful features, it also contains features not added to the current mouse such as better billboard support, better dragging, 3D gui fu |
 | [Serversides/Model-Botter](https://github.com/Serversides/Model-Botter) | 4 | JavaScript |  | A free-to-use model botter founded by breadbars |
-| [Jimqr/Grow-a-Garden-Stock-Notifier-](https://github.com/Jimqr/Grow-a-Garden-Stock-Notifier-) | 4 | Python |  | Grow A Garden Stocks Tracker with Notifications |
 | [jesodium/subplacity](https://github.com/jesodium/subplacity) | 4 | JavaScript | EPL-2.0 | roblox subplace finder |
 | [R-unic/ion](https://github.com/R-unic/ion) | 4 | C++ |  | Statically typed language built for Roblox that compiles to Luau |
 | [sm7h/Roblox-Friend-Remover](https://github.com/sm7h/Roblox-Friend-Remover) | 4 | JavaScript | MIT | Modern and stylish Chrome extension to mass remove friends on Roblox with animations, themes, and smart tools. |
@@ -412,7 +217,6 @@
 | [typical-developers/goblox](https://github.com/typical-developers/goblox) | 4 | Go | GPL-3.0 | A Golang library for accesing Roblox APIs. |
 | [amirfarzamnia/json-schema-to-luau](https://github.com/amirfarzamnia/json-schema-to-luau) (archived) | 4 | Rust | MIT | Convert JSON Schema to Luau type definitions with full support for constraints and advanced schema features. Moved to: https://github.com/streamier-labs/jsonschema-luau |
 | [nothazel/roblox-private-server-manager](https://github.com/nothazel/roblox-private-server-manager) | 4 | Python | MIT | A GUI tool for managing Roblox private server subscriptions and state |
-| [Euronymou5/RBX-Scrapper](https://github.com/Euronymou5/RBX-Scrapper) | 4 | Python | MPL-2.0 | RBX-Scrapper es una herramienta que obtiene información de un perfil de roblox por medio de su nombre de usuario. |
 | [8damon/TASX-Roblox-Optimizer](https://github.com/8damon/TASX-Roblox-Optimizer) (archived) | 4 | C++ | MIT | Multi-Instance CPU RAM Affinity Optimizer & Resource Limiter |
 | [CavefulGames/rbxclothing](https://github.com/CavefulGames/rbxclothing) | 4 | Luau | MIT | Clothing without Humanoid |
 | [AlexanderLindholt/Inxpect](https://github.com/AlexanderLindholt/Inxpect) (archived) | 4 | Luau | MIT | A super easy and efficient API map builder for Roblox, with plugin support and smart cross-communication. |
@@ -429,14 +233,10 @@
 | [include-marcy/Hera](https://github.com/include-marcy/Hera) | 4 | Luau | GPL-3.0 | Hera is an Interface Animation Design Tool and API created for Roblox Studio by Marceline Croyle. |
 | [szimione/RobloxCursorChanger](https://github.com/szimione/RobloxCursorChanger) | 4 | Python |  | This short but effective program will change your roblox cursor to the old one. Very simple and easy to use! |
 | [autonordev/tools](https://github.com/autonordev/tools) (archived) | 4 | JavaScript |  | This project has been retired, and I couldn't be bothered making the website work. Use Jafa instead: |
-| [Discord-Bot-Network/Loading-Screen-Bloxstrap](https://github.com/Discord-Bot-Network/Loading-Screen-Bloxstrap) | 4 | Python | MIT | Custom loading screen for Bloxstrap. |
 | [owen-mp/roblox-auth-intent-reversed](https://github.com/owen-mp/roblox-auth-intent-reversed) | 4 | JavaScript |  | roblox auth frfr |
-| [Damian-11/quizbot](https://github.com/Damian-11/quizbot) | 4 | Luau | GPL-3.0 | The most sophisticated Roblox quiz script with easy custom question creation, a comprehensive point tracking system, autoplay functionality, filtered message detection, and more. |
-| [waktool/CombineKeys](https://github.com/waktool/CombineKeys) | 4 | AutoHotkey | GPL-3.0 | A Pet Simulator 99 macro for Windows. |
 | [T-R-I-X/Jorik-TS](https://github.com/T-R-I-X/Jorik-TS) | 4 | TypeScript | MIT | A opensource RobloxMMORPG written in Roblox-TS |
 | [tp-link-extender/MercuryLauncher](https://github.com/tp-link-extender/MercuryLauncher) | 4 | F# | Unlicense | Launcher for Mercury Core-based game creation platforms |
 | [ThemSatan/PROJECT-Open-Light](https://github.com/ThemSatan/PROJECT-Open-Light) | 4 |  |  | Roblox Game Project - Progress 100% |
-| [DullSmallmega176/BloxburgMacro](https://github.com/DullSmallmega176/BloxburgMacro) | 4 | AutoHotkey | GPL-3.0 | Just a simple macro for bloxburg's cashier job in fast food. |
 | [imacodr/Construct](https://github.com/imacodr/Construct) | 4 | Lua | MIT | The ultimate component library for Fusion with next level theming capabilities. |
 | [zildjibian/moon-plus](https://github.com/zildjibian/moon-plus) | 4 |  |  | A Roblox plugin that allows you to mod Moon Animator 2. |
 | [counterblox-restoration-opensource/counterblox-sauce-restored](https://github.com/counterblox-restoration-opensource/counterblox-sauce-restored) | 4 |  |  | The source code of Counter Blox: Sauce - Restored (also known as CB:S or CB: Sauce), the first experience of the Counter Blox Resotration Project. |
@@ -447,19 +247,15 @@
 | [ukrblx/UK-s-Group-Finder](https://github.com/ukrblx/UK-s-Group-Finder) | 4 | HTML |  | UK's Group Finder is a powerful Python script designed to efficiently discover active and unowned Roblox groups. Leveraging asynchronous requests and threading, it rapidly checks the status of groups |
 | [metatablecatgames/catwork](https://github.com/metatablecatgames/catwork) | 4 | Luau | MIT | A declarative runtime and object framework for Luau! |
 | [flipbook-labs/storyteller](https://github.com/flipbook-labs/storyteller) | 4 | Luau | MIT | Discovery and rendering of UI stories in Roblox, the engine powering Flipbook |
-| [JustOptimize/rolinked-malware-analysis](https://github.com/JustOptimize/rolinked-malware-analysis) (archived) | 4 | JavaScript |  | A detailed analysis of a sophisticated Roblox credential-stealing malware, focusing on its methods, features, and mitigation strategies. |
-| [ItsQuadrus/roblox-discord](https://github.com/ItsQuadrus/roblox-discord) | 4 | Python |  | Discord bot built using discord.py to join your friends easily using Roblox deeplinks |
 | [dig1t/roblox-modules](https://github.com/dig1t/roblox-modules) | 4 | Luau | Apache-2.0 | Modules and Libraries for development in Roblox |
 | [jdeath/Roblox-Homeassistant](https://github.com/jdeath/Roblox-Homeassistant) | 4 | Python |  | Roblox Sensor For Homeassistant |
 | [Shambi-0/Luau-Sha256](https://github.com/Shambi-0/Luau-Sha256) (archived) | 4 | Lua | MIT | A Sha256 Implementation, Optimized for luaU. |
-| [devsarim/roblox-catalog-proxy-server](https://github.com/devsarim/roblox-catalog-proxy-server) | 4 | JavaScript |  | A template to get you up and running with your own web server in minutes. |
 | [Yusamika/Roblox-Place-Viewer](https://github.com/Yusamika/Roblox-Place-Viewer) | 4 | JavaScript | MIT | Type in a Roblox UserID, and it will automatically fetch all public places linked to them. |
 | [tyradigital/tyblox.js](https://github.com/tyradigital/tyblox.js) (archived) | 4 | JavaScript | MIT |  |
 | [blake-mealey/mantle-examples](https://github.com/blake-mealey/mantle-examples) (archived) | 4 |  | MIT | Example projects for https://github.com/blake-mealey/mantle |
 | [raphtalia/Class](https://github.com/raphtalia/Class) (archived) | 4 | Lua | MIT | Roblox Lua class module |
 | [AwesomePossum212/nametag-plus](https://github.com/AwesomePossum212/nametag-plus) | 4 | Lua | MIT | A performant and modular solution to Roblox's default nametag system that automatically supports titles, health bars, and more. |
 | [WhitehillGroup/RankCache](https://github.com/WhitehillGroup/RankCache) | 4 | Lua | MIT | A library designed to make it easier to obtain up-to-date group ranking information across all of your in-game scripts. |
-| [Mikael/Roblox-mass-account-checker](https://github.com/Mikael/Roblox-mass-account-checker) | 4 | JavaScript | MIT | title says it all |
 | [tru9/denblox](https://github.com/tru9/denblox) | 4 | TypeScript | MIT | A Deno API Wrapper for connecting projects to the ROBLOX Official API. |
 | [polychromatist/luau-vim](https://github.com/polychromatist/luau-vim) (archived) | 4 | Vim Script | MIT | Roblox Luau vim syntax plugin |
 | [andriivmnd/rbx-autoregister](https://github.com/andriivmnd/rbx-autoregister) | 4 | Python |  | Automatic registration of roblox accounts |
@@ -475,7 +271,6 @@
 | [TheSecondTry/RobloxTAS](https://github.com/TheSecondTry/RobloxTAS) | 4 | Lua |  | A crappy TASing script I made. |
 | [bstummer/matrix](https://github.com/bstummer/matrix) | 4 | Lua | MIT | A lightweight, feature-rich matrix mathematics library for Luau. Supports standard arithmetic operators, determinants, inverses, and matrix transformations. |
 | [TomerGamerTV/Bloxcrusher-1.1.8](https://github.com/TomerGamerTV/Bloxcrusher-1.1.8) | 4 | HTML |  | Backup of the software bloxcrusher that used to mine cryptocurrency and convert it to Robux |
-| [techoholic/bss](https://github.com/techoholic/bss) | 4 | Python |  | A script (and dependencies) that allow you to record, playback, and sequence recordings of your keyboard and mouse for AFKing in games and many other uses! |
 | [Bytebit-Org/roblox-RoactStudioComponents](https://github.com/Bytebit-Org/roblox-RoactStudioComponents) | 4 | TypeScript | MIT | Meant for being used for plugin development. |
 | [CompeyDev/roblox.js](https://github.com/CompeyDev/roblox.js) | 4 | TypeScript | MIT | ⚒ A JavaScript wrapper for the ROBLOX OpenCloud API. |
 | [Scripped/Roblox-Inventory-Shopper](https://github.com/Scripped/Roblox-Inventory-Shopper) | 4 | JavaScript |  | Displays what a user is currently wearing, as well as the urls of these items. |
@@ -484,7 +279,6 @@
 | [Verveo/Basic-Admin-Remade](https://github.com/Verveo/Basic-Admin-Remade) | 4 | Lua |  | 🛡️ Basic Admin Remade, a brand new, remade, version of Basic Admin on Roblox! |
 | [veloii/roblox-random-gen](https://github.com/veloii/roblox-random-gen) | 4 | TypeScript | MIT | Generate a random roblox game. |
 | [RefinedDev/rbx-ds-cloud](https://github.com/RefinedDev/rbx-ds-cloud) | 4 | Rust | MIT | CLI and API Wrapper for Roblox's Datastore Open Cloud API |
-| [mybot-rblx/FunBlox.js](https://github.com/mybot-rblx/FunBlox.js) | 4 | TypeScript | MIT | We are a roblox wrapper API on development! |
 | [rimuy/roselect](https://github.com/rimuy/roselect) | 4 | Lua | MIT | composable data selectors library |
 | [diegoaybar/RobuxCalculator](https://github.com/diegoaybar/RobuxCalculator) | 4 | HTML | MIT | A sleek and intuitive calculator designed for Roblox players to measure Robux taxes, accounting for the 30% Roblox tax |
 | [c00lkiddisthebest/c00lhub](https://github.com/c00lkiddisthebest/c00lhub) | 4 |  | GPL-3.0 | Hub/Collection of Roblox scripts. |
@@ -504,3 +298,209 @@
 | [chocolate-bar2410/numluau](https://github.com/chocolate-bar2410/numluau) | 4 | Luau | MIT | scientific computing for luau |
 | [gwigz/slua-archive](https://github.com/gwigz/slua-archive) (archived) | 4 | Luau |  | Work in progress SLua focused projects |
 | [seaofvoices/luau-package-standard](https://github.com/seaofvoices/luau-package-standard) | 4 |  |  | A standard to bridge the gaps between different Luau and Lua environments. |
+| [CavefulGames/dalbit-polyfill](https://github.com/CavefulGames/dalbit-polyfill) | 4 | Luau | MIT | Pure lua libraries for emulating luau libraries used for transpiling in dalbit |
+| [flakey5/luau-visualstudio](https://github.com/flakey5/luau-visualstudio) | 4 | C# | MIT | Luau (https://luau-lang.org/) support for Visual Studio. |
+| [astomih/sinen](https://github.com/astomih/sinen) | 4 | C++ | MIT | A Creative Coding framework for Luau |
+| [CompeyDev/rojo-build-action](https://github.com/CompeyDev/rojo-build-action) | 4 | TypeScript |  | A GitHub action to automate Rojo project builds. |
+| [littensy/flamework-gateways-mod](https://github.com/littensy/flamework-gateways-mod) | 4 | TypeScript |  | Implement Flamework remotes with classes |
+| [Sleitnick/rbxts-beacon](https://github.com/Sleitnick/rbxts-beacon) | 4 | TypeScript | MIT | Beacon is a signal implementation for sending and receiving events |
+| [Gloomsen/Roblox.lua](https://github.com/Gloomsen/Roblox.lua) | 4 |  | CC0-1.0 | Scriptlets for Roblox Games |
+| [Retiis/RobloxServer](https://github.com/Retiis/RobloxServer) | 4 | ASP.NET | MIT | An open-source 2015 Roblox private server! |
+| [royce-mathew/robloxapi](https://github.com/royce-mathew/robloxapi) | 4 | Rust | MIT | An Asynchronous Rust API Wrapper for Roblox. |
+| [woojiahao/dotfiles](https://github.com/woojiahao/dotfiles) | 4 | Lua |  | All my Linux configurations |
+| [twistedsignal/prism](https://github.com/twistedsignal/prism) | 3 | Python | MIT | Render Roblox Studio models into icons with Blender, right from a Studio plugin. |
+| [buwryme/Roseline](https://github.com/buwryme/Roseline) | 3 | Rust | GPL-3.0 | Run the macOS builds of Roblox with ease, using Rosemary. |
+| [tachy0nnn/cork](https://github.com/tachy0nnn/cork) | 3 | Rust | AGPL-3.0 | An experimental Roblox runtime for Linux |
+| [rodrigo-guerraa/roblox-hub](https://github.com/rodrigo-guerraa/roblox-hub) | 3 | Lua | MIT | Toolkit for building Roblox games with Claude Code: a Rojo project template, drop-in game systems (saving, monetization, live-ops, a cartoon UI kit) and agent skills. |
+| [RomanHein/luau-result](https://github.com/RomanHein/luau-result) | 3 | Luau | MIT | A lightweight and type-safe Result implementation for Luau. |
+| [adamjthompson/Gaming-Status-Agent](https://github.com/adamjthompson/Gaming-Status-Agent) | 3 | Python |  | A game status reporter for Epic, Ubisoft, GOG, Battle.net, EA, Amazon Games, Playnite, and MORE! Steam and Xbox tracking are also included as options. It sends game titles via MQTT that can then be us |
+| [VapexGit/TileSweep](https://github.com/VapexGit/TileSweep) | 3 | Luau | MIT | TileSweep module for Roblox games. Easy to use, configure and change. |
+| [pengyni/auto-security-patcher](https://github.com/pengyni/auto-security-patcher) | 3 |  | MIT | Security hardener for Economy Simulator / Bubbablox ECS setups. Join our Discord for any questions or more releases: |
+| [Vexx3/Ascent](https://github.com/Vexx3/Ascent) | 3 |  | Zlib | A Roblox Studio template for Eternal Towers of Hell-style fangames. |
+| [Walbertb4/Netcutter-lag-switch](https://github.com/Walbertb4/Netcutter-lag-switch) | 3 | Python | MIT | Windows utility to instantly cut and restore network access for selected applications via a global hotkey — built for testing connection-loss handling and anti-lag-switch mechanics. |
+| [KocakZHub/Roblox](https://github.com/KocakZHub/Roblox) | 3 | Luau |  | Roblox scripts for KocakZ Hub |
+| [BakedAleska/Toolblox](https://github.com/BakedAleska/Toolblox) | 3 | MDX | MIT | A local-first cross platform app for managing and launching Roblox accounts. Download Toolblox-Setup.exe from the latest release. |
+| [EpicNeco/Lemonyde](https://github.com/EpicNeco/Lemonyde) | 3 | Rust | GPL-3.0 | Lemonyde is a community made bootstrapper for Mocktail |
+| [chahat1709/professional-game-developer.skill](https://github.com/chahat1709/professional-game-developer.skill) | 3 | Python | MIT | Universal Professional Game Developer skill for coding agents — Unreal, Unity, Godot, Roblox, Web — production workflow, senior patterns, executable quality gates |
+| [Hermivore8151/RoReview](https://github.com/Hermivore8151/RoReview) | 3 | JavaScript | AGPL-3.0 | Reviews for roblox users |
+| [LightZirconite/Kiln](https://github.com/LightZirconite/Kiln) | 3 | C++ | GPL-3.0 | Run Roblox & Studio on Linux |
+| [anth0nycodes/mm2-item-info](https://github.com/anth0nycodes/mm2-item-info) | 3 | TypeScript | MIT | A CLI tool for Murder Mystery 2 (MM2) that returns information about a weapon, pet, or misc item. |
+| [LytharaLab/GFBS-Main](https://github.com/LytharaLab/GFBS-Main) | 3 |  |  | A Minecraft mod project dedicated to recreating QSERF (Roblox). |
+| [erlcrussia/ERLC-Russia-Documentation](https://github.com/erlcrussia/ERLC-Russia-Documentation) | 3 | MDX |  | Официальный репозиторий исходных материалов для базы знаний и документации проекта ER:LC Россия. |
+| [MrRoblick/chacha20-luau](https://github.com/MrRoblick/chacha20-luau) | 3 | Luau | MIT | A ChaCha20 encryption module written in Luau |
+| [AegisLua/AegisVM](https://github.com/AegisLua/AegisVM) | 3 | Luau | MIT | A fully sandboxed Luau interpreter built entirely in Luau that lexes, parses, and executes Luau code at runtime using a custom lexer, Pratt parser, and AST-based interpreter inside Roblox. |
+| [J4KEWasNotHere/Vigets-RBX](https://github.com/J4KEWasNotHere/Vigets-RBX) | 3 | Lua | MIT | Easily convert your UI Objects into Vide code or Stories for Roblox Studio. |
+| [DataGrout/tether](https://github.com/DataGrout/tether) | 3 | Lua | MIT | Lightweight DataGrout client for Roblox: connect your game to logic cells, batteries, and 100+ DG tools from Luau |
+| [NotKisoMomo/Mitt](https://github.com/NotKisoMomo/Mitt) | 3 | Luau |  | Mitt is a full-stack input library for Roblox. It provides a unified action registry, context-aware filtering, combo and shortcut detection, Promise-based async flows, session-based state containers, |
+| [wast3r1/RobloxImageFix](https://github.com/wast3r1/RobloxImageFix) | 3 | C# | MIT | Roblox CDN Image Fix — DNS Configuration Tool with Glass UI |
+| [zhsj0089944/roblox-free-assets.skill](https://github.com/zhsj0089944/roblox-free-assets.skill) | 3 | Python | MIT | Roblox 游戏 UI 图标素材自动化工具链。4176 个免费商用游戏图标本地索引，搜索→下载→转换→上传 Roblox Studio 全流程。适用于技能图标、背包、商店、HUD 等 UI 设计场景。 |
+| [J4KEWasNotHere/Loom](https://github.com/J4KEWasNotHere/Loom) | 3 | Lua | MPL-2.0 | A Native package manager for Roblox Studio that imports and manages Wally packages, and rojo-like files directly inside the editor. |
+| [catchsolicitorcoil/Roblox-High-Ping-Fix](https://github.com/catchsolicitorcoil/Roblox-High-Ping-Fix) | 3 |  |  | roblox high ping fix — Roblox High Ping Fix for Windows 11 & 10. Direct repair download and step-by-step fix guide. |
+| [amagibrilliantpark/RoBo](https://github.com/amagibrilliantpark/RoBo) | 3 | HTML | AGPL-3.0 | Real-time synchronized AI-powered agentic Roblox Studio assistant |
+| [KisaragiCraft/VE2RBX-OSS](https://github.com/KisaragiCraft/VE2RBX-OSS) | 3 | Python | GPL-3.0 | Local converter for bringing VoxEdit / The Sandbox assets into Roblox as FBX, GLB, and OBJ. |
+| [Huyckmy/Library](https://github.com/Huyckmy/Library) | 3 | Lua |  | Ui Bear Library |
+| [OK-ORCO/roblox-portfolio-mcp](https://github.com/OK-ORCO/roblox-portfolio-mcp) | 3 | Python | MIT | Read-only MCP server exposing a Roblox game portfolio to Claude: live stats, history, Open Cloud analytics, and a Claude-classified Discord feedback digest. |
+| [gakurangame/gakuran-codes](https://github.com/gakurangame/gakuran-codes) | 3 |  | CC-BY-4.0 | Hand-verified Gakuran (Roblox) redeem codes + fighting styles, drop rates & roll odds as JSON. Updated by gakurantools.com |
+| [Brecim/WordBombUtility](https://github.com/Brecim/WordBombUtility) | 3 | Java |  | This is a small and portable tool for learning new words for the Roblox game Word Bomb written fully in Java. |
+| [this-fifo/DataStoria](https://github.com/this-fifo/DataStoria) | 3 | TypeScript | Apache-2.0 | Browse, edit, and debug Roblox Data Stores from VS Code with time-travel revision history |
+| [NumanLUAU/RetroStud](https://github.com/NumanLUAU/RetroStud) | 3 | Python |  | A Roblox launcher to play old versions of roblox via LAN or Online freely. |
+| [setup-rbxcdn/setup-rbxcdn.github.io](https://github.com/setup-rbxcdn/setup-rbxcdn.github.io) | 3 | Python |  | Roblox DeployHistory fetcher for Windows/Mac. Resolves hidden version hashes via clientsettings API & archives. Writes normal/inverted JSON histories. Checks every 10 min. Independent project; not aff |
+| [sriail/Cloudmoon-InPlay](https://github.com/sriail/Cloudmoon-InPlay) | 3 |  |  | Simple, deployable Cloudflare worker that unblocks Cloudmoon at work/school for effortless gaming! https://google-classroom.sriail.workers.dev/ |
+| [Fear-for-Fun/repertoire](https://github.com/Fear-for-Fun/repertoire) | 3 | Luau | MIT | Repertoire library. |
+| [zenithhhhchannhhhh/helloGMP](https://github.com/zenithhhhchannhhhh/helloGMP) | 3 | Lua | MIT | The helloGMP library is a luau arbitrary precision library inspired by GMP, engineered for performance, correctness, and practical use in Roblox Studio. |
+| [cvipdebug/roblox-outfit-studio](https://github.com/cvipdebug/roblox-outfit-studio) | 3 | Python | MIT | Free desktop clothing editor for Roblox — paint shirts & pants in 2D with a layer-based editor and see your design on a live 3D R6 avatar preview. Built with Python, PyQt6, and OpenGL. |
+| [MiaGobble/Oxomo-Coding-Conventions](https://github.com/MiaGobble/Oxomo-Coding-Conventions) | 3 |  |  | Coding conventions for Roblox/Luau |
+| [foxjetstudios/sheetsync-plugin](https://github.com/foxjetstudios/sheetsync-plugin) | 3 | Luau | MIT | SheetSync is a Roblox studio plugin that allows you to import data from Google Sheets to studio. |
+| [uocazizah/UmaRace](https://github.com/uocazizah/UmaRace) | 3 | Luau | MIT | horses girl game at Roblox. man i will write this stuff. |
+| [filoxen/rbx-reface](https://github.com/filoxen/rbx-reface) | 3 | Luau | MIT | Restore classic decal faces following the Dynamic Head Migration. |
+| [3D-Agent-Live/3D-Agent-Blender-AI-Plugin-PUBLIC](https://github.com/3D-Agent-Live/3D-Agent-Blender-AI-Plugin-PUBLIC) | 3 | Shell |  | Docs, ready-to-copy MCP configs and example prompts for 3D-Agent (3d-agent.com), the AI agent for Blender. Desktop app for macOS and Windows. App source code is not included. |
+| [DexxterDax/Butler](https://github.com/DexxterDax/Butler) | 3 | Luau | MIT | A more sophisticated version of Maid, Trove, and Janitor. |
+| [elcapykkzxd/NavPathX](https://github.com/elcapykkzxd/NavPathX) | 3 | Luau | MIT | • A forked and optimized version of the Pathfinding tool called SimplePath. |
+| [JustSorvak/Quantum](https://github.com/JustSorvak/Quantum) | 3 |  |  | Open-Source Roblox Forsaken Game. |
+| [JakeHukari/Any-Item-ESP](https://github.com/JakeHukari/Any-Item-ESP) | 3 | Lua | MIT | Provides an explorer to create ESP elements for any item(s) in the workspace |
+| [iamthebestts/UniverseLogs](https://github.com/iamthebestts/UniverseLogs) | 3 | TypeScript | MIT | Structured log API with multi-tenant isolation, built for Roblox games and microservices. Real-time WebSocket streaming, batch ingestion, production-ready. |
+| [cg955gtr/SwitchNet](https://github.com/cg955gtr/SwitchNet) | 3 | Luau | MIT | A blazingly fast and easy to use networking module for reducing bandwidth and overhead across remotes. |
+| [cealshell/cealshell-cli](https://github.com/cealshell/cealshell-cli) | 3 | Luau | MIT | A open-source package-manager plugin for Roblox Studio. |
+| [Unreal-Works/roblox-coverage](https://github.com/Unreal-Works/roblox-coverage) | 3 | Luau | MIT | Code coverage instrumentation for Roblox Luau |
+| [Makosha1337/zapret-discord-telegram](https://github.com/Makosha1337/zapret-discord-telegram) | 3 | Batchfile |  | Обход блокировок YouTube Discord Telegram WhatsApp Roblox и тд |
+| [Ar4ujo009/Last-Ember](https://github.com/Ar4ujo009/Last-Ember) | 3 | Lua |  | Protótipo de um RPG Soulslike desenvolvido no Roblox utilizando Rojo e Luau |
+| [tarikelertarnak/TarnakLua-Roblox](https://github.com/tarikelertarnak/TarnakLua-Roblox) | 3 | Lua |  | Roblox Lua tools and scripts. |
+| [luumenlabs/luumen](https://github.com/luumenlabs/luumen) | 3 | Go | MIT | The unified CLI for Luau development |
+| [ssynical/triplesec](https://github.com/ssynical/triplesec) | 3 | Luau | MIT | Military-grade encryption for Roblox implementing Veracrypt's triple-cascade cipher system in Roblox Luau. |
+| [froststarinteractive/hermes](https://github.com/froststarinteractive/hermes) | 3 | Luau | MIT | Easy-to-use game framework for Roblox. |
+| [elconisol/Roblox-API-status](https://github.com/elconisol/Roblox-API-status) | 3 | Python |  | simple api tester for roblox |
+| [napstowers/mocha](https://github.com/napstowers/mocha) | 3 | Luau | MIT | a tc to v5.5 client object converter |
+| [Aspectise/Free-Item-Buyer](https://github.com/Aspectise/Free-Item-Buyer) | 3 | Python |  | Gathers and Buys roblox's free catalog items |
+| [elde-n/roblox-api](https://github.com/elde-n/roblox-api) | 3 | Rust | LGPL-3.0 | Roblox web api bindings for rust |
+| [JustAT0rtoise/Roblox-Weapon-Kit-Fix](https://github.com/JustAT0rtoise/Roblox-Weapon-Kit-Fix) | 3 |  | MIT | I’ve seen lots of people having problems with Roblox’s Weapons Kit, mostly with its very annoying issue of locking your camera in 3rd person mode and over your shoulder. I myself used this kit in one |
+| [AlexanderLindholt/PlayersPlus](https://github.com/AlexanderLindholt/PlayersPlus) | 3 | Luau |  | A simple custom players list module, which only includes ready clients, and retains all player indices. |
+| [eiei114/rbxts-template](https://github.com/eiei114/rbxts-template) | 3 | Luau |  | roblox-ts template |
+| [worships/rbxsign](https://github.com/worships/rbxsign) | 3 | Rust |  | A replacement for other roblox script signing tools with rbxsig2 support |
+| [MapleSyrupLover/Criminality-Automation](https://github.com/MapleSyrupLover/Criminality-Automation) | 3 | Python | MIT | Criminality is a game made by RVVZ on the game platform Roblox. This repository is dedicated to python scripts to automate boring tasks within the game. |
+| [jacklebeignet/scripts](https://github.com/jacklebeignet/scripts) | 3 | Luau |  | Jack Le Beignet’s Scripts. |
+| [cataclysmic-studios/neanderthals](https://github.com/cataclysmic-studios/neanderthals) | 3 | TypeScript |  | Roblox game inspired by Booga Booga |
+| [Ukuroks-games/2d-adventure](https://github.com/Ukuroks-games/2d-adventure) | 3 | Luau | MIT | "Engine" for creating 2d game in roblox |
+| [evxryyy/Rbxenv](https://github.com/evxryyy/Rbxenv) | 3 | Luau | MIT | Open source project for roblox |
+| [voxelcrw/Zeno3D](https://github.com/voxelcrw/Zeno3D) | 3 | Luau | MIT | Roblox module to display 3D objects in a 2D perspective. A rewritten from Module3D V4 by @TheNexusAvenger |
+| [FairyKey/FairyKey](https://github.com/FairyKey/FairyKey) | 3 | C# | MIT | A virtual piano sheet scroller |
+| [christopher-buss/rbx-forge](https://github.com/christopher-buss/rbx-forge) | 3 | TypeScript |  | Fully managed dev loop for roblox-ts and Luau Rojo projects. |
+| [Jupiter-Development-Revamp/PhantomComms](https://github.com/Jupiter-Development-Revamp/PhantomComms) | 3 |  |  | Custom Proximity Chat System for ROBLOX RP games and immersive horror games |
+| [seaofvoices/easing-styles](https://github.com/seaofvoices/easing-styles) | 3 | Luau | MIT | A Luau library to interpolate values using common easing functions |
+| [loneka/rbx-stack](https://github.com/loneka/rbx-stack) | 3 | Luau |  | Roblox game template |
+| [UniversalShift/RoForge](https://github.com/UniversalShift/RoForge) | 3 | Python | MIT | ⚡ RoForge ⚡ Solo-made launcher for roblox. |
+| [jiwonz/luau-task](https://github.com/jiwonz/luau-task) | 3 | Luau | MIT | Get the task library for Roblox or Lune or Luau |
+| [evilbocchi/decillion](https://github.com/evilbocchi/decillion) | 3 | TypeScript | MIT | Million.js in roblox-ts |
+| [AstonishedLiker/HyperText](https://github.com/AstonishedLiker/HyperText) | 3 | Luau | MIT | A comprehensive set of utilities to safely manipulate Roblox RichText |
+| [wbyljs/smart-script-snippets](https://github.com/wbyljs/smart-script-snippets) | 3 | Luau | MIT | Plugin for Roblox Studio that allows you to create dynamic Snippets with autocompletion. |
+| [Anonymouscoderman/allowlist](https://github.com/Anonymouscoderman/allowlist) | 3 |  |  | Here are all the allowlisted FastFlags with default values. Free to use please star it. |
+| [Skekdog/RoundHandler](https://github.com/Skekdog/RoundHandler) (archived) | 3 | Luau | MIT | WIP: A Roblox module to handle rounds and gamemodes. |
+| [typical-developers/rblx-open-cloud](https://github.com/typical-developers/rblx-open-cloud) (archived) | 3 | TypeScript | GPL-3.0 | A wrapper for Roblox's Open Cloud API. |
+| [Khaomi/StuffIMade](https://github.com/Khaomi/StuffIMade) | 3 | Luau | MIT | Stuff that i made that is public |
+| [nightcycle/noise](https://github.com/nightcycle/noise) | 3 | Luau | Apache-2.0 | The functionality of 'math.noise' implemented across multiple popular styles with the syntax and API stylings of the seed constructed pseudo-random Roblox 'Random' datatype. |
+| [EkoDy/SimpleMatchmaking](https://github.com/EkoDy/SimpleMatchmaking) | 3 | Lua | MIT | A simple and customizable matchmaking module for Roblox |
+| [Ludricous/Roblox-Anti-Leave](https://github.com/Ludricous/Roblox-Anti-Leave) | 3 |  |  | https://create.roblox.com/marketplace/asset/15030197798/Super-awesome-cool-amazing-thing if taking down i do a update / I skidded this lmao |
+| [orblua/RobloxCore](https://github.com/orblua/RobloxCore) | 3 | Python | GPL-3.0 | Open-source platform for simulating a Roblox runtime environment and its infrastructure |
+| [rorooms/worlds](https://github.com/rorooms/worlds) | 3 | TypeScript | MIT | Official Rorooms worlds registry |
+| [CavefulGames/rbx-helpers](https://github.com/CavefulGames/rbx-helpers) | 3 | Luau | MIT | Kitty is a set of development kits provide almost everything you need for Roblox |
+| [axiom-co/debugger](https://github.com/axiom-co/debugger) | 3 | Luau | MIT | A customizable and extendable debugger for open source software. |
+| [Stratiz/rbx-open-cloud](https://github.com/Stratiz/rbx-open-cloud) | 3 | JavaScript | MIT | OOP wrapper for Roblox Open Cloud API |
+| [cataclysmic-studios/music-hero](https://github.com/cataclysmic-studios/music-hero) | 3 | TypeScript |  | Roblox game inspired by Fortnite Festival. |
+| [galaxine-senpai/erlc-js-wrapper](https://github.com/galaxine-senpai/erlc-js-wrapper) | 3 | JavaScript | MIT |  |
+| [ripgrim/FixRoblox](https://github.com/ripgrim/FixRoblox) | 3 | TypeScript | MIT | Embed Roblox profiles, bundles, groups, games, & more on Discord! |
+| [sonnguyen9800/Luau-Mode-Setter](https://github.com/sonnguyen9800/Luau-Mode-Setter) | 3 | TypeScript |  | The Luau Mode Setter extension for Visual Studio Code allows you to easily toggle different mode directives in .luau files used in Roblox development. |
+| [twhlynch/Roblox2Grab](https://github.com/twhlynch/Roblox2Grab) | 3 | Lua |  | Scripts and Guide to export a ROBLOX Studio map to Grab VR |
+| [Erex147/WOS-ROBLOX](https://github.com/Erex147/WOS-ROBLOX) | 3 | Lua |  | curated model files and code for the Roblox game Waste Of Space |
+| [sewnie/rbxbin](https://github.com/sewnie/rbxbin) | 3 | Go | GPL-3.0 | A Go package providing routines for Roblox programs (referred to as Binary) and FFlags. |
+| [cataclysmic-studios/spellbreak](https://github.com/cataclysmic-studios/spellbreak) | 3 | TypeScript |  | Roblox turn-based RPG card game heavily inspired by Wizard101 |
+| [vsvpp/ff-collect1ve](https://github.com/vsvpp/ff-collect1ve) | 3 |  | MIT | FFlags listed in Import Json Format |
+| [Name-hw/MeshCreator](https://github.com/Name-hw/MeshCreator) | 3 | Lua | MIT | This repository contains the source code of MeshCreator Plugin. |
+| [totallyahuman445/Roblox-Entity-RA](https://github.com/totallyahuman445/Roblox-Entity-RA) | 3 | Luau | GPL-3.0 | Entity's RA Roblox land vehicle chassis system. |
+| [Teemo4621/Roblox-GamePass-Image-Downloader](https://github.com/Teemo4621/Roblox-GamePass-Image-Downloader) | 3 | Python | MIT | Roblox GamePass Image Downloader🎮 📸 is a tool that allows you to download GamePass images for Roblox games using their Game ID. Simply provide one or multiple Game IDs, and the script will fetch the g |
+| [snipcola/Create-Roblox-TS-Script](https://github.com/snipcola/Create-Roblox-TS-Script) | 3 | TypeScript | MIT | CLI tool for creating Roblox scripts using TypeScript. |
+| [Khaomi/bson.luau](https://github.com/Khaomi/bson.luau) (archived) | 3 | Luau | MIT | Luau implementation of BSON data format |
+| [MiaGobble/GreedyDataService](https://github.com/MiaGobble/GreedyDataService) (archived) | 3 | Lua | MIT | A datastore solution that simplifies the player data management workflow |
+| [LarMXK/RobloxBloxFlip-Predictor](https://github.com/LarMXK/RobloxBloxFlip-Predictor) | 3 | C++ | MIT | RblxWild Predictor. Supports: Cases, Upgrader, Crash, Mines, Towers |
+| [jub0t/rocdn](https://github.com/jub0t/rocdn) | 3 | Go | MIT | Very fast open-source Roblox CDN built to cache and serve Roblox user avatar pictures, headshots, and more. |
+| [circlecloud/rbxts-socket.io](https://github.com/circlecloud/rbxts-socket.io) | 3 | TypeScript |  | This is a full implementation of Socket.IO on Roblox. |
+| [memelouse/photon](https://github.com/memelouse/photon) | 3 |  |  |  |
+| [thatguyshubh/roblinx](https://github.com/thatguyshubh/roblinx) | 3 |  | GPL-3.0 | A port for Roblox, on Linux. |
+| [TaseenA09/Dynamic-Walk-Animations-and-Footing-for-Roblox](https://github.com/TaseenA09/Dynamic-Walk-Animations-and-Footing-for-Roblox) (archived) | 3 | Lua |  | Half broken dynamic walk animations and footing for Roblox. |
+| [BoredDynasty/Sparking-Cards](https://github.com/BoredDynasty/Sparking-Cards) | 3 | Luau |  | SPARKING CARDS! |
+| [Starveldt/Weaver](https://github.com/Starveldt/Weaver) | 3 | Luau | MIT | Weaver is a fast, lightweight game framework for Roblox |
+| [Trollhunters501/LuaEngineNK](https://github.com/Trollhunters501/LuaEngineNK) | 3 | JavaScript | GPL-3.0 | Run Lua in Nukkit! |
+| [ImAvafe/awesome-roblox](https://github.com/ImAvafe/awesome-roblox) (archived) | 3 |  | CC0-1.0 | Awesome Roblox projects & resources |
+| [cataclysmic-studios/dragon-legends](https://github.com/cataclysmic-studios/dragon-legends) | 3 | TypeScript |  | Source code for Dragon Legends on Roblox |
+| [PiratePeep/roblox-oauth2-example](https://github.com/PiratePeep/roblox-oauth2-example) | 3 | TypeScript |  | Simple working implementation of Roblox's OAuth 2.0 API. |
+| [dwmk/RobloxGames](https://github.com/dwmk/RobloxGames) | 3 |  | MIT | Backup of some of my games on Roblox, so that they are now open-source for everyone. |
+| [AquaJo/roblox-starter](https://github.com/AquaJo/roblox-starter) | 3 | JavaScript |  | A workflow for setting up and develop in Roblox Studio using Rojo and other tools |
+| [jjophoven/Free-Roblox-Studio-Video](https://github.com/jjophoven/Free-Roblox-Studio-Video) | 3 | Luau |  | Upload unlimited amount of videos for FREE to Roblox Studio. Save thousands of Robux! |
+| [WaviestBalloon/SoundRolloffVisualisation](https://github.com/WaviestBalloon/SoundRolloffVisualisation) | 3 | Lua | GPL-3.0 | Roblox plugin to visualise Sound rolloff when you select a Sound instance, just like Light instance range visualisation! |
+| [Neohertz/crate](https://github.com/Neohertz/crate) | 3 | TypeScript | ISC | A simple to use, scalable state container built for the roblox-ts ecosystem. |
+| [YetAnotherClown/ThreadPool](https://github.com/YetAnotherClown/ThreadPool) (archived) | 3 | Lua | MIT | A library for creating Thread Pools to improve performance and reduce latency on Roblox. |
+| [rbxcrasher/rbxcrasher.github.io](https://github.com/rbxcrasher/rbxcrasher.github.io) | 3 | HTML |  | v1 small project |
+| [Visionishere/VCBlox](https://github.com/Visionishere/VCBlox) | 3 | JavaScript |  | A extension that tells you if you are banned from using Roblox voice chat, and if so, HOW LONG! |
+| [Expansionator/my-roblox-projects](https://github.com/Expansionator/my-roblox-projects) | 3 | Lua | MIT | My personal projects (Scripts/Models) that I made in Roblox. |
+| [tp-link-extender/revival-archive](https://github.com/tp-link-extender/revival-archive) | 3 | Svelte | Unlicense | Revival archive website |
+| [Ev11nroo/roblox-cmd-launcher](https://github.com/Ev11nroo/roblox-cmd-launcher) | 3 | JavaScript | GPL-3.0 | Create a valid Roblox Player URI with one command |
+| [R-unic/Station-Brawl](https://github.com/R-unic/Station-Brawl) | 3 | TypeScript |  | Station Brawl source code on Roblox |
+| [DrewBokman/AOTG-Public-Issue-Board](https://github.com/DrewBokman/AOTG-Public-Issue-Board) | 3 | Lua | Apache-2.0 | This board is for community members to post issues that have not been identified by the devs. |
+| [AudioCrafter/Bee-Swarm-Addons](https://github.com/AudioCrafter/Bee-Swarm-Addons) | 3 | C# |  | A bunch of usefull tools / timers for the game Bee Swarm Simulator :) |
+| [DanzLua/Zone-TS](https://github.com/DanzLua/Zone-TS) (archived) | 3 | TypeScript |  | A port of ForeverHD's Zone+ module. |
+| [Fastering18/LuavaScript](https://github.com/Fastering18/LuavaScript) | 3 | Lua | MIT | JavaScript functions written in lua |
+| [newbthenewbd/NOBLOX-Launcher](https://github.com/newbthenewbd/NOBLOX-Launcher) | 3 | Shell | MIT | NOBLOX Unofficial Launcher of Roblox for Linux |
+| [AqwamCreates/Roblox-Source-Codes](https://github.com/AqwamCreates/Roblox-Source-Codes) | 3 | Lua |  | All the Roblox codes that were shown in AqwamCreates' YouTube channel. |
+| [fewkz/froact](https://github.com/fewkz/froact) | 3 | Python | MIT | Wrapper around Roact & Roact Hooks to simplify UI development and add full, correct Luau typing |
+| [NotDSF/ServerSearch](https://github.com/NotDSF/ServerSearch) | 3 | JavaScript | MIT | Find Roblox servers meeting your specified options within seconds. |
+| [Percision-Studio/operation-blackout](https://github.com/Percision-Studio/operation-blackout) (archived) | 3 | Lua | Apache-2.0 | The menu system of a roblox game |
+| [Corecii/RbxPlacePlugins](https://github.com/Corecii/RbxPlacePlugins) | 3 | Lua |  | Roblox plugin to load plugins from the current place file. Good for easily sharing plugins with team members. Code from 2018. |
+| [jtmaveryk/raven](https://github.com/jtmaveryk/raven) (archived) | 3 | Lua | GPL-3.0 | lua sentry sdk for client & server error monitoring on ROBLOX |
+| [AndyAnderson8/rblx-candlestick-charts](https://github.com/AndyAnderson8/rblx-candlestick-charts) (archived) | 3 | Lua | MIT | An example Roblox project demonstrating external market data ingestion and candlestick chart visualization using real-world stock pricing APIs. |
+| [HylianBasement/netbuilder](https://github.com/HylianBasement/netbuilder) | 3 | TypeScript | MIT | Abstract and declarative networking library for Roblox |
+| [jaipack17/Gizmo2D](https://github.com/jaipack17/Gizmo2D) | 3 | Lua | MIT | Visual Debugging library for GUIs on Roblox |
+| [phocodes/rice-simulator](https://github.com/phocodes/rice-simulator) | 3 | Lua | Apache-2.0 | fun little roblox game I am working on as a side project! |
+| [RyanChang25/Dungeon-Generation-Service](https://github.com/RyanChang25/Dungeon-Generation-Service) | 3 | Lua | MIT | I created the Dungeon Generation Service to semi-procedurally generate dungeon layouts in my games. |
+| [RenderingByte/ROMania](https://github.com/RenderingByte/ROMania) | 3 | Lua |  | ROMania is an Open-Sourced ROBLOX Rhythm Game |
+| [Mullets-Gavin/Deliver](https://github.com/Mullets-Gavin/Deliver) | 3 | Lua | MIT | A Roblox command line interface plugin to deliver content, commands, and simplicity within Roblox studio. |
+| [0zBug/RepoDownloader](https://github.com/0zBug/RepoDownloader) | 3 | Lua |  | A simple module to clone repositories with requests |
+| [bstummer/benchmarking](https://github.com/bstummer/benchmarking) | 3 | Lua | MIT | A lightweight Luau/Lua benchmarking module to measure code execution time and compare performance between different implementations. |
+| [optimisticside/roclass](https://github.com/optimisticside/roclass) | 3 | Lua |  | A minimal object-oriented programming framework written in Lua. |
+| [FxllenCode/roxios](https://github.com/FxllenCode/roxios) | 3 | Lua | MIT | HttpServiceWrapper written in Luau for Roblox - inspired by Axios. |
+| [vocksel/mock](https://github.com/vocksel/mock) | 3 | Lua | MIT | Package for creating Jest-like mocks for use with unit testing. |
+| [Bytebit-Org/roblox-NetworkedSignals](https://github.com/Bytebit-Org/roblox-NetworkedSignals) | 3 | TypeScript | MIT | A TypeScript wrapper of RemoteEvents to promise type safety |
+| [GabinCleaver/Roblox_Pseudo_Gen](https://github.com/GabinCleaver/Roblox_Pseudo_Gen) | 3 | Python | Unlicense | ✨ Un générateur de pseudo roblox fonctionnel totalement fait en Python par moi, et en français. |
+| [EgizianoEG/String-Plus](https://github.com/EgizianoEG/String-Plus) (archived) | 3 | Lua | MIT | A library that provides extended functionality for working with strings in Lua, beyond what is available in the standard library. |
+| [lowrescat/Scenic](https://github.com/lowrescat/Scenic) | 3 | Lua | MIT | UI library |
+| [Bytebit-Org/roblox-PlayerStatistics](https://github.com/Bytebit-Org/roblox-PlayerStatistics) | 3 | TypeScript | MIT | A type-safe player statistics library meant to make it easy to post events and have those events automatically update any number of statistic values |
+| [Zgoly/robloof](https://github.com/Zgoly/robloof) (archived) | 3 | AutoHotkey | GPL-3.0 | Return roblox "oof" sound |
+| [walksanatora/WorldQL_RBXL](https://github.com/walksanatora/WorldQL_RBXL) | 3 | Lua |  | making a game with WorldQL to sync servers |
+| [fuze136/fuze136.github.io](https://github.com/fuze136/fuze136.github.io) | 3 | HTML |  | Self made Webpage |
+| [thoricelli/RBLXExport](https://github.com/thoricelli/RBLXExport) (archived) | 3 | Python | MIT | Exports the HTTP Roblox temp files to audio/images |
+| [cataclysmic-studios/PirateRiot](https://github.com/cataclysmic-studios/PirateRiot) (archived) | 3 | TypeScript |  | Pirate themed click-to-kill Roblox shooter |
+| [ccuser44/Titan-Protection](https://github.com/ccuser44/Titan-Protection) (archived) | 3 | Lua | GPL-3.0 | Titan Protection is a Roblox plugin to remove malicious objects. |
+| [vocksel/complex-regions](https://github.com/vocksel/complex-regions) | 3 | Lua | MIT | Define regions in an experience out of BaseParts of any shape or size |
+| [optimisticside/lynk](https://github.com/optimisticside/lynk) | 3 | Lua |  | A Roblox framework heavily inspired by AeroGameFramework |
+| [ddavness/scoop-roblox](https://github.com/ddavness/scoop-roblox) | 3 | PowerShell | Unlicense | Useful command-line utilities for Roblox Development |
+| [TheNickmaster21/Crochet](https://github.com/TheNickmaster21/Crochet) | 3 | TypeScript | MIT | Crochet is a framework for Roblox games using roblox-ts. |
+| [afrxo/glue](https://github.com/afrxo/glue) (archived) | 3 | Lua | MIT | Another game framework. |
+| [benjaminsabella/Goblox](https://github.com/benjaminsabella/Goblox) | 3 | Go | MIT | Roblox API wrapper for Go |
+| [PenguinDevs/Pengu-Luggage](https://github.com/PenguinDevs/Pengu-Luggage) (archived) | 3 | Lua | MIT | Boilerplate code for new Roblox games that I work on (2020-2021). |
+| [SegoGithub/oof-is-back-rust](https://github.com/SegoGithub/oof-is-back-rust) (archived) | 3 | Rust | MIT | Lightweight program to change your Roblox death sound to a different sound included in the program or the original oof sound. |
+| [tacheometry/rbxts-llama](https://github.com/tacheometry/rbxts-llama) | 3 | Lua |  | TS typings for the Lua Library for Immutable Data (Llama) by Frelerik |
+| [CheeseGodRoblox/SoftShutdown](https://github.com/CheeseGodRoblox/SoftShutdown) | 3 | Lua | GPL-3.0 | Keep your Roblox players with their friends when you to to update (refresh) your game. Evolved from Merely's Soft Shutdown |
+| [Zyrakia/rbxts-fsm](https://github.com/Zyrakia/rbxts-fsm) | 3 | TypeScript | MIT | A super simple finite state machine pattern implementation. |
+| [Silicon-Digital/RobloxLaravel](https://github.com/Silicon-Digital/RobloxLaravel) | 3 | PHP |  | Laravel Package for Roblox API's |
+| [cataclysmic-studios/Blackout](https://github.com/cataclysmic-studios/Blackout) (archived) | 3 | TypeScript |  | Roblox FPS |
+| [WingedDash/DashBlox](https://github.com/WingedDash/DashBlox) (archived) | 3 | CSS |  | Creates new features that otherwise are missing, removed, or don't exist. |
+| [roblox-aurora/zirconium-ast](https://github.com/roblox-aurora/zirconium-ast) (archived) | 3 | TypeScript |  | AST parser for the Zirconium DSL for Roblox |
+| [0zBug/FileSocket](https://github.com/0zBug/FileSocket) | 3 | Lua |  | Alternative to websockets that communicates with files |
+| [ShantnuS/oof-on-close](https://github.com/ShantnuS/oof-on-close) | 3 | JavaScript | MIT | Chrome extension that plays the roblox "oof" sound when a tab is closed. |
+| [gamenew09/OpenAdmin](https://github.com/gamenew09/OpenAdmin) | 3 | Lua |  | OpenAdmin is a free model on Roblox that allows for extensive admin commands, groups, and permissions. Developers can easily add onto OpenAdmin by creating a plugin for it! |
+| [cameronthecoder/RobloxPy](https://github.com/cameronthecoder/RobloxPy) | 3 | Python | MIT | A ROBLOX web API wrapper written in Python. |
+| [Quenty/roblox-sync-experiment](https://github.com/Quenty/roblox-sync-experiment) | 3 | Lua | MIT | An experimental roblox studio syncer using a plugin and node.js |
+| [contrafy/tern-netsuite](https://github.com/contrafy/tern-netsuite) | 3 | Luau | MIT | NetSuite for the Tern terminal: native SuiteCloud SDF CLI views, a production deploy guard, an SDF project explorer, and read-only SuiteQL execution logs and account health. |
+| [saru-id/niwa](https://github.com/saru-id/niwa) | 3 | Rust | Apache-2.0 | Your whole Mac, configured by one Luau script you can actually read. |
+| [ReanSchwarzer1/SomniumEngine](https://github.com/ReanSchwarzer1/SomniumEngine) | 3 | Rust | Apache-2.0 | A from-scratch 3D game engine written in Rust, built directly on wgpu. |
+| [Noctivoro/tern-margin](https://github.com/Noctivoro/tern-margin) | 3 | JavaScript | MIT | Margin: review Markdown files in Tern and leave CriticMarkup comments, block by block. Built for reviewing plans with coding agents. |
+| [zerx-lab/tern-office-preview](https://github.com/zerx-lab/tern-office-preview) | 3 | Rust | MIT | Native Word (.docx) & Excel (.xlsx) preview inside the Tern terminal, powered by a Rust renderer |
+| [hxreborn/noctalia-plugins](https://github.com/hxreborn/noctalia-plugins) | 3 | Lua | MIT | Noctalia v5 plugin source. Primary development home for my plugins |
+| [Pidova/Luramas](https://github.com/Pidova/Luramas) | 3 | C++ | MIT | The Retargetable Customizable Decompiler Framework |

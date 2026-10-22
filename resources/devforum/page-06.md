@@ -4,7 +4,6 @@
 
 | Topic | Likes | Views | Category | Created |
 |---|---:|---:|---|---|
-| [[Plugin] QuickRotate](https://devforum.roblox.com/t/plugin-quickrotate/918669) | 64 | 3331 | Resources | 2020-12-11 |
 | [Procedral Terrain Generator (Open Source)](https://devforum.roblox.com/t/procedral-terrain-generator-open-source/576207) | 64 | 5631 | Resources | 2020-05-15 |
 | [Vehicle Input Controller Module](https://devforum.roblox.com/t/vehicle-input-controller-module/262941) | 64 | 15583 | Resources | 2019-04-05 |
 | [Jay's Minimalistic UI Kit \| Minimal User Interface Assets](https://devforum.roblox.com/t/jays-minimalistic-ui-kit-minimal-user-interface-assets/1169746) | 64 | 8215 | Resources | 2021-04-15 |
@@ -504,3 +503,4 @@
 | [CustomVIP - A module to handle custom VIP servers!](https://devforum.roblox.com/t/customvip-a-module-to-handle-custom-vip-servers/1505441) | 52 | 6733 | Resources | 2021-10-12 |
 | [A basic tutorial on making your game a discord server! [FREE TEMPLATE]](https://devforum.roblox.com/t/a-basic-tutorial-on-making-your-game-a-discord-server-free-template/1675496) | 52 | 11709 | Resources | 2022-02-21 |
 | [Roblox render animation with music](https://devforum.roblox.com/t/roblox-render-animation-with-music/331571) | 52 | 1564 | Resources | 2019-08-16 |
+| [Frosted Glass Effect](https://devforum.roblox.com/t/frosted-glass-effect/2018873) | 52 | 5735 | Resources | 2022-10-12 |

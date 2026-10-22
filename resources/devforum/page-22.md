@@ -4,8 +4,6 @@
 
 | Topic | Likes | Views | Category | Created |
 |---|---:|---:|---|---|
-| [My first tycoon kit!](https://devforum.roblox.com/t/my-first-tycoon-kit/3304599) | 7 | 1412 | Resources | 2024-12-13 |
-| [Client Ragdoll Attempt](https://devforum.roblox.com/t/client-ragdoll-attempt/3782903) | 7 | 626 | Resources | 2025-06-26 |
 | [Keylogger, the future of textboxes?](https://devforum.roblox.com/t/keylogger-the-future-of-textboxes/4032843) | 7 | 768 | Resources | 2025-10-29 |
 | [Developed a management tool for DatastoreService, thank you for any suggestions and feedback](https://devforum.roblox.com/t/developed-a-management-tool-for-datastoreservice-thank-you-for-any-suggestions-and-feedback/2392591) | 7 | 453 | Resources | 2023-05-25 |
 | [CharacterManager - Simple way to get localplayer's character!](https://devforum.roblox.com/t/charactermanager-simple-way-to-get-localplayers-character/3477105) | 7 | 320 | Resources | 2025-02-15 |
@@ -477,7 +475,6 @@
 | [Simple value parser for deserializing value YSFFLUAU_TABLE-Parser format](https://devforum.roblox.com/t/simple-value-parser-for-deserializing-value-ysffluautable-parser-format/3740409) | 5 | 397 | Resources | 2025-06-15 |
 | [[DISCONTINUED] CreeperCLI - A linker for Roblox](https://devforum.roblox.com/t/discontinued-creepercli-a-linker-for-roblox/2849980) | 5 | 1015 | Resources | 2024-02-23 |
 | [How To Make a Roleplay Game - Video Tutorial](https://devforum.roblox.com/t/how-to-make-a-roleplay-game-video-tutorial/3383726) | 5 | 8081 | Resources | 2025-01-15 |
-| [How to generate a .ROBLOSECURITY token from Quick Login](https://devforum.roblox.com/t/how-to-generate-a-roblosecurity-token-from-quick-login/3147931) | 5 | 5314 | Resources | 2024-09-06 |
 | [Kohl's Admin Explained](https://devforum.roblox.com/t/kohls-admin-explained/3875909) | 5 | 4017 | Resources | 2025-08-12 |
 | [[Tutorial] Roblox Shop GUI Part 2: Scripting Currency, Items, & Purchases](https://devforum.roblox.com/t/tutorial-roblox-shop-gui-part-2-scripting-currency-items-purchases/4162394) | 5 | 3828 | Resources | 2025-12-19 |
 | [[EXPLOITING] Interactive tutorial explaining how exploiters abuse data store rollbacks](https://devforum.roblox.com/t/exploiting-interactive-tutorial-explaining-how-exploiters-abuse-data-store-rollbacks/2155100) | 5 | 2313 | Resources | 2023-01-19 |
@@ -504,3 +501,6 @@
 | [Being a freelancer developer : general guide](https://devforum.roblox.com/t/being-a-freelancer-developer-general-guide/3879156) | 5 | 1375 | Resources | 2025-08-14 |
 | [Solution to over-sized attachments](https://devforum.roblox.com/t/solution-to-over-sized-attachments/450932) | 5 | 1374 | Resources | 2020-02-05 |
 | [Debugger GUI Module](https://devforum.roblox.com/t/debugger-gui-module/947816) | 5 | 3018 | Resources | 2020-12-27 |
+| [A Guide to Object Selection](https://devforum.roblox.com/t/a-guide-to-object-selection/137137) | 5 | 1300 | Resources | 2018-06-18 |
+| [RankBlox - Roblox Ranking Service](https://devforum.roblox.com/t/rankblox-roblox-ranking-service/4052737) | 5 | 1295 | Resources | 2025-11-07 |
+| ["Realistic" Armor Calculations](https://devforum.roblox.com/t/realistic-armor-calculations/2995620) | 5 | 1257 | Resources | 2024-05-30 |

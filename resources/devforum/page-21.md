@@ -4,8 +4,6 @@
 
 | Topic | Likes | Views | Category | Created |
 |---|---:|---:|---|---|
-| [Creating Instances with tables!](https://devforum.roblox.com/t/creating-instances-with-tables/1837443) | 8 | 862 | Resources | 2022-06-18 |
-| [Thumbnail Cam v2 (Release!)](https://devforum.roblox.com/t/thumbnail-cam-v2-release/1750746) | 8 | 557 | Resources | 2022-04-10 |
 | [PlayerDebounce \| Efficent debounce module!](https://devforum.roblox.com/t/playerdebounce-efficent-debounce-module/3411197) | 8 | 685 | Resources | 2025-01-24 |
 | [Cool Client-Side Jumping Effect Cloud](https://devforum.roblox.com/t/cool-client-side-jumping-effect-cloud/1888875) | 8 | 1105 | Resources | 2022-07-22 |
 | [Bounty: a game eval tool](https://devforum.roblox.com/t/bounty-a-game-eval-tool/4936093) | 8 | 206 | Resources | 2026-10-15 |
@@ -504,3 +502,5 @@
 | [UIReferences: A Simple Way to Access UI Elements Without Traversing the Entire Hierarchy](https://devforum.roblox.com/t/uireferences-a-simple-way-to-access-ui-elements-without-traversing-the-entire-hierarchy/4622806) | 7 | 436 | Resources | 2026-05-07 |
 | [InputSequence Module — Track and Validate Key Sequences with Accuracy and Timing](https://devforum.roblox.com/t/inputsequence-module-%E2%80%94-track-and-validate-key-sequences-with-accuracy-and-timing/3854245) | 7 | 559 | Resources | 2025-08-01 |
 | [Move DevDiscussion Back! (Unpacked Chrome Extension)](https://devforum.roblox.com/t/move-devdiscussion-back-unpacked-chrome-extension/1368090) | 7 | 1434 | Resources | 2021-07-22 |
+| [My first tycoon kit!](https://devforum.roblox.com/t/my-first-tycoon-kit/3304599) | 7 | 1412 | Resources | 2024-12-13 |
+| [Client Ragdoll Attempt](https://devforum.roblox.com/t/client-ragdoll-attempt/3782903) | 7 | 626 | Resources | 2025-06-26 |

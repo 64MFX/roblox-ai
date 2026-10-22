@@ -4,8 +4,6 @@
 
 | Topic | Likes | Views | Category | Created |
 |---|---:|---:|---|---|
-| [Mobile Dragging Module](https://devforum.roblox.com/t/mobile-dragging-module/3623189) | 12 | 1259 | Resources | 2025-04-23 |
-| [Cinnamon 3D UI [v0.1]](https://devforum.roblox.com/t/cinnamon-3d-ui-v01/4350284) | 12 | 687 | Resources | 2026-02-10 |
 | [Lerp Service \| v1.0.3 \| A TweenService like service](https://devforum.roblox.com/t/lerp-service-v103-a-tweenservice-like-service/4223602) | 12 | 746 | Resources | 2026-01-06 |
 | [Save texture plugin [FREE]](https://devforum.roblox.com/t/save-texture-plugin-free/2694447) | 12 | 7829 | Resources | 2023-11-10 |
 | [Meet Decalis, a decal (And texture!) pasting tool (still a work in progress)](https://devforum.roblox.com/t/meet-decalis-a-decal-and-texture-pasting-tool-still-a-work-in-progress/1393343) | 12 | 1556 | Resources | 2021-08-05 |
@@ -504,3 +502,5 @@
 | [Installing Custom File Explorer Icons (Windows 10)](https://devforum.roblox.com/t/installing-custom-file-explorer-icons-windows-10/473801) | 10 | 1966 | Resources | 2020-03-04 |
 | [[V1.1] R15 to R6 Adapter! (R15 character with R6 physics and movements)](https://devforum.roblox.com/t/v11-r15-to-r6-adapter-r15-character-with-r6-physics-and-movements/3672855) | 10 | 1360 | Resources | 2025-06-01 |
 | [How to make a PROPER stamina/sprinting system](https://devforum.roblox.com/t/how-to-make-a-proper-staminasprinting-system/3001735) | 10 | 4732 | Resources | 2024-06-03 |
+| [Edited CameraScript for Obby games](https://devforum.roblox.com/t/edited-camerascript-for-obby-games/1284763) | 10 | 1846 | Resources | 2021-06-11 |
+| [PureRef: Amazing Canvas Tool](https://devforum.roblox.com/t/pureref-amazing-canvas-tool/1096817) | 10 | 5148 | Resources | 2021-03-10 |

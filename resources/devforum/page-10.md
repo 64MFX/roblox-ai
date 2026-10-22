@@ -4,7 +4,6 @@
 
 | Topic | Likes | Views | Category | Created |
 |---|---:|---:|---|---|
-| [Extremely easy elevator system](https://devforum.roblox.com/t/extremely-easy-elevator-system/2324485) | 33 | 4430 | Resources | 2023-05-08 |
 | [【Open-Source】Flag System](https://devforum.roblox.com/t/%E3%80%90open-source%E3%80%91flag-system/2600079) | 33 | 4574 | Resources | 2023-09-19 |
 | [How to properly change a player's character appearance, and why you shouldn't use HumanoidDescriptions](https://devforum.roblox.com/t/how-to-properly-change-a-players-character-appearance-and-why-you-shouldnt-use-humanoiddescriptions/1284584) | 33 | 6240 | Resources | 2021-06-11 |
 | [Some useful tips for Developers!](https://devforum.roblox.com/t/some-useful-tips-for-developers/972394) | 33 | 2987 | Resources | 2021-01-08 |
@@ -254,7 +253,6 @@
 | [Remade stamper tool](https://devforum.roblox.com/t/remade-stamper-tool/1038377) | 30 | 7709 | Resources | 2021-02-10 |
 | [TweenModelService - Easily tween models](https://devforum.roblox.com/t/tweenmodelservice-easily-tween-models/1883874) | 30 | 6306 | Resources | 2022-07-18 |
 | [JavaRandom v1.0.1 \| A pure Lua implementation of Java's Random class](https://devforum.roblox.com/t/javarandom-v101-a-pure-lua-implementation-of-javas-random-class/2726203) | 30 | 2297 | Resources | 2023-12-01 |
-| [About the .ROBLOSECURITY cookie](https://devforum.roblox.com/t/about-the-roblosecurity-cookie/2305393) | 30 | 90297 | Resources | 2023-04-21 |
 | [The orbit creator plugin [Beta]](https://devforum.roblox.com/t/the-orbit-creator-plugin-beta/1728978) | 30 | 3023 | Resources | 2022-03-23 |
 | [RBXLuaJailer \| Modding wrapper for the Roblox class hierarchy!](https://devforum.roblox.com/t/rbxluajailer-modding-wrapper-for-the-roblox-class-hierarchy/4342074) | 30 | 1858 | Resources | 2026-02-07 |
 | [Ro-Volumetrics \| Volumetric Engine For Roblox \| v.0.0.1](https://devforum.roblox.com/t/ro-volumetrics-volumetric-engine-for-roblox-v001/4496428) | 30 | 3059 | Resources | 2026-03-09 |
@@ -504,3 +502,5 @@
 | [Async - Make your game realistic](https://devforum.roblox.com/t/async-make-your-game-realistic/1087673) | 28 | 4039 | Resources | 2021-03-06 |
 | [[PLUGIN] Animation Tools: A super animation toolkit](https://devforum.roblox.com/t/plugin-animation-tools-a-super-animation-toolkit/4528169) | 28 | 3759 | Resources | 2026-03-21 |
 | [[Plugin] Functional Scale - Quick UI Edits & Conversions](https://devforum.roblox.com/t/plugin-functional-scale-quick-ui-edits-conversions/4155266) | 28 | 963 | Resources | 2025-12-16 |
+| [Proto \| efficient process scheduling library](https://devforum.roblox.com/t/proto-efficient-process-scheduling-library/2215440) | 28 | 2996 | Resources | 2023-03-12 |
+| [Roblox OAuth Provider For NextAuth](https://devforum.roblox.com/t/roblox-oauth-provider-for-nextauth/2402244) | 28 | 2998 | Resources | 2023-06-02 |

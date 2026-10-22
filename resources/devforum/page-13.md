@@ -4,8 +4,6 @@
 
 | Topic | Likes | Views | Category | Created |
 |---|---:|---:|---|---|
-| [[Tutorial] From OOP to Data-Oriented Design: Memory layout, AoS vs SoA, FIFO/LIFO](https://devforum.roblox.com/t/tutorial-from-oop-to-data-oriented-design-memory-layout-aos-vs-soa-fifolifo/4342926) | 22 | 1248 | Resources | 2026-02-07 |
-| [Star Wars Audios](https://devforum.roblox.com/t/star-wars-audios/792749) | 22 | 4723 | Resources | 2020-09-27 |
 | [Avatar \| Humanoid Description Extension!](https://devforum.roblox.com/t/avatar-humanoid-description-extension/3243689) | 22 | 1997 | Resources | 2024-11-02 |
 | [How to make a terrain modifier](https://devforum.roblox.com/t/how-to-make-a-terrain-modifier/1429551) | 22 | 3712 | Resources | 2021-08-22 |
 | [Plottr — animated, strictly-typed graphs for your GUIs](https://devforum.roblox.com/t/plottr-%E2%80%94-animated-strictly-typed-graphs-for-your-guis/4734157) | 22 | 682 | Resources | 2026-07-12 |
@@ -504,3 +502,5 @@
 | [A overhead GUI for your game admins/ developers](https://devforum.roblox.com/t/a-overhead-gui-for-your-game-admins-developers/900071) | 19 | 4335 | Resources | 2020-12-01 |
 | [Frequency-Based Sound Attenuation Script](https://devforum.roblox.com/t/frequency-based-sound-attenuation-script/3228880) | 19 | 1839 | Resources | 2024-10-26 |
 | [Closet Hiding System inspired by DOORS (Open Sourced)](https://devforum.roblox.com/t/closet-hiding-system-inspired-by-doors-open-sourced/2304868) | 19 | 3361 | Resources | 2023-04-20 |
+| [Annotations Plugin](https://devforum.roblox.com/t/annotations-plugin/3115533) | 19 | 905 | Resources | 2024-08-13 |
+| [[archive / corrupted asset] do not use](https://devforum.roblox.com/t/archive-corrupted-asset-do-not-use/3552593) | 19 | 1573 | Resources | 2025-03-16 |

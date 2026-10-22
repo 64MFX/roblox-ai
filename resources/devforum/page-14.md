@@ -4,8 +4,6 @@
 
 | Topic | Likes | Views | Category | Created |
 |---|---:|---:|---|---|
-| [Annotations Plugin](https://devforum.roblox.com/t/annotations-plugin/3115533) | 19 | 905 | Resources | 2024-08-13 |
-| [[archive / corrupted asset] do not use](https://devforum.roblox.com/t/archive-corrupted-asset-do-not-use/3552593) | 19 | 1573 | Resources | 2025-03-16 |
 | [[0.2] Tween Tester: A tween previewer plugin](https://devforum.roblox.com/t/02-tween-tester-a-tween-previewer-plugin/2933984) | 19 | 1942 | Resources | 2024-04-17 |
 | [LinkModule - Linking destruction between instances](https://devforum.roblox.com/t/linkmodule-linking-destruction-between-instances/293847) | 19 | 2365 | Resources | 2019-06-16 |
 | [ModuleScripts - An Introduction](https://devforum.roblox.com/t/modulescripts-an-introduction/1452974) | 19 | 2609 | Resources | 2021-09-04 |
@@ -504,3 +502,5 @@
 | [TUTORIAL: Gifting Gamepass System (+ Regional Gifts)](https://devforum.roblox.com/t/tutorial-gifting-gamepass-system-regional-gifts/4061637) | 17 | 5694 | Resources | 2025-11-11 |
 | [Eventer - Make events without external instances](https://devforum.roblox.com/t/eventer-make-events-without-external-instances/1888211) | 17 | 2253 | Resources | 2022-07-21 |
 | [Moderator Scanner - That plugin that's got your back](https://devforum.roblox.com/t/moderator-scanner-that-plugin-thats-got-your-back/2802965) | 17 | 2776 | Resources | 2024-01-21 |
+| [CactusBase 2 - A simple extenal database](https://devforum.roblox.com/t/cactusbase-2-a-simple-extenal-database/2848679) | 17 | 977 | Resources | 2024-02-22 |
+| [Sound Analyzer and Visualizer](https://devforum.roblox.com/t/sound-analyzer-and-visualizer/682178) | 17 | 2636 | Resources | 2020-07-21 |

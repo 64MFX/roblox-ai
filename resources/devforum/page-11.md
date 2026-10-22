@@ -4,8 +4,6 @@
 
 | Topic | Likes | Views | Category | Created |
 |---|---:|---:|---|---|
-| [Proto \| efficient process scheduling library](https://devforum.roblox.com/t/proto-efficient-process-scheduling-library/2215440) | 28 | 2996 | Resources | 2023-03-12 |
-| [Roblox OAuth Provider For NextAuth](https://devforum.roblox.com/t/roblox-oauth-provider-for-nextauth/2402244) | 28 | 2998 | Resources | 2023-06-02 |
 | [Color Tweaker \| A quick way to reimagine anything](https://devforum.roblox.com/t/color-tweaker-a-quick-way-to-reimagine-anything/1997047) | 28 | 4145 | Resources | 2022-09-27 |
 | [Animify - An easy to use Animation GUI](https://devforum.roblox.com/t/animify-an-easy-to-use-animation-gui/2462029) | 28 | 5259 | Resources | 2023-07-10 |
 | [The Book Of Optimisation](https://devforum.roblox.com/t/the-book-of-optimisation/1732882) | 28 | 5638 | Resources | 2022-03-26 |
@@ -504,3 +502,5 @@
 | [Multi-game payout method (Different developers working on different games in one group)](https://devforum.roblox.com/t/multi-game-payout-method-different-developers-working-on-different-games-in-one-group/2226820) | 25 | 1943 | Resources | 2023-03-23 |
 | [A while back I made a Dominus knife mesh that was never needed; its a good time of year to make it public to use!](https://devforum.roblox.com/t/a-while-back-i-made-a-dominus-knife-mesh-that-was-never-needed-its-a-good-time-of-year-to-make-it-public-to-use/418903) | 25 | 1782 | Resources | 2019-12-28 |
 | [Dithering with Post-Processing Effects](https://devforum.roblox.com/t/dithering-with-post-processing-effects/4008922) | 25 | 2824 | Resources | 2025-10-15 |
+| [Buffers, save more with less](https://devforum.roblox.com/t/buffers-save-more-with-less/3635791) | 25 | 2085 | Resources | 2025-05-03 |
+| [The Game Design Process](https://devforum.roblox.com/t/the-game-design-process/574528) | 25 | 1292 | Resources | 2020-05-14 |

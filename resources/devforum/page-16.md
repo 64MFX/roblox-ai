@@ -4,8 +4,6 @@
 
 | Topic | Likes | Views | Category | Created |
 |---|---:|---:|---|---|
-| [Modules for a Donation Game](https://devforum.roblox.com/t/modules-for-a-donation-game/3141065) | 15 | 1289 | Resources | 2024-08-31 |
-| [[R6] Floating Idle Animations](https://devforum.roblox.com/t/r6-floating-idle-animations/3012149) | 15 | 7429 | Resources | 2024-06-08 |
 | [BloxConnect - Easy Moderation](https://devforum.roblox.com/t/bloxconnect-easy-moderation/3001526) | 15 | 1965 | Resources | 2024-06-02 |
 | [WealthMetrics+ \| Turn Cash Into a Competition](https://devforum.roblox.com/t/wealthmetrics-turn-cash-into-a-competition/4797240) | 15 | 1141 | Resources | 2026-08-09 |
 | [Tweenify Lite — Tween Animation Tools](https://devforum.roblox.com/t/tweenify-lite-%E2%80%94-tween-animation-tools/4916421) | 15 | 373 | Resources | 2026-10-05 |
@@ -504,3 +502,5 @@
 | [TNotifs \| Notification System made by tr0llpojken](https://devforum.roblox.com/t/tnotifs-notification-system-made-by-tr0llpojken/4672758) | 14 | 533 | Resources | 2026-06-07 |
 | [Productivity plugin: script_io](https://devforum.roblox.com/t/productivity-plugin-scriptio/4753990) | 14 | 496 | Resources | 2026-07-24 |
 | [ValueLibrary, a replacement for Roblox's ValueInstances](https://devforum.roblox.com/t/valuelibrary-a-replacement-for-robloxs-valueinstances/3420248) | 14 | 602 | Resources | 2025-01-27 |
+| [GladRoTools — a native macOS companion for Roblox Studio](https://devforum.roblox.com/t/gladrotools-%E2%80%94-a-native-macos-companion-for-roblox-studio/4660150) | 14 | 487 | Resources | 2026-05-30 |
+| [VR-Like Module [RELEASE!]](https://devforum.roblox.com/t/vr-like-module-release/2929066) | 13 | 2776 | Resources | 2024-04-14 |

@@ -4,8 +4,6 @@
 
 | Topic | Likes | Views | Category | Created |
 |---|---:|---:|---|---|
-| [GladRoTools — a native macOS companion for Roblox Studio](https://devforum.roblox.com/t/gladrotools-%E2%80%94-a-native-macos-companion-for-roblox-studio/4660150) | 14 | 487 | Resources | 2026-05-30 |
-| [VR-Like Module [RELEASE!]](https://devforum.roblox.com/t/vr-like-module-release/2929066) | 13 | 2776 | Resources | 2024-04-14 |
 | [The "Smart Tween" Library - create, play, and automatically destroy Tweens on command!](https://devforum.roblox.com/t/the-smart-tween-library-create-play-and-automatically-destroy-tweens-on-command/1539821) | 13 | 5387 | Resources | 2021-11-08 |
 | [Snippets! - Autocomplete Plugin](https://devforum.roblox.com/t/snippets-autocomplete-plugin/2034872) | 13 | 2772 | Resources | 2022-10-27 |
 | [RovolutionLogisics - Forms System](https://devforum.roblox.com/t/rovolutionlogisics-forms-system/1781139) | 13 | 1298 | Resources | 2022-05-05 |
@@ -504,3 +502,5 @@
 | [Flipdeck - A VFX Library / Organizer Plugin](https://devforum.roblox.com/t/flipdeck-a-vfx-library-organizer-plugin/4911866) | 12 | 541 | Resources | 2026-10-03 |
 | [Datastore Resource [REMADE]](https://devforum.roblox.com/t/datastore-resource-remade/1594478) | 12 | 1351 | Resources | 2021-12-19 |
 | [OpenTeamup - Talk about your experiences working with other developers!](https://devforum.roblox.com/t/openteamup-talk-about-your-experiences-working-with-other-developers/2512836) | 12 | 598 | Resources | 2023-08-07 |
+| [Mobile Dragging Module](https://devforum.roblox.com/t/mobile-dragging-module/3623189) | 12 | 1259 | Resources | 2025-04-23 |
+| [Cinnamon 3D UI [v0.1]](https://devforum.roblox.com/t/cinnamon-3d-ui-v01/4350284) | 12 | 687 | Resources | 2026-02-10 |

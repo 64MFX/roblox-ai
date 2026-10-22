@@ -4,7 +4,6 @@
 
 | Topic | Likes | Views | Category | Created |
 |---|---:|---:|---|---|
-| [Fast Minkowski Shapecast](https://devforum.roblox.com/t/fast-minkowski-shapecast/3351159) | 79 | 3039 | Resources | 2025-01-06 |
 | [Customized Chat, Giving a second life to the old beloved chat](https://devforum.roblox.com/t/customized-chat-giving-a-second-life-to-the-old-beloved-chat/2579170) | 79 | 9445 | Resources | 2023-09-04 |
 | [Free Cartoon themed GUIs](https://devforum.roblox.com/t/free-cartoon-themed-guis/1754465) | 79 | 21147 | Resources | 2022-04-14 |
 | [OpenKart - A solid racing game foundation](https://devforum.roblox.com/t/openkart-a-solid-racing-game-foundation/2024016) | 79 | 6577 | Resources | 2022-10-16 |
@@ -504,3 +503,4 @@
 | [Node Master, a free and versatile A* Pathfinding Plugin](https://devforum.roblox.com/t/node-master-a-free-and-versatile-a-pathfinding-plugin/3446976) | 64 | 4034 | Resources | 2025-02-05 |
 | [SimpleDialogue - A Dialogue Module](https://devforum.roblox.com/t/simpledialogue-a-dialogue-module/3631857) | 64 | 4126 | Resources | 2025-04-29 |
 | [CFrame animation plugin!](https://devforum.roblox.com/t/cframe-animation-plugin/1850042) | 64 | 10167 | Resources | 2022-06-28 |
+| [[Plugin] QuickRotate](https://devforum.roblox.com/t/plugin-quickrotate/918669) | 64 | 3331 | Resources | 2020-12-11 |

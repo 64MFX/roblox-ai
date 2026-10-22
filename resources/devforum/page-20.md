@@ -4,8 +4,6 @@
 
 | Topic | Likes | Views | Category | Created |
 |---|---:|---:|---|---|
-| [UIStroke Scaling Plugin](https://devforum.roblox.com/t/uistroke-scaling-plugin/1653121) | 9 | 1849 | Resources | 2022-02-02 |
-| [GetMouseLocation on SurfaceGui](https://devforum.roblox.com/t/getmouselocation-on-surfacegui/2392815) | 9 | 668 | Resources | 2023-05-25 |
 | [SceneManager - Make scenes for your game!](https://devforum.roblox.com/t/scenemanager-make-scenes-for-your-game/2307370) | 9 | 2442 | Resources | 2023-04-22 |
 | [Infinite Yield Detection (mobile)](https://devforum.roblox.com/t/infinite-yield-detection-mobile/4902505) | 9 | 366 | Resources | 2026-09-28 |
 | [@rbxts/highlight-voxel – highlight Terrain voxels, draped over the real terrain surface (roblox-ts)](https://devforum.roblox.com/t/rbxtshighlight-voxel-%E2%80%93-highlight-terrain-voxels-draped-over-the-real-terrain-surface-roblox-ts/4880053) | 9 | 254 | Resources | 2026-09-18 |
@@ -504,3 +502,5 @@
 | [[FREE] SmartUpload - Bulk Upload and Store Images](https://devforum.roblox.com/t/free-smartupload-bulk-upload-and-store-images/4334132) | 8 | 321 | Resources | 2026-02-04 |
 | [How to send non-replicated objects in remote events](https://devforum.roblox.com/t/how-to-send-non-replicated-objects-in-remote-events/1690690) | 8 | 658 | Resources | 2022-03-05 |
 | [@relatiohq/opencloud \| TypeScript SDK for Roblox Open Cloud](https://devforum.roblox.com/t/relatiohqopencloud-typescript-sdk-for-roblox-open-cloud/4023554) | 8 | 317 | Resources | 2025-10-24 |
+| [Creating Instances with tables!](https://devforum.roblox.com/t/creating-instances-with-tables/1837443) | 8 | 862 | Resources | 2022-06-18 |
+| [Thumbnail Cam v2 (Release!)](https://devforum.roblox.com/t/thumbnail-cam-v2-release/1750746) | 8 | 557 | Resources | 2022-04-10 |

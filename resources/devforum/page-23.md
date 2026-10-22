@@ -4,9 +4,6 @@
 
 | Topic | Likes | Views | Category | Created |
 |---|---:|---:|---|---|
-| [A Guide to Object Selection](https://devforum.roblox.com/t/a-guide-to-object-selection/137137) | 5 | 1300 | Resources | 2018-06-18 |
-| [RankBlox - Roblox Ranking Service](https://devforum.roblox.com/t/rankblox-roblox-ranking-service/4052737) | 5 | 1295 | Resources | 2025-11-07 |
-| ["Realistic" Armor Calculations](https://devforum.roblox.com/t/realistic-armor-calculations/2995620) | 5 | 1257 | Resources | 2024-05-30 |
 | [Some traps for you!](https://devforum.roblox.com/t/some-traps-for-you/1364867) | 5 | 1234 | Resources | 2021-07-21 |
 | [Time Cycle (Realistic Day-Night)](https://devforum.roblox.com/t/time-cycle-realistic-day-night/3190266) | 5 | 1234 | Resources | 2024-10-11 |
 | [Planet Sphere generator with Perlin Noise](https://devforum.roblox.com/t/planet-sphere-generator-with-perlin-noise/3157996) | 5 | 1188 | Resources | 2024-09-14 |
@@ -504,3 +501,6 @@
 | [HOW TO LOCATE STANDALONE PLUGINS! [Alpha] Next Gen Studio Update: Custom Tabs](https://devforum.roblox.com/t/how-to-locate-standalone-plugins-alpha-next-gen-studio-update-custom-tabs/3255775) | 4 | 539 | Resources | 2024-11-12 |
 | [Simple Music Playlist Controller](https://devforum.roblox.com/t/simple-music-playlist-controller/2289571) | 4 | 536 | Resources | 2023-04-11 |
 | [Path toolbox plugin [Beta V2.2] - A lightweight path/cutscene creation tool](https://devforum.roblox.com/t/path-toolbox-plugin-beta-v22-a-lightweight-pathcutscene-creation-tool/2509966) | 4 | 2091 | Resources | 2023-08-06 |
+| [Await (for all your event races, waiting for specific fired arguments, with timeouts)](https://devforum.roblox.com/t/await-for-all-your-event-races-waiting-for-specific-fired-arguments-with-timeouts/2451711) | 4 | 523 | Resources | 2023-07-04 |
+| [Simple Stud Randomizer Plugin](https://devforum.roblox.com/t/simple-stud-randomizer-plugin/3043064) | 4 | 520 | Resources | 2024-06-28 |
+| [Vmbridge: Plugin&lt;&gt;CommandBar communication plugin](https://devforum.roblox.com/t/vmbridge-plugincommandbar-communication-plugin/1569198) | 4 | 504 | Resources | 2021-11-28 |

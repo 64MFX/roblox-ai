@@ -2,7 +2,7 @@
 
 Harvested 2026-10-21 from the GitHub search API with `scripts/harvest_github.py`. Every row was a public, non-fork repository when harvested. Descriptions are the repo owners' own. Exploit, executor and cheat tooling is filtered out. Check licence and maintenance before using any code.
 
-5086 entries in 11 pages, sorted by popularity.
+4357 entries in 9 pages, sorted by popularity.
 
 | Page | Range |
 |---|---|
@@ -14,6 +14,4 @@ Harvested 2026-10-21 from the GitHub search API with `scripts/harvest_github.py`
 | [6](page-06.md) | #2501-3000 |
 | [7](page-07.md) | #3001-3500 |
 | [8](page-08.md) | #3501-4000 |
-| [9](page-09.md) | #4001-4500 |
-| [10](page-10.md) | #4501-5000 |
-| [11](page-11.md) | #5001-5086 |
+| [9](page-09.md) | #4001-4357 |

@@ -4,9 +4,6 @@
 
 | Topic | Likes | Views | Category | Created |
 |---|---:|---:|---|---|
-| [Polarstar Radio System Clone](https://devforum.roblox.com/t/polarstar-radio-system-clone/3849334) | 0 | 446 | Resources | 2025-07-30 |
-| [LBanService \| A Fast , One-stop, Wrapper BanService based on Ban API](https://devforum.roblox.com/t/lbanservice-a-fast-one-stop-wrapper-banservice-based-on-ban-api/3872567) | 0 | 316 | Resources | 2025-08-10 |
-| [Advanced Tycoon System [Paid]](https://devforum.roblox.com/t/advanced-tycoon-system-paid/4743184) | 0 | 432 | Resources | 2026-07-17 |
 | [Giving Free folder structure](https://devforum.roblox.com/t/giving-free-folder-structure/4636217) | 0 | 428 | Resources | 2026-05-14 |
 | [Sound/Audio Muffling for Noobs](https://devforum.roblox.com/t/soundaudio-muffling-for-noobs/3474837) | 0 | 427 | Resources | 2025-02-14 |
 | [SelectionTools - Plugin](https://devforum.roblox.com/t/selectiontools-plugin/2805626) | 0 | 426 | Resources | 2024-01-23 |

@@ -4,9 +4,6 @@
 
 | Topic | Likes | Views | Category | Created |
 |---|---:|---:|---|---|
-| [Await (for all your event races, waiting for specific fired arguments, with timeouts)](https://devforum.roblox.com/t/await-for-all-your-event-races-waiting-for-specific-fired-arguments-with-timeouts/2451711) | 4 | 523 | Resources | 2023-07-04 |
-| [Simple Stud Randomizer Plugin](https://devforum.roblox.com/t/simple-stud-randomizer-plugin/3043064) | 4 | 520 | Resources | 2024-06-28 |
-| [Vmbridge: Plugin&lt;&gt;CommandBar communication plugin](https://devforum.roblox.com/t/vmbridge-plugincommandbar-communication-plugin/1569198) | 4 | 504 | Resources | 2021-11-28 |
 | [Make System Messages with EasyMessages](https://devforum.roblox.com/t/make-system-messages-with-easymessages/3490598) | 4 | 498 | Resources | 2025-02-20 |
 | [How to add custom themes to Moon Animator 2](https://devforum.roblox.com/t/how-to-add-custom-themes-to-moon-animator-2/2966411) | 4 | 4396 | Resources | 2024-05-11 |
 | [ForestFX Plugin: Essential Tools](https://devforum.roblox.com/t/forestfx-plugin-essential-tools/3046856) | 4 | 494 | Resources | 2024-06-30 |
@@ -504,3 +501,6 @@
 | [CAPA \| Frame Anchor Point Conversion](https://devforum.roblox.com/t/capa-frame-anchor-point-conversion/3118328) | 3 | 294 | Resources | 2024-08-14 |
 | [Rivet - Explicit Client APIs and Object Codecs](https://devforum.roblox.com/t/rivet-explicit-client-apis-and-object-codecs/4698312) | 3 | 292 | Resources | 2026-06-22 |
 | [Fully Scripted Roblox Game Template (Police Escape)](https://devforum.roblox.com/t/fully-scripted-roblox-game-template-police-escape/4884738) | 3 | 291 | Resources | 2026-09-20 |
+| [CPSATLib releases to the DevForum!](https://devforum.roblox.com/t/cpsatlib-releases-to-the-devforum/3074649) | 3 | 289 | Resources | 2024-07-18 |
+| [Terrain Library Plugin - Save and Stamp Terrain](https://devforum.roblox.com/t/terrain-library-plugin-save-and-stamp-terrain/4818752) | 3 | 291 | Resources | 2026-08-18 |
+| [UniPlugin \| Plugins, unified. A simple Plugin wrapper that provides inter-plugin import/export semantics for public Plugin APIs](https://devforum.roblox.com/t/uniplugin-plugins-unified-a-simple-plugin-wrapper-that-provides-inter-plugin-importexport-semantics-for-public-plugin-apis/4475722) | 3 | 286 | Resources | 2026-03-06 |

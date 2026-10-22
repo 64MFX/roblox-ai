@@ -1,4 +1,4 @@
-# GitHub repositories tagged Roblox / Luau: page 1 of 11
+# GitHub repositories tagged Roblox / Luau: page 1 of 9
 
 [Index](README.md)
 
@@ -7,7 +7,6 @@
 | [dathere/qsv](https://github.com/dathere/qsv) | 3813 | Rust |  | Blazing-fast, Neuro-symbolic Data-Wrangling toolkit |
 | [bloxstraplabs/bloxstrap](https://github.com/bloxstraplabs/bloxstrap) | 3183 | C# | MIT | An alternative bootstrapper for Roblox with a bunch of extra features. |
 | [mlua-rs/mlua](https://github.com/mlua-rs/mlua) | 2916 | Rust |  | High level Lua 5.5/5.4/5.3/5.2/5.1 (including LuaJIT) and Luau bindings to Rust with async/await support |
-| [NatroTeam/NatroMacro](https://github.com/NatroTeam/NatroMacro) | 2424 | AutoHotkey | GPL-3.0 | A Bee Swarm Simulator macro for Windows |
 | [rojo-rbx/rojo](https://github.com/rojo-rbx/rojo) | 1812 | Rust | MPL-2.0 | Rojo enables Roblox developers to use professional-grade software engineering tools |
 | [roblox-ts/roblox-ts](https://github.com/roblox-ts/roblox-ts) | 1322 | TypeScript | MIT | A TypeScript-to-Luau Compiler for Roblox |
 | [mirror-engine/the-mirror](https://github.com/mirror-engine/the-mirror) | 1301 | GDScript |  | V1, Mirror Classic. V2, Mirror Engine: Join Discord for access. |
@@ -20,9 +19,7 @@
 | [Roblox/roact](https://github.com/Roblox/roact) (archived) | 626 | Lua | Apache-2.0 | A view management library for Roblox Lua similar to React |
 | [Quenty/NevermoreEngine](https://github.com/Quenty/NevermoreEngine) | 622 | Lua | MIT | ModuleScript loader with reusable and easy unified server-client modules for faster game development on Roblox |
 | [evaera/Cmdr](https://github.com/evaera/Cmdr) | 533 | Luau | MIT | Extensible command console for Roblox developers |
-| [prometheus-lua/Prometheus](https://github.com/prometheus-lua/Prometheus) | 530 | Lua |  | Lua Obfuscator written in pure Lua |
 | [Epix-Incorporated/Adonis](https://github.com/Epix-Incorporated/Adonis) | 514 | Luau | MIT | Roblox Server Administration System |
-| [efenatuyo/ugc-sniper](https://github.com/efenatuyo/ugc-sniper) (archived) | 511 | Python |  | the best one out there (yet again) |
 | [Roblox/studio-rust-mcp-server](https://github.com/Roblox/studio-rust-mcp-server) (archived) | 496 | Rust | MIT | Standalone Roblox Studio MCP Server |
 | [boshyxd/robloxstudio-mcp](https://github.com/boshyxd/robloxstudio-mcp) (archived) | 495 | TypeScript | MIT | Create agentic AI workflows in ROBLOX Studio |
 | [Ukendio/jecs](https://github.com/Ukendio/jecs) | 475 | Luau | MIT | A fast, portable Entity Component System for Luau |
@@ -38,7 +35,6 @@
 | [centau/vide](https://github.com/centau/vide) | 343 | Luau | MIT | A reactive Luau library for creating UI. |
 | [EL4CTEO/blender-skills](https://github.com/EL4CTEO/blender-skills) | 341 | Python | MIT | Professional Blender 5.2 workflows as Agent Skills for Claude Code, Codex, Gemini CLI, Copilot and Cursor: modeling, UVs, PBR, baking, rigging, animation, export and QA. |
 | [Roblox/rodux](https://github.com/Roblox/rodux) | 336 | Lua | Apache-2.0 | A state management library for Roblox Lua inspired by Redux |
-| [osyrisrblx/t](https://github.com/osyrisrblx/t) | 334 | Lua | MIT | A Runtime Typechecker for Roblox |
 | [kennyzir/7deer_skills](https://github.com/kennyzir/7deer_skills) | 328 | Python | MIT | Composable, auditable Agent Skills for building Roblox game sites—from opportunity and keyword research to content, SEO, updates, and backlinks. |
 | [Chrrxs/robloxstudio-mcp](https://github.com/Chrrxs/robloxstudio-mcp) | 323 | Lua | MIT | MCP server for Roblox Studio runtime debugging, playtest control, screenshots/input, multiplayer testing, and per-peer server/client eval from AI agents. |
 | [metaworm/luac-parser-rs](https://github.com/metaworm/luac-parser-rs) | 322 | Rust |  | lua bytecode parser written in Rust using nom, part of metaworm's lua decompiler, support lua51/lua52/lua53/lua54/luajit/luau https://luadec.metaworm.site/ |
@@ -65,8 +61,6 @@
 | [ffrostfall/ByteNet](https://github.com/ffrostfall/ByteNet) | 183 | Luau | MIT | An advanced, modern networking library for Luau/Roblox |
 | [jaipack17/Nature2D](https://github.com/jaipack17/Nature2D) | 183 | Lua | MIT | A 2D physics engine for Roblox. Create versatile physics simulations and mechanics with GUIs! |
 | [rojo-rbx/remodel](https://github.com/rojo-rbx/remodel) (archived) | 176 | Rust | MIT | Scriptable Roblox multitool: Manipulate instances, model files, places, and assets on Roblox.com |
-| [caomod2077/Deobfuscator-Luraph-V15](https://github.com/caomod2077/Deobfuscator-Luraph-V15) | 173 | JavaScript | MIT | A standalone, high-performance deobfuscator and devirtualizer for Roblox Luau scripts protected by Luraph v15. |
-| [JLW-7/Wally](https://github.com/JLW-7/Wally) | 172 | C++ | MIT | Cute voice assistant built on ESP32 to help users with reminders, productivity, and daily conversations. |
 | [SovereignSatellite/Wasynth](https://github.com/SovereignSatellite/Wasynth) (archived) | 169 | Rust | GPL-3.0 | This project has been superseded by Spider. |
 | [S4US/Roqer](https://github.com/S4US/Roqer) | 164 | TypeScript | AGPL-3.0 | An open-source AI agent for Roblox Studio. Builds, scripts, and playtests in your place using your ChatGPT/Claude subscription or custom API. |
 | [Wookhq/Lution-old](https://github.com/Wookhq/Lution-old) (archived) | 164 | Python | MIT | literally a bloxstrap clone 4 linux |
@@ -76,10 +70,7 @@
 | [FrosSky/Chevstrap](https://github.com/FrosSky/Chevstrap) | 153 | Kotlin | MIT | Chevstrap is a third-party Android launcher for Roblox, based on Bloxstrap and specifically designed for Android. |
 | [MaximumADHD/Roblox-File-Format](https://github.com/MaximumADHD/Roblox-File-Format) | 152 | C# | MIT | A C# library designed to make it easy to create and manipulate files in Roblox's serialized DOM. |
 | [howmanysmall/Janitor](https://github.com/howmanysmall/Janitor) | 151 | Luau | MIT | Janitor library. |
-| [LorettaDevs/Loretta](https://github.com/LorettaDevs/Loretta) | 151 | C# | MIT | A C# Lua, GLua and Luau parser, code analysis, transformation and generation library. |
-| [evaera/RoVer](https://github.com/evaera/RoVer) (archived) | 150 | JavaScript | Apache-2.0 | This repo is RoVer V1, which is now deprecated and will no longer work. Get Rover V2 now:  https://rover.link |
 | [atrexus/unluau](https://github.com/atrexus/unluau) | 148 | C# | Apache-2.0 | A decompiler for Luau (Roblox's Lua based programming language: https://luau-lang.org/). |
-| [J3ldo/UGC-Sniper](https://github.com/J3ldo/UGC-Sniper) | 148 | Python | MIT | J3ldo Sniper, a free powerful, and easy to customize roblox Sniper |
 | [fraktality/spr](https://github.com/fraktality/spr) | 146 | Lua | MIT | Small and fast motion library |
 | [Reselim/Flipper](https://github.com/Reselim/Flipper) | 144 | Lua | MIT | A motion library for Roblox |
 | [evaera/matter](https://github.com/evaera/matter) (archived) | 142 | Lua | MIT | A modern ECS library for Roblox. |
@@ -94,8 +85,6 @@
 | [pesde-pkg/pesde](https://github.com/pesde-pkg/pesde) | 129 | Rust | MIT | A package manager for the Luau programming language, supporting multiple runtimes including Roblox and Lune |
 | [ro-py/ro.py](https://github.com/ro-py/ro.py) | 128 | Python | MIT | ro.py is a modern, asynchronous Python 3 wrapper for the Roblox API. |
 | [flipbook-labs/flipbook](https://github.com/flipbook-labs/flipbook) | 125 | Luau | MIT | Storybook plugin for Roblox UI |
-| [PY44N/Lua-Obfuscator](https://github.com/PY44N/Lua-Obfuscator) (archived) | 123 | Lua |  | A Lua Obfuscator made for Roblox, but should work on most Lua applications |
-| [espresso-soft/proxy-fastflags](https://github.com/espresso-soft/proxy-fastflags) | 122 |  |  | Flag Browser is a powerful tool designed to give users direct control over FastFlags in real time. |
 | [Scythe-Technology/zune](https://github.com/Scythe-Technology/zune) | 122 | Zig |  | A Luau runtime |
 | [4anti/Roblox-Fastflag-Manager](https://github.com/4anti/Roblox-Fastflag-Manager) | 121 | C++ |  | A lightweight, super-fast   FastFlag Manager   for ROBLOX with lots of features. |
 | [TabooHarmony/roblox-brain](https://github.com/TabooHarmony/roblox-brain) | 119 | Python | MIT | The Roblox Studio knowledge your coding agent is missing. Skill library for Roblox Studio game development. |
@@ -105,7 +94,6 @@
 | [littensy/reflex](https://github.com/littensy/reflex) | 109 | Lua | MIT | ♻️ An all-in-one state container for Roblox |
 | [roblox-aurora/rbx-net](https://github.com/roblox-aurora/rbx-net) | 108 | TypeScript | MIT | Advanced multi-language networking framework for Roblox |
 | [Manonox/GDLuau](https://github.com/Manonox/GDLuau) | 107 | C++ | MIT | Luau C/C++ API bindings for the Godot Engine |
-| [birthdates/Lua-Obfuscator](https://github.com/birthdates/Lua-Obfuscator) | 106 | C++ | GPL-3.0 | Obfuscate your lua code because it's so easy to steal! |
 | [lisphm/A-Chassis](https://github.com/lisphm/A-Chassis) | 105 | Luau | MPL-2.0 | This is the official page for A-Chassis. Find documentation and release history here. |
 | [roblox-csharp/roblox-cs](https://github.com/roblox-csharp/roblox-cs) | 103 | C# | MIT | C# to Luau transpiler for Roblox |
 | [khvzak/script-bench-rs](https://github.com/khvzak/script-bench-rs) | 102 | Rust | MIT | Rust embedded scripting languages benchmark |
@@ -113,7 +101,6 @@
 | [Roblox/roact-rodux](https://github.com/Roblox/roact-rodux) | 100 | Lua | Apache-2.0 | A connector between Roact and Rodux, similar to react-redux |
 | [ffrostfall/crunchyroll](https://github.com/ffrostfall/crunchyroll) | 98 | Luau | MIT | A custom animation solver for Roblox |
 | [SovereignSatellite/Spider](https://github.com/SovereignSatellite/Spider) | 97 | Rust | AGPL-3.0 | WebAssembly to Luau and LuaJIT translation |
-| [Agzes/AntiAFK-RBX](https://github.com/Agzes/AntiAFK-RBX) | 96 | C++ | MIT | 📔• AntiAFK-RBX ( Anti-AFK for Roblox ) •  The best program for AntiAFK and Multi-Instance for Roblox. Or just Roblox Anti-AFK. \| tags: antiafk, roblox, anti afk, anti-afk, rbx, anit afk for roblox \| O |
 | [Yelp/casper](https://github.com/Yelp/casper) | 96 | Rust |  | A fast web application platform built in Rust and Luau |
 | [KloBraticc/Voidstrap](https://github.com/KloBraticc/Voidstrap) | 95 | C# | MIT | Voidstrap is a simple yet advanced fork of Bloxstrap, advanced customization and improvements. |
 | [xgladius/luauDec](https://github.com/xgladius/luauDec) | 95 | C++ |  | Decompiler for luau (https://luau-lang.org/) |
@@ -129,15 +116,11 @@
 | [qing762/roblox-auto-signup](https://github.com/qing762/roblox-auto-signup) (archived) | 83 | Python | GPL-3.0 | A tool that auto fetch a temporary email address and creates an account at https://roblox.com/ |
 | [nanoblox/hd-admin](https://github.com/nanoblox/hd-admin) | 83 | Lua |  |  |
 | [lupyuen/lupyuen.github.io](https://github.com/lupyuen/lupyuen.github.io) | 82 | HTML | Apache-2.0 | Lup Yuen's Articles and Resume |
-| [DiscordLuau/discord-luau](https://github.com/DiscordLuau/discord-luau) | 82 | Luau | MIT | A Luau library for creating Discord bots. Runtime agnostic. |
-| [VirageRoblox/Virage-Grow-A-Garden-Macro](https://github.com/VirageRoblox/Virage-Grow-A-Garden-Macro) | 78 | AutoHotkey | MIT | A macro for the Roblox game "Grow a Garden" |
 | [roblox-plus/extension](https://github.com/roblox-plus/extension) | 78 | TypeScript |  | This is the source of the Roblox+ Google Chrome extension! |
 | [equinoxhq/equinox](https://github.com/equinoxhq/equinox) (archived) | 77 | Nim | MIT | A runtime for Roblox on Linux using containers. |
-| [AlexR32/Parvus](https://github.com/AlexR32/Parvus) (archived) | 77 | Lua |  | Free Roblox Script Hub designed for shooters |
 | [Arther-hup/forge-context-engine](https://github.com/Arther-hup/forge-context-engine) | 75 | HTML |  | Best Open-Source Roblox Studio AI Workflow for Claude Code 2026 |
 | [AallamR/RobloxForge-Intelligence](https://github.com/AallamR/RobloxForge-Intelligence) | 75 | HTML |  | RobloxForge Docs 2026: Official MCP Vertical Slice Verification Layer for Studio |
 | [Pseudoreality/Roblox-Identities](https://github.com/Pseudoreality/Roblox-Identities) | 75 | Luau |  | A current explanation of Roblox's identities and securities. |
-| [coniieq/luau-guardrail](https://github.com/coniieq/luau-guardrail) | 74 | HTML |  | Roblox Luau AI Agent Standards and Static Checker Toolkit 2026 |
 | [real2nix/mineblox](https://github.com/real2nix/mineblox) | 74 | Luau | MIT | A highly extensible voxel engine written in Luau for Roblox. |
 | [Exunys/AirHub-V2](https://github.com/Exunys/AirHub-V2) | 74 | Lua | CC0-1.0 | ROBLOX Universal Targeting, Visualization (ESP) & Crosshair GUI |
 | [Anaminus/roblox-library](https://github.com/Anaminus/roblox-library) | 74 | Lua | MIT-0 | A collection of modules, scripts, and snippets for use on Roblox. |
@@ -149,27 +132,18 @@
 | [arad01486-hash/studio-pulse-relay](https://github.com/arad01486-hash/studio-pulse-relay) | 72 | HTML |  | Roblox Studio Live Sync 2026: Open Cloud WebSocket Agent for Real-Time Playtest Hot-Reloading |
 | [warapotw/satchel-redux](https://github.com/warapotw/satchel-redux) | 72 | HTML |  | Modern Satchel Alternative for Roblox Inventory UI 2026 |
 | [xXLoneWolf589Xx/snoop-recon-suite](https://github.com/xXLoneWolf589Xx/snoop-recon-suite) | 72 | HTML |  | 40+ Modular Security Research and Pentesting Toolkit for OSINT Payload Generation 2026 |
-| [Jeba-Coder-123/steal-an-egg-vault](https://github.com/Jeba-Coder-123/steal-an-egg-vault) | 72 | HTML |  | Steal An Egg 2026 Egg Timer Tracker, Pet Value Index & Discord Alerts Guide |
-| [adamkhalile/luau-docs-oracle](https://github.com/adamkhalile/luau-docs-oracle) | 72 | HTML |  | Best Roblox Luau Bug Checker and API Verifier 2026 DevForum MCP Tool |
 | [equinoxhq/lucem](https://github.com/equinoxhq/lucem) | 72 | Nim | GPL-3.0 | [Currently doesn't work] An open-source bootstrapper for Sober, similar to Bloxstrap. |
 | [akfkehfl/roblox-codex-compendium](https://github.com/akfkehfl/roblox-codex-compendium) | 71 | HTML |  | Best Verified Roblox Redeem Codes Dataset 2026 Open CC BY 4.0 |
 | [Mutakisa/game-slop-purge](https://github.com/Mutakisa/game-slop-purge) | 71 | HTML |  | Best Game UI Cleanup Agent Skill 2026: Remove Slop, Keep Fun |
-| [jisancreativestudio-dev/Steam-Happy-Roblox-Vault](https://github.com/jisancreativestudio-dev/Steam-Happy-Roblox-Vault) | 71 | HTML |  | Roblox Script Hub 2026: Best SteamBored Alternatives for Game Automation |
 | [shivamthe-coder/roblox-luau-atelier](https://github.com/shivamthe-coder/roblox-luau-atelier) | 71 | HTML |  | 2026 Roblox Luau AI Agent Skill Suite for Production-Grade Scripts and Official Docs Guidance |
 | [Eliteprogrammer062/soberix-launcher-hub](https://github.com/Eliteprogrammer062/soberix-launcher-hub) | 71 | HTML |  | Soberix 2026: Best Open-Source Roblox Launcher Manager for Linux |
 | [tbee6061-ctrl/studio-live-window-capture](https://github.com/tbee6061-ctrl/studio-live-window-capture) | 71 | HTML |  | Roblox Studio macOS Window Capture Fix 2026: Real Screenshot Tool Instead of Magenta Playtest Glitch |
-| [mizansherpur/loop-egg-harvest-stop](https://github.com/mizansherpur/loop-egg-harvest-stop) | 71 | HTML |  | Automated Egg Collecting Farm Tool with Instant Stop Hotkey 2026 |
 | [Dthreeait/mm2-role-vision-and-blade-trails](https://github.com/Dthreeait/mm2-role-vision-and-blade-trails) | 71 | HTML |  | Best Roblox Murder Mystery 2 ESP and Role Reveal Guide 2026 |
 | [uniX251/Roblox-Friend-Bulk-Remover-Extension](https://github.com/uniX251/Roblox-Friend-Bulk-Remover-Extension) | 71 | HTML |  | Best Open Source Roblox Friend Manager Extension 2026 |
-| [arivera1970/Roblox-Studio-Archive-Index](https://github.com/arivera1970/Roblox-Studio-Archive-Index) | 71 | HTML |  | 2026 Roblox Studio Datamining API Dump and Client Tracker for Plugins, LuaPackages, FastFlags, Resources, Metadata, and Chronological Diffs |
 | [isaactoslow1313/when-do-rules](https://github.com/isaactoslow1313/when-do-rules) | 71 | HTML |  | Best Open WHEN/DO Rule Engine for Web micro:bit Roblox 2026 |
 | [bratanchek42/vkBasalt-Depth-Resolver](https://github.com/bratanchek42/vkBasalt-Depth-Resolver) | 71 | HTML |  | VKIntox 2026: Advanced Depth Resolve Modes for VKBasalt Vulkan Post-Processing |
-| [OmarDesouky96/auto-crusher-loop](https://github.com/OmarDesouky96/auto-crusher-loop) | 71 | HTML |  | Roblox Car Crushers 2 Auto Farm Script 2026: AFK Cash Grinding Guide |
-| [alenpshinu2010-lang/Roblox-Client-Archive-Diffs](https://github.com/alenpshinu2010-lang/Roblox-Client-Archive-Diffs) | 71 | HTML |  | Roblox Player Datamining Tracker 2026: Builds, FastFlags and Live Diffs Archive |
-| [cowboysugma/roblox-grow-a-garden-auto-farm-engine](https://github.com/cowboysugma/roblox-grow-a-garden-auto-farm-engine) | 71 | HTML |  | Automated Grow a Garden Farming Script 2026: Rare Seed Sniping and AFK Coin Farming |
 | [zildjibian/moon-animator](https://github.com/zildjibian/moon-animator) | 71 |  |  | moon animator the roblox plugin |
 | [Zephkek/MIDIPlusPlus](https://github.com/Zephkek/MIDIPlusPlus) | 71 | C++ | GPL-3.0 | A high performance MIDI Utility for virtual pianos |
-| [NIFFER566/nocturne-roll-orchestrator](https://github.com/NIFFER566/nocturne-roll-orchestrator) | 70 | HTML |  | Best Open Source Sols RNG Auto Farm Overnight Script 2026 No Account Needed |
 | [LynxOfficialDeveloper/RtG-AI-Core-Engine](https://github.com/LynxOfficialDeveloper/RtG-AI-Core-Engine) | 70 | HTML |  | RtG-AI 2026: Open Source Road to Gramby's Spanish Machine Learning Experiment |
 | [9TY5VE-95/RtG-Forge](https://github.com/9TY5VE-95/RtG-Forge) | 70 | HTML |  | RtG-Video 2026: Turn Videos into Road To Gramby’s Builds with the Open RtG-Format |
 | [pogogt12/slime-tycoon-forge](https://github.com/pogogt12/slime-tycoon-forge) | 70 | HTML |  | Best Open Source Roblox Tycoon Template 2026 Server-Authoritative Luau Idle Game |
@@ -181,7 +155,6 @@
 | [ta752/Stud-Launcher-Linux](https://github.com/ta752/Stud-Launcher-Linux) | 70 | HTML |  | Open-Source Roblox Studio Launcher for Linux 2026 |
 | [gameplayerroblox9-cmyk/RoNet-BPE-Tensor-Forge](https://github.com/gameplayerroblox9-cmyk/RoNet-BPE-Tensor-Forge) | 70 | HTML |  | RoNet 2026: Build Transformer Models and Byte-Level BPE Tokenizers in Pure Tensors |
 | [mimamriski09/Roblox-Legacy-Style-Suite](https://github.com/mimamriski09/Roblox-Legacy-Style-Suite) | 70 | HTML |  | Roblox 2016 Stylus Revival: Best Classic UI Themes and Scripts 2026 |
-| [hudant009/recipe-flow-forge](https://github.com/hudant009/recipe-flow-forge) | 70 | HTML |  | Restaurant Tycoon 3 Script Hub 2026: Inventory Reader, Recipe Processor, Config Exporter |
 | [shivk035636-arch/robux-wire-vault](https://github.com/shivk035636-arch/robux-wire-vault) | 70 | HTML |  | Serio Buffer Serialization Guide 2026: Fast Roblox Data Encoding Library for Lua Developers |
 | [chuloontop4-code/jev-instance-review](https://github.com/chuloontop4-code/jev-instance-review) | 70 | HTML |  | Best Roblox Studio Instance Reviewer 2026: Typed Jev Criteria and Exact Citations |
 | [ThanhTuyenCaoNguyen/Roblox-Runtime-Engine](https://github.com/ThanhTuyenCaoNguyen/Roblox-Runtime-Engine) | 70 | HTML |  | High-Performance Roblox Script Utility for Windows 2026 |
@@ -191,25 +164,17 @@
 | [Nuel-Workspace/Proximity-Reveal](https://github.com/Nuel-Workspace/Proximity-Reveal) | 70 | HTML |  | Proximity Reveal Engine 2026: Simple Open Source Module for Fade In and Fade Out Effects |
 | [piyushkushwah0123/Sky-Study-Lounge](https://github.com/piyushkushwah0123/Sky-Study-Lounge) | 70 | HTML |  | Sky-Hub 2026: Educational Cloud Learning Platform for Students and Developers |
 | [grifosaint/exurd-roblox-leaderboard-archive](https://github.com/grifosaint/exurd-roblox-leaderboard-archive) | 70 | HTML |  | Open Roblox MetaGamerScore Leaderboard JSON Dataset 2026 |
-| [mmegasuporte/roblox-experience-pulse](https://github.com/mmegasuporte/roblox-experience-pulse) | 70 | HTML |  | Roblox Live Player Stats Tracker 2026: No API Key Needed for Any Game |
 | [Atharv919697/skill-forge](https://github.com/Atharv919697/skill-forge) | 70 | HTML |  | Best Open Source Skills Repository for Developers to Master in 2026 |
-| [ricagbo33-svg/roblox-session-chronicle](https://github.com/ricagbo33-svg/roblox-session-chronicle) | 70 | HTML |  | Roblox Time Tracker and Discord Bot Analytics Hub 2026 |
-| [tarafighter/Vortex-Biome-Sentinel](https://github.com/tarafighter/Vortex-Biome-Sentinel) | 70 | HTML |  | Vortex 2026: Multi-Webhook Aura Biome Detector for Sol's RNG |
 | [whfhhgfh/Internal-Function-Atlas](https://github.com/whfhhgfh/Internal-Function-Atlas) | 70 | HTML |  | Roblox Internal Functions Explained: Educational Offset Guides and Memory Analysis 2026 |
 | [susheelk7688-pixel/luau-pkg-forge](https://github.com/susheelk7688-pixel/luau-pkg-forge) | 70 | HTML |  | Best Luau Package Manager for Roblox and Lune 2026 |
 | [maryamwael9990-pixel/RoFF-Forge-Suite](https://github.com/maryamwael9990-pixel/RoFF-Forge-Suite) | 70 | HTML |  | Roblox Launcher Customizer 2026: Ultimate Batch Script for Bloxstrap, Fishstrap, Froststrap and More |
-| [stevelasudata/sky-dragon-duel-brain](https://github.com/stevelasudata/sky-dragon-duel-brain) | 70 | HTML |  | Human-Like Roblox Dragon PvP Bot AI 2026: Realistic Flight, Dodging & Combat |
 | [abdullaitcenter-hue/comet-trail-archives](https://github.com/abdullaitcenter-hue/comet-trail-archives) | 70 | HTML |  | Tiny Comet History RPG API Profile: Educational Simulation Games Guide 2026 |
-| [miguelguilherme201321-debug/AutoPiano-Maestro](https://github.com/miguelguilherme201321-debug/AutoPiano-Maestro) | 70 | HTML |  | AI Virtual Piano Auto Player Bot for MIDI Songs and Keyboard Automation 2026 |
 | [AJAY94633/signal-run-relay](https://github.com/AJAY94633/signal-run-relay) | 70 | HTML |  | Cooperative Luau Relay Game Framework for Cubacadabra Worlds 2026 |
-| [yeyint7/Revox-Client-Nexus](https://github.com/yeyint7/Revox-Client-Nexus) | 70 | HTML |  | Roblox Revox Client Enhancer 2026: Ultimate Feature-Rich Script Hub |
 | [crazymale/Roblox-Flag-Console](https://github.com/crazymale/Roblox-Flag-Console) | 70 | HTML |  | Best Lightweight Roblox FastFlag Manager for Windows PC 2026 |
 | [ameliadelmilagrosanchez-jpg/ts-to-luau-forge](https://github.com/ameliadelmilagrosanchez-jpg/ts-to-luau-forge) | 70 | HTML |  | Roblox TypeScript to Luau Compiler 2026: Best Open Source Toolkit for Roblox Devs |
 | [agentsmino-hash/switch-stream-deck](https://github.com/agentsmino-hash/switch-stream-deck) | 70 | HTML |  | Control Your Windows PC from Nintendo Switch 2 in Real Time 2026 |
 | [farhan797648/Roblox-FlagForge-Engine](https://github.com/farhan797648/Roblox-FlagForge-Engine) | 70 | HTML |  | Fastest Roblox Flag Manager 2026: Lightweight Open-Source Performance Tool |
 | [renequacken-alt/roblox-profile-id-directory](https://github.com/renequacken-alt/roblox-profile-id-directory) | 70 | HTML |  | Roblox Player Profile Lookup Tool 2026: Instant Username and ID Search |
-| [rayo0312/Roblox-Assist-Suite](https://github.com/rayo0312/Roblox-Assist-Suite) | 70 | HTML |  | Roblox Macro Pro 2026: Custom Scripts, Anti-AFK Automation and Portable Movement Tools |
-| [conetheconeheadd-cloud/xyn-macro-suite](https://github.com/conetheconeheadd-cloud/xyn-macro-suite) | 70 | HTML |  | Automated Dragon Ball Online Generations Windows Trainer Macro 2026 |
 | [jojobavmik/tether-cortex](https://github.com/jojobavmik/tether-cortex) | 70 | HTML |  | Connect Luau Games to 100+ DataGrout Logic Cells and Batteries 2026 |
 | [yusufnadeemabc/roblox-studio-theme-port](https://github.com/yusufnadeemabc/roblox-studio-theme-port) | 70 | HTML |  | Best Roblox Studio Theme for VS Code 2026 Light and Dark Mode Setup |
 | [4444CNC/luau-lab-by-tomi](https://github.com/4444CNC/luau-lab-by-tomi) | 70 | HTML |  | TomiHub 2026: Modern Roblox Luau Utility Lab with Safe Docs and Project Page |
@@ -220,7 +185,6 @@
 | [Ronak-biswas/Sober-Truth-Config](https://github.com/Ronak-biswas/Sober-Truth-Config) | 70 | HTML |  | Best Safe Sober Performance Tweaks 2026: Lag-Free Optimization Guide Without Placebos |
 | [marcosmalpa/penguix-codec](https://github.com/marcosmalpa/penguix-codec) | 70 | HTML |  | High-Performance Luau Image Codecs for Pixel Art and Game Graphics 2026 |
 | [Sujji-programer/Luau-Syntax-Refinery](https://github.com/Sujji-programer/Luau-Syntax-Refinery) | 70 | HTML |  | Best Lua and Luau Code Formatter for Roblox 2026 |
-| [Lanzy66/Roblox-API-Watchtower](https://github.com/Lanzy66/Roblox-API-Watchtower) | 70 | HTML |  | Roblox Web API Change Tracker 2026: Real-Time Documentation Monitor |
 | [aly-haggaga/USSI-Format-Forge](https://github.com/aly-haggaga/USSI-Format-Forge) | 70 | HTML |  | Universal Roblox SaveInstance Format Writer and Luau Serializer Tool 2026 |
 | [PaladinsGTX/low-poly-palette-forge](https://github.com/PaladinsGTX/low-poly-palette-forge) | 70 | HTML |  | Low Poly Palette Grid Texture Maker 2026: Open Source Web Tool for Game Engines |
 | [DidiNUK/pet-99-companion-hub](https://github.com/DidiNUK/pet-99-companion-hub) | 70 | HTML |  | Pet Simulator 99 Ultimate Pet Team Planner and Zone Farming Toolkit 2026 |
@@ -241,7 +205,6 @@
 | [Nasor1/baked-goods-automation](https://github.com/Nasor1/baked-goods-automation) | 70 | HTML |  | Jack Le Beignet Automation Scripts 2026: Best Open Source DevOps Toolkit |
 | [kumarsohitcate98-debug/kazehaya-luau-lab](https://github.com/kumarsohitcate98-debug/kazehaya-luau-lab) | 70 | HTML |  | Kazehaya Aditya Roblox Luau Automation Portfolio 2026: Python, TypeScript and Cloud Linux CI |
 | [abdulazizalmoustafa2002-ops/tycoon-recipe-forge-inventory-suite](https://github.com/abdulazizalmoustafa2002-ops/tycoon-recipe-forge-inventory-suite) | 70 | HTML |  | Restaurant Tycoon 3 Inventory & Recipe Automation Hub 2026 - Ultimate Manager for Aspiring Tycoons |
-| [karan8844/odysseus-orbital-utility](https://github.com/karan8844/odysseus-orbital-utility) | 70 | HTML |  | Ultimate Arcane Odyssey Bot Guide 2026: Top Utility Tools and Tips |
 | [shadyyyyyyyyymohamed2008/Ro-Luau-Quest](https://github.com/shadyyyyyyyyymohamed2008/Ro-Luau-Quest) | 70 | HTML |  | Learn Roblox Luau Game Development 2026: Open Source Zero to First Game Course |
 | [kliklim/Voidstrap-Themes-And-Features](https://github.com/kliklim/Voidstrap-Themes-And-Features) | 70 | HTML |  | Roblox Custom Bootstrapper Themes and Features Guide 2026 |
 | [FoxyFuck/roblox-cloud-metrics-cli](https://github.com/FoxyFuck/roblox-cloud-metrics-cli) | 70 | HTML |  | Roblox Analytics Automation Toolkit 2026: Python Open Cloud Query CLI with CSV JSON Export |
@@ -250,7 +213,6 @@
 | [MuhammadAhmadfX/rng-endless-arcade](https://github.com/MuhammadAhmadfX/rng-endless-arcade) | 70 | HTML |  | Best Infinite RNGdle Alternative 2026 Badges Stats Leaderboard |
 | [Goldensaker/RoSeal-Voyager](https://github.com/Goldensaker/RoSeal-Voyager) | 70 | HTML |  | RoSeal Extension Guide 2026: Ultimate Roblox Trading Companion for Players |
 | [Ansimekhongloithoat/Expressive-Prompt-Studio](https://github.com/Ansimekhongloithoat/Expressive-Prompt-Studio) | 70 | HTML |  | ExpressivePrompts 2026 Custom ProximityPrompt UI Kit for Roblox |
-| [W-A-LEE/stealth-balance](https://github.com/W-A-LEE/stealth-balance) | 70 | HTML |  | Best Robux Balance and Transaction Privacy Hider Tool 2026 |
 | [dadaibrahim/rogen-cli](https://github.com/dadaibrahim/rogen-cli) | 70 | HTML |  | Rogen CLI Alternative 2026: Best Feature-Based Architecture Tool for Roblox Developers |
 | [mahend0947D/NeonArena-Foundation](https://github.com/mahend0947D/NeonArena-Foundation) | 70 | HTML |  | NeonArena 2026 Roblox Source Code and New Game Ideas from GLITCHPOINT STUDIOS |
 | [acey-woo/roblox-native-mod-bridge](https://github.com/acey-woo/roblox-native-mod-bridge) | 70 | HTML |  | Roblox Studio Mod Loader 2026: Native C++ and Luau Scripting Tools |
@@ -263,7 +225,6 @@
 | [mdfoysa236l/qi-immortal-craft-assistant](https://github.com/mdfoysa236l/qi-immortal-craft-assistant) | 70 | HTML |  | Qi Screenshot OCR Autofill and Craft Copilot 2026 Open Source Tool |
 | [tnrockstarfreefire-cmd/zod-for-roblox-api](https://github.com/tnrockstarfreefire-cmd/zod-for-roblox-api) | 70 | HTML |  | RoZod API TypeScript Wrapper Guide 2026: Build Roblox Integrations Faster |
 | [stalker531/toh-grind-atlas](https://github.com/stalker531/toh-grind-atlas) | 70 | HTML |  | Tower of Hell Best Point Farming Routes and Reward Table Guide 2026 |
-| [Werisixx/oil-empire-screen-sentinel](https://github.com/Werisixx/oil-empire-screen-sentinel) | 70 | HTML |  | Best Roblox Oil Empire Price Tracker with OCR Alerts 2026 |
 | [adamouhamissou/Community-Voxel-Chat](https://github.com/adamouhamissou/Community-Voxel-Chat) | 70 | HTML |  | Open Source Roblox Chat Replacement 2026: Community Driven Alternative Guide |
 | [Srikanth192006/Raycast-Offset-Notes](https://github.com/Srikanth192006/Raycast-Offset-Notes) | 70 | HTML |  | 2026 Raycast Part Detection and KiUserExceptionDispatcher Troubleshooting Guide |
 | [Zetajerez/SZ-Chronicle-Archive](https://github.com/Zetajerez/SZ-Chronicle-Archive) | 70 | HTML |  | State Zone History 2026: Complete Discord Community Archive and Roblox Nations RP Chronicle |
@@ -275,8 +236,6 @@
 | [bhargavtanna/ricochet-vector-lab](https://github.com/bhargavtanna/ricochet-vector-lab) | 70 | HTML |  | Advanced Roblox Bullet Ricochet Simulator 2026 |
 | [vithusellam-jpg/storybook-canvas](https://github.com/vithusellam-jpg/storybook-canvas) | 70 | HTML |  | Roblox UI Story Renderer and Discovery Toolkit 2026 |
 | [dong888666123/terrain-forge-studio](https://github.com/dong888666123/terrain-forge-studio) | 70 | HTML |  | Solum 2026: Local-First Windows Terrain Authoring Studio for Roblox Developers |
-| [LowTidee/roblox-starlight-presence](https://github.com/LowTidee/roblox-starlight-presence) | 70 | HTML |  | Cute Roblox Discord Rich Presence Tracker for macOS 2026 |
-| [Gddsfik/roblox-universe-deck](https://github.com/Gddsfik/roblox-universe-deck) | 70 | HTML |  | Best Roblox Universe Analytics CLI Dashboard 2026: Open Cloud Logs Tracker |
 | [luckg9937-sketch/role-lens](https://github.com/luckg9937-sketch/role-lens) | 70 | HTML |  | Best Frappe ERPNext Permission Visualizer Tool 2026: Debug User Roles and Access |
 | [emna1ghorbel/Font-Forge-RBX](https://github.com/emna1ghorbel/Font-Forge-RBX) | 70 | HTML |  | RBXTTF 2026: Fast TrueType Parser and Cached Text Renderer for Roblox Luau |
 | [manofoldmoon/Roblox-Client-Revive](https://github.com/manofoldmoon/Roblox-Client-Revive) | 70 | HTML |  | Roblox Client Reconnection Server Toolkit 2026 |
@@ -289,7 +248,6 @@
 | [bonganitwala/Roblox-Identity-Anatomy](https://github.com/bonganitwala/Roblox-Identity-Anatomy) | 70 | HTML |  | Roblox Account Identity and Security Guide 2026: Verified Protection Insights |
 | [engrsameen/cubacadabra-core-runtime](https://github.com/engrsameen/cubacadabra-core-runtime) | 70 | HTML |  | Cross-Platform Rust Runtime for Cubacadabra Studio iOS Android Web and wgpu Rendering 2026 |
 | [easyfixkply/datastore-viewport](https://github.com/easyfixkply/datastore-viewport) | 70 | HTML |  | Best Roblox DataStore Editor Dashboard 2026: Open Cloud Web GUI for Game Devs |
-| [SSSeelan/deploy-history-oracle](https://github.com/SSSeelan/deploy-history-oracle) | 70 | HTML |  | Roblox Version Hash Tracker 2026: Auto Fetch Deploy History JSON for Windows & Mac |
 | [wtcbuy/Roblox-Text-Render](https://github.com/wtcbuy/Roblox-Text-Render) | 70 | HTML |  | Advanced Open-Source Roblox Text Engine 2026: Custom Fonts and Rich Styling Library |
 | [animeshsingh3434/roblox-ui-component-foundry](https://github.com/animeshsingh3434/roblox-ui-component-foundry) | 70 | HTML |  | Best Roblox UI Component Vault Plugin 2026: Build, Organize and Share Design Systems |
 | [ravanmafia001/roblox-icon-forge](https://github.com/ravanmafia001/roblox-icon-forge) | 70 | HTML |  | Fastest Roblox Shortcut Maker for Windows: One-Click Desktop Icons 2026 |
@@ -301,45 +259,32 @@
 | [ethanhano690-a11y/Yamamo-Shop-Frontend](https://github.com/ethanhano690-a11y/Yamamo-Shop-Frontend) | 70 | HTML |  | Roblox Shop Simulator Website Template 2026: Build Search, Filter, Cart and Checkout in HTML CSS JavaScript |
 | [ABHIJESHMN/subplace-radar](https://github.com/ABHIJESHMN/subplace-radar) | 70 | HTML |  | Roblox Subplace Finder Tool 2026: Discover Hidden Game Maps Fast |
 | [MAHDI292-sys/rustblox-account-forge](https://github.com/MAHDI292-sys/rustblox-account-forge) | 70 | HTML |  | Fast Rust Roblox Account Manager and Group Tool 2026 |
-| [duduzingame123/arcane-odyssey-crew-finder](https://github.com/duduzingame123/arcane-odyssey-crew-finder) | 70 | HTML |  | Best Arcane Odyssey Discord Party Finder Bot 2026 |
 | [Yashu1299/zolario-tag-forge](https://github.com/Yashu1299/zolario-tag-forge) | 70 | HTML |  | Open Source Roblox User Tag System 2026: Zolario Community Leaderboard Alternative |
 | [Hercigs/sandbox-forge-gateway](https://github.com/Hercigs/sandbox-forge-gateway) | 70 | HTML |  | Secure Roblox Gear Sandbox Server Alternative 2026 |
 | [elsa333elsa333-star/rbxts-lucide-auto-icons](https://github.com/elsa333elsa333-star/rbxts-lucide-auto-icons) | 70 | HTML |  | Auto-Updating Lucide Icon Library for Roblox TS React 2026 |
 | [edithmwaki-sudo/Propandab12-creative-hub](https://github.com/edithmwaki-sudo/Propandab12-creative-hub) | 70 | HTML |  | Best Portfolio GitHub Pages Template 2026 for Roblox QA Tester and Discord Moderator |
-| [khadirkumar/vision-roblox-sentinel](https://github.com/khadirkumar/vision-roblox-sentinel) | 70 | HTML |  | Best Roblox YOLO Vision Models 2026: High-Accuracy Bot Detection for Multi-Game Coverage |
 | [Yuric3135/tungsten-asset-forge](https://github.com/Yuric3135/tungsten-asset-forge) | 70 | HTML |  | Best Open Source Roblox Asset Manager 2026: Tungsten CLI for Game Developers |
 | [RubenSanJuan/roblox-arcade-lab](https://github.com/RubenSanJuan/roblox-arcade-lab) | 70 | HTML |  | Roblox Luau Architecture, Security & Performance Mastery 2026 |
 | [teenwolf-glicht/Luau-Utility-Atlas](https://github.com/teenwolf-glicht/Luau-Utility-Atlas) | 70 | HTML |  | Roblox Luau Utilities 2026: Open-Source Scripting Tools and Examples for Developers |
-| [samuelyaw/Roblox-Server-Tracker](https://github.com/samuelyaw/Roblox-Server-Tracker) | 70 | HTML |  | Find Any Roblox Player and Join Their Server Instantly 2026 Chrome Extension |
 | [Adrianradap/pocket-satchel](https://github.com/Adrianradap/pocket-satchel) | 70 | HTML |  | Purse 2026: Custom CoreGui Backpack System for Roblox Inventory UI |
 | [jiggle481-gif/vinegar-presence-bridge](https://github.com/jiggle481-gif/vinegar-presence-bridge) | 70 | HTML |  | Best Vinegar RPC Discord Rich Presence Setup Guide 2026 |
-| [aurexcode/Roblox-Grow-A-Garden-Companion-Hub](https://github.com/aurexcode/Roblox-Grow-A-Garden-Companion-Hub) | 70 | HTML |  | Automated Roblox Garden Hub Script 2026 with No Key System for Effortless Planting |
 | [Meisho-Doto25/scr-roulette-web](https://github.com/Meisho-Doto25/scr-roulette-web) | 70 | HTML |  | SCR Randomizer Tools 2026: Best Open Source Web App for Secure Code Generation |
 | [mostafa889755/nulltrap-profiles](https://github.com/mostafa889755/nulltrap-profiles) | 70 | HTML |  | Nulltrap Mod Loader 2026: Auditable Per-Game Profiles and Plugin Contract Guide |
 | [Issotos/Saweria-Roblox-Bridge](https://github.com/Issotos/Saweria-Roblox-Bridge) | 70 | HTML |  | Saweria Roblox Donation Board 2026: Multi-Tenant Private Server Integration |
 | [121duylucky/Tile-Sweep-Forge](https://github.com/121duylucky/Tile-Sweep-Forge) | 70 | HTML |  | TileSweep Reimagined: Roblox Modular Zone Control Toolkit 2026 |
-| [makintr/egg-loop-harvester](https://github.com/makintr/egg-loop-harvester) | 70 | HTML |  | Automated Egg Farming Macro for Windows 2026: Loop Hatching and Loot Collection Tool |
 | [xweverton123x/roblox-atlas-compendium](https://github.com/xweverton123x/roblox-atlas-compendium) | 70 | HTML |  | Best Roblox Game Calculators and Tier Lists 2026: Ultimate Mechanics Guides Hub |
 | [monw3249-rgb/roblox-game-copier-blueprint-lab](https://github.com/monw3249-rgb/roblox-game-copier-blueprint-lab) | 70 | HTML |  | Beginner Roblox Game Copier Guide 2026: Safe Clone Workflow for Authorized Projects |
 | [kumariediriarachchi-tech/RtG-Save-Archivist](https://github.com/kumariediriarachchi-tech/RtG-Save-Archivist) | 70 | HTML |  | Road to Gramby's Save Format Explained: Roblox Build System Guide 2026 |
 | [nguyenoanh7688/Silent-Admin-Console](https://github.com/nguyenoanh7688/Silent-Admin-Console) | 70 | HTML |  | Open Source Nameless Admin Panel v2.5.4 Toolkit for Developers 2026 |
-| [zunawetsidsdiky-lab/roblox-game-forge](https://github.com/zunawetsidsdiky-lab/roblox-game-forge) | 70 | HTML |  | Roblox Game Generator 2026: Best AI Studio Tool for Building Games Without Code |
 | [Djbongz-ux/roblox-voice-chat-starter-guide](https://github.com/Djbongz-ux/roblox-voice-chat-starter-guide) | 70 | HTML |  | Roblox Voice Chat Setup Guide 2026: Easy Tips to Enable Voice Chat Fast |
 | [markypogie23/Roblox-Client-Source](https://github.com/markypogie23/Roblox-Client-Source) | 70 | HTML |  | Open Source Roblox Client Source Code 2026: Build Your Own Engine |
-| [Akkarachai05/RoInvites-Discord-Roblox-Bridge](https://github.com/Akkarachai05/RoInvites-Discord-Roblox-Bridge) | 70 | HTML |  | Best RoInvites Alternative 2026: Discord Roblox Activity Tracker Bot |
-| [MotoRyuji4/Velora-Tower-Sentinel-Overlay](https://github.com/MotoRyuji4/Velora-Tower-Sentinel-Overlay) | 70 | HTML |  | Best Roblox Tower Heroes Auto Farmer with OCR Macros 2026 |
 | [creativeW-source/studio-package-browser](https://github.com/creativeW-source/studio-package-browser) | 70 | HTML |  | Best Roblox Studio Package Manager Plugin 2026 for Wally and Pesde |
-| [princedangola130-creator/grid-bot-core](https://github.com/princedangola130-creator/grid-bot-core) | 70 | HTML |  | Automated Grid Trading Bot Framework 2026: Open Source Strategy Engine for Crypto Markets |
 | [Slyter66/phase-tempo-scheduler](https://github.com/Slyter66/phase-tempo-scheduler) | 70 | HTML |  | Lightweight Phase-Based Scheduler for Roblox 2026: Task IDs and Pooled Records Guide |
 | [sathsaramusiccd-stack/Roblox-Timeline-Sync](https://github.com/sathsaramusiccd-stack/Roblox-Timeline-Sync) | 70 | HTML |  | Precision Timeline Event Scheduler for Roblox 2026 with Frame-Accurate Animation Sync |
-| [tructiepkeonhacaiinfo/Void-Sols-RNG-Linux](https://github.com/tructiepkeonhacaiinfo/Void-Sols-RNG-Linux) | 70 | HTML |  | Best Linux Sols RNG Automation Guide 2026: Open-Source Macro Tips and Setup |
 | [sudarshan240/roblox-api-atlas](https://github.com/sudarshan240/roblox-api-atlas) | 70 | HTML |  | Complete List of Roblox Web APIs 2026: Public REST Endpoints and Integration Guide |
 | [ahmicy/simplepath](https://github.com/ahmicy/simplepath) | 70 | Lua | MIT | SimplePath is an open-source pathfinding module that gives you the ability to quickly create a pathfinding script for humanoids and non-humanoids with just a few lines of code. |
 | [tersiswilvin/Roblox-Legacy-Old-Theme](https://github.com/tersiswilvin/Roblox-Legacy-Old-Theme) | 70 | CSS | CC-BY-SA-4.0 | Repository for the Roblox Legacy Old Theme. |
 | [MonzterDev/Roblox-TS-Template](https://github.com/MonzterDev/Roblox-TS-Template) | 70 | TypeScript |  | Roblox typescript game template using Flamework, ProfileService, & other popular libraries! |
-| [azharshkh/customus-credit-api](https://github.com/azharshkh/customus-credit-api) | 69 | HTML |  | AI Image to 3D Mesh Rigging and Roblox Asset API Cost Tracker 2026 |
-| [ajaydhawal913-source/KSA-Audit-Suite](https://github.com/ajaydhawal913-source/KSA-Audit-Suite) | 69 | HTML |  | KSA Accessibility Audit Suite 2026: Open-Source Roblox UI Contrast Motion Checker |
-| [Feekimy/Fyy-Luau-Vault](https://github.com/Feekimy/Fyy-Luau-Vault) | 69 | HTML |  | Ultimate Roblox Luau Script Hub 2026: Fish IT, Abyss, Garden Horizon & WindUI Interfaces with Full Docs |
 | [R3CCA61611/Velvet-Glass-UI](https://github.com/R3CCA61611/Velvet-Glass-UI) | 69 | HTML |  | Velvet UI Studio 2026: Premium Glassmorphism Dark Theme for Roblox PC and Mobile |
 | [rajnathyadav6/Fisch-DevOps-Forge](https://github.com/rajnathyadav6/Fisch-DevOps-Forge) | 69 | HTML |  | FischROBLOX Pro Roblox Testing Automation Tools 2026 |
 | [khatrijenish18-arch/mesh-audit-cli](https://github.com/khatrijenish18-arch/mesh-audit-cli) | 69 | HTML |  | Automated 3D Asset Validation Toolkit for CI Pipelines 2026 |
@@ -348,13 +293,10 @@
 | [supportxauusdgobler-art/pulse-timeline-runtime](https://github.com/supportxauusdgobler-art/pulse-timeline-runtime) | 69 | HTML |  | Open Source Roblox VFX Timeline Engine 2026: Sequence Playback Runtime for Skill Cutscenes |
 | [6WildGurr9/blox-blitz-adopt-me-power-play](https://github.com/6WildGurr9/blox-blitz-adopt-me-power-play) | 69 | HTML |  | Ultimate Adopt Me Blox Blitz Power Guide 2026 |
 | [M59133/roblox-ts-package-index](https://github.com/M59133/roblox-ts-package-index) | 69 | HTML |  | Best Roblox TS Packages and Tools Collection 2026 |
-| [bgm6335/Stark-Hub-Forge](https://github.com/bgm6335/Stark-Hub-Forge) | 68 | HTML |  | Project Stark 2026: The Ultimate Open Source Hub for Developers and Creators |
 | [thryvaan-hub/pi-roblox-bridge](https://github.com/thryvaan-hub/pi-roblox-bridge) | 68 | HTML |  | Best On-Demand Roblox Studio MCP Tools for Pi Without Server 2026 |
 | [deminorinko-debug/modular-rbx-showcase](https://github.com/deminorinko-debug/modular-rbx-showcase) | 68 | HTML |  | Modular Roblox Utility System Architecture Guide 2026 |
 | [yahyaadraoui88-cell/Roblox-Project-Forge](https://github.com/yahyaadraoui88-cell/Roblox-Project-Forge) | 68 | HTML |  | Clean Roblox Game Framework 2026: Scalable Module Architecture for Pro Developers |
-| [harxh-coder/luau-docs-forge](https://github.com/harxh-coder/luau-docs-forge) | 68 | HTML |  | Best Luau Docs Generator 2026: Auto API Documentation for Roblox Developers |
 | [SaniFM195/Fishstrap-Roblox-Config-Hub](https://github.com/SaniFM195/Fishstrap-Roblox-Config-Hub) | 68 | HTML |  | Best Roblox Performance Launcher and FastFlags Manager for Windows 2026 |
-| [bassam997/gem-cut-optimizer](https://github.com/bassam997/gem-cut-optimizer) | 68 | HTML |  | Cut a Gem Script Hub 2026: Best Gem Combo Calculator and Stats Exporter for Roblox Players |
 | [elhwary1/Kvant-UI-Aurora](https://github.com/elhwary1/Kvant-UI-Aurora) | 68 | HTML |  | Kvant UI 2026: The Ultimate Open-Source Roblox GUI Library for Modern Developers |
 | [wihan-lab/LumenGlass-Roblox-UI](https://github.com/wihan-lab/LumenGlass-Roblox-UI) | 68 | HTML |  | CatherFI UI 2026: Glassmorphism Roblox UI Library for 60fps Interfaces |
 | [pallakh9905/ghost-driver-codex](https://github.com/pallakh9905/ghost-driver-codex) | 68 | HTML |  | Ghost Driver Codes, Cars & Tier List 2026: Ultimate Roblox Companion Hub |
@@ -363,22 +305,14 @@
 | [HeisJeremiah1/NeuzBlox-MultiRunner](https://github.com/HeisJeremiah1/NeuzBlox-MultiRunner) | 68 | HTML |  | NeuzBlox Multi-Account Roblox Launcher 2026: Run Side-by-Side Instances Easily |
 | [madedimas/mocktail-astral-drift](https://github.com/madedimas/mocktail-astral-drift) | 68 | HTML |  | Best Roblox Mocktail Config Guide 2026: Ultimate Performance Scripts and Setup |
 | [carnisdel/virtual-cable-mix](https://github.com/carnisdel/virtual-cable-mix) | 68 | HTML |  | Best Open Source Mic Music Soundboard Mixer for Discord Games 2026 |
-| [crappycoffee/creamy-garden-grower](https://github.com/crappycoffee/creamy-garden-grower) | 68 | HTML |  | Milk Script Automation Guide for Grow a Garden Players 2026 |
 | [ahmedparkour132-cpu/fog-arena](https://github.com/ahmedparkour132-cpu/fog-arena) | 68 | HTML |  | Fog-RBX Inspired 2026 PvE Third-Person Shooter GitHub Repo Build Guide |
 | [donguyenbao/place-sync-hub](https://github.com/donguyenbao/place-sync-hub) | 68 | HTML |  | Roblox Multi-Place Game Publishing Tool 2026: Streamline Instance Sync Across Universes |
 | [azizulhak/cube-graphics-studio-site](https://github.com/azizulhak/cube-graphics-studio-site) | 68 | HTML |  | Cube Graphics Roblox Thumbnail and Icon Studio Portfolio Site 2026 |
-| [Lakshtest39000/Quantum-Forbidden](https://github.com/Lakshtest39000/Quantum-Forbidden) | 68 | HTML |  | Quantum Forsaken Roblox Game Script Hub and Open Source Toolkit 2026 |
 | [AlexsPineda/Humanized-Velocity-Engine](https://github.com/AlexsPineda/Humanized-Velocity-Engine) | 68 | HTML |  | Humanize MIDI Piano Script 2026: Realistic Virtual Piano Timing Tool for AutoHotkey |
-| [jay-rrrr/AMVGG-Data-Harvest](https://github.com/jay-rrrr/AMVGG-Data-Harvest) | 68 | HTML |  | AMVGG 2026 Parser and Data Cleaner: Ultimate All-Category Dumper Tool |
 | [marufraj32mon/obby-core](https://github.com/marufraj32mon/obby-core) | 68 | HTML |  | Open-Source Obby Bots Automation Framework 2026 |
 | [tawan03/roblox-instance-forge](https://github.com/tawan03/roblox-instance-forge) | 68 | HTML |  | Roblox Luau Instance Builder Library with Strict Typings 2026 |
-| [garenapanian18-dot/auto-barnaby-omega](https://github.com/garenapanian18-dot/auto-barnaby-omega) | 68 | HTML |  | Automated Barnaby Farm Bot for Dandy's World 2026 |
-| [deku2007530/Faction-Sniper](https://github.com/deku2007530/Faction-Sniper) | 68 | HTML |  | Faction 2026: Top Username Sniper Tool for Roblox Account Claims |
 | [aruldasjk/gfxs0da-portfolio-showcase](https://github.com/aruldasjk/gfxs0da-portfolio-showcase) | 68 | HTML |  | Roblox GFX Thumbnail Design Portfolio Templates 2026: Ultimate Creative Guide |
-| [Samigami0/auto-cast-loop](https://github.com/Samigami0/auto-cast-loop) | 68 | HTML |  | Automated Fish-It Casting Loop Tool 2026: Portable, Ad-Free Helper Bot for Instant Stop |
-| [kilapimarlbo-lab/LilyBot-Nexus](https://github.com/kilapimarlbo-lab/LilyBot-Nexus) | 68 | HTML |  | All-in-One Discord Bot for Moderation Music and Fun 2026 |
 | [malabomns5460-star/administer-next](https://github.com/malabomns5460-star/administer-next) | 68 | HTML |  | Open Source Modular Admin Panel Framework for Roblox Developers 2026 |
-| [fatihsahinindonesia-creator/Livia-Orchestration-Engine](https://github.com/fatihsahinindonesia-creator/Livia-Orchestration-Engine) | 68 | HTML |  | Open Source C# Automation Framework for Roblox 2026: Build Modular Macros with Reusable Architecture |
 | [JamesBuciaIt3A/Agent-Forge](https://github.com/JamesBuciaIt3A/Agent-Forge) | 68 | HTML |  | Foreman 2026: AI-Agnostic Build Playbook for Shipping Real Websites Fast |
 | [shingadasandip7-oss/Zone-Atlas](https://github.com/shingadasandip7-oss/Zone-Atlas) | 68 | HTML |  | Best Roblox Spatial Query Library 2026: Ultra-Fast Zone System for 1M+ Zones |
 | [creator12345in/notes-from-all-repos](https://github.com/creator12345in/notes-from-all-repos) | 68 | HTML |  | Best Open Source Repo Notes Hub 2026: Centralized Docs for Developers |
@@ -400,20 +334,14 @@
 | [mdshahajalalrafin-OK/storybook-for-roblox-ui](https://github.com/mdshahajalalrafin-OK/storybook-for-roblox-ui) | 68 | HTML |  | Flipbook 2026: Top Storybook Plugin for Roblox UI Design and Development |
 | [MDone7/Netcut-Hotkey-Lag-Switch](https://github.com/MDone7/Netcut-Hotkey-Lag-Switch) | 68 | HTML |  | NetLag Switch Simulator 2026: Instant App Network Cut and Restore Tool for Windows |
 | [Halimos51/Init-Sequence-Orchestrator](https://github.com/Halimos51/Init-Sequence-Orchestrator) | 68 | HTML |  | ModuleLoader Pro: Best Async Two-Pass Bootstrapper for Roblox 2026 |
-| [muhamadidris14/auto-drill-brainrot-helper](https://github.com/muhamadidris14/auto-drill-brainrot-helper) | 68 | HTML |  | Best Brainrot Auto Drill Blocks Script 2026: Hands-Free Rock Clearing |
 | [erolilhan/DataForge-Lua](https://github.com/erolilhan/DataForge-Lua) | 68 | HTML |  | DataPredict ML Library: 100+ Lua Models for Deep Learning and Reinforcement Learning 2026 |
 | [hibamoussaddar-lab/flux-relay](https://github.com/hibamoussaddar-lab/flux-relay) | 68 | HTML |  | Roblox Binary Networking Framework 2026: Delta-Encoded XOR Batched RemoteEvents Guide |
-| [sohailamrhassan-boop/Cave-Weaver-Engine](https://github.com/sohailamrhassan-boop/Cave-Weaver-Engine) | 68 | HTML |  | Procedural Cave Generator for Roblox 2026: Infinite Mines, Every Server Connected |
-| [alfaroqomarweqena2-crypto/paws-and-portals-dispatch](https://github.com/alfaroqomarweqena2-crypto/paws-and-portals-dispatch) | 68 | HTML |  | Animal Hospital Discord Bot Management System 2026 |
 | [tanantha444-collab/lune-egg-chase-deterministic-net](https://github.com/tanantha444-collab/lune-egg-chase-deterministic-net) | 68 | HTML |  | Type-Safe Multiplayer Egg Hunt Engine 2026: Crash-Safe Payments and Deterministic RNG |
-| [davidwraith1968-cpu/LAPD-Central-Command-Suite](https://github.com/davidwraith1968-cpu/LAPD-Central-Command-Suite) | 68 | HTML |  | LAPD Roleplay Discord Bot 2026: Open-Source Police Server Management Tool |
 | [ibrahimseidu684-ops/Silent-Admin-Console](https://github.com/ibrahimseidu684-ops/Silent-Admin-Console) | 68 | HTML |  | Open Source Nameless Admin Panel v2.5.4 Toolkit for Developers 2026 |
-| [Bharath-1255/mcp-roblox-profile-lens](https://github.com/Bharath-1255/mcp-roblox-profile-lens) | 68 | HTML |  | Roblox Profile Stats Tracker and Group Finder Tool 2026 |
 | [bilash360/roblox-ui-devtools](https://github.com/bilash360/roblox-ui-devtools) | 68 | HTML |  | Best Open-Source Luau UI Toolkit for Roblox Developers 2026 |
 | [Bhupendrajadon07-star/Adonis-Server-Admin-Suite](https://github.com/Bhupendrajadon07-star/Adonis-Server-Admin-Suite) | 68 | HTML |  | Adonis Roblox Server Admin System Guide 2026: Setup, Scripts, and Best Practices |
 | [keshu7426/gamefam-api-profile](https://github.com/keshu7426/gamefam-api-profile) | 68 | HTML |  | Gamefam API Explorer 2026: Independent Developer Guide to Branded Gaming Experiences |
 | [vishal576/roblox-internal-offset-index](https://github.com/vishal576/roblox-internal-offset-index) | 68 | HTML |  | Latest Roblox Internal Offsets 2026 Git Repository |
-| [pingknamawuntu13-bot/bridge-runner-realtime](https://github.com/pingknamawuntu13-bot/bridge-runner-realtime) | 68 | HTML |  | BridgeRun 2026 Multiplayer Roblox Bridge Builder with Luau Leaderboard Guide |
 | [kholidaainur/bedrock-iac-for-roblox](https://github.com/kholidaainur/bedrock-iac-for-roblox) | 68 | HTML |  | Bedrock: Best Roblox Infrastructure as Code Tools 2026 |
 | [Annicet007/ERLC-Russia-API-Mirror](https://github.com/Annicet007/ERLC-Russia-API-Mirror) | 68 | HTML |  | ERLC Russia Roleplay Server API Integration Guide 2026 |
 | [zohebadnan/native-reverie](https://github.com/zohebadnan/native-reverie) | 68 | HTML |  | Roblox 2006-2014 Legacy Restoration Toolkit 2026: Build Native Worlds Better |
@@ -433,16 +361,11 @@
 | [priteshsah2024-dotcom/Oxomo-Luau-Style-Guide](https://github.com/priteshsah2024-dotcom/Oxomo-Luau-Style-Guide) | 68 | HTML |  | Oxomo 2026 Roblox Luau Coding Style Guide and Best Practices |
 | [yashsindya2014-hash/frame-trace-mcp](https://github.com/yashsindya2014-hash/frame-trace-mcp) | 68 | HTML |  | Best AI QA Evidence Recorder MCP Server for Automated Testing 2026 |
 | [Shakil19970/pycloud-bridge](https://github.com/Shakil19970/pycloud-bridge) | 68 | HTML |  | Best Roblox Open Cloud Python API Wrapper Guide 2026 |
-| [ssenvenmen-create/Jailbreak-Ledger](https://github.com/ssenvenmen-create/Jailbreak-Ledger) | 68 | HTML |  | Best Jailbreak Item Value Tracker and Trade Hub 2026 |
-| [christianphilip229-art/anime-fighting-simulator-codex](https://github.com/christianphilip229-art/anime-fighting-simulator-codex) | 68 | HTML |  | Anime Fighting Simulator Codes Tracker 2026: CC0 Dataset of Working and Missing Rewards |
 | [Lehuy196/Door-State-Animations](https://github.com/Lehuy196/Door-State-Animations) | 68 | HTML |  | Smart Door State Animation System 2026: Open Source GitHub Repository |
 | [Manish2361/rhythm-void-echo](https://github.com/Manish2361/rhythm-void-echo) | 68 | HTML |  | Best Open-Source Rhythm Game Mods 2026: Custom osu! Lazer Beatmaps Guide |
 | [satapathy337-dev/ember-forge](https://github.com/satapathy337-dev/ember-forge) | 68 | HTML |  | Best Polytoria Quality of Life Extension 2026: Enhance Your Browser Experience |
-| [anh-ja/bluelock-rivalry-metrics](https://github.com/anh-ja/bluelock-rivalry-metrics) | 68 | HTML |  | Best Blue Lock Rivals Stat Tracker 2026: Log Matches and Compare Progress |
 | [sbenaidjami-cloud/gd-tunnel-recreation](https://github.com/sbenaidjami-cloud/gd-tunnel-recreation) | 68 | HTML |  | GD Tunnel Recreation Beta 2026: Open Source Geometry Dash Server Project on GitHub |
-| [storehummer12-dotcom/kitstrap-core](https://github.com/storehummer12-dotcom/kitstrap-core) | 68 | HTML |  | Best Open-Source Roblox Bootstrapper with Asset Proxy and Quickplay 2026 |
 | [mezghichmohamed70-netizen/DOORS-Archive-Vault](https://github.com/mezghichmohamed70-netizen/DOORS-Archive-Vault) | 68 | HTML |  | DOORS Game Archive 2026: Trailers, UGC and Roblox Horror Mods in One Hub |
-| [m42703144-afk/rojo-schema-forge](https://github.com/m42703144-afk/rojo-schema-forge) | 68 | HTML |  | Best Rojo JSON Schema for Roblox Autocomplete 2026 |
 | [humbertomiranda80-rgb/etohkit-blocksmith](https://github.com/humbertomiranda80-rgb/etohkit-blocksmith) | 68 | HTML |  | EToH Kit MC 2026: Ultimate Chemistry Building Datapack and Resource Pack for Minecraft |
 | [albanosz03-wq/Lua-Luau-Syntax-Refinery](https://github.com/albanosz03-wq/Lua-Luau-Syntax-Refinery) | 68 | HTML |  | Best Lua Luau Code Formatter 2026: Fast Folder Formatting Tool for Developers |
 | [Uzair551135/Clearance-System-Next](https://github.com/Uzair551135/Clearance-System-Next) | 68 | HTML |  | Zero-Dependency Access Control System with Keycard Readers 2026 |
@@ -452,8 +375,6 @@
 | [adambudi074-creator/nanoblox-hd-console](https://github.com/adambudi074-creator/nanoblox-hd-console) | 68 | HTML |  | Open Source HD Admin Dashboard Framework 2026 |
 | [zahiruddin586-cpu/ai-web-forge](https://github.com/zahiruddin586-cpu/ai-web-forge) | 68 | HTML |  | AI Web Solutions and Python Automation Projects by Krish Sharma 2026 |
 | [Udayakumarpalani/Luau-Vault-Keeper](https://github.com/Udayakumarpalani/Luau-Vault-Keeper) | 68 | HTML |  | LuauStore Pro 2026: Ultimate Roblox DataStore Wrapper with Retries, Cache and Autosave |
-| [sarb2u/luau-bytecode-lens](https://github.com/sarb2u/luau-bytecode-lens) | 68 | HTML |  | Best Open-Source Luau Obfuscator and Decompiler Suite 2026 |
-| [mahomedmh25-source/Blank-Hub-Drifter](https://github.com/mahomedmh25-source/Blank-Hub-Drifter) | 68 | HTML |  | Blank-Hub 2026: Ultimate Open-Source Script Hub for Roblox Automation |
 | [titoelkorsan22-jpg/Chevstrap-Android-Port](https://github.com/titoelkorsan22-jpg/Chevstrap-Android-Port) | 68 | HTML |  | Chevstrap 2026: Android Roblox Launcher Experience Inspired by Bloxstrap |
 | [ahmedsialnouamesi-droid/hairline-rule-for-roblox](https://github.com/ahmedsialnouamesi-droid/hairline-rule-for-roblox) | 68 | HTML |  | Minimal Hairline Roblox UI Library 2026: Kuik-Style Rule-Based Lua Kit for Clean Game Interfaces |
 | [abdelilahy709-crypto/Praxsuite-Minesweeper-Showcase](https://github.com/abdelilahy709-crypto/Praxsuite-Minesweeper-Showcase) | 68 | HTML |  | Roblox Minesweeper Auth SDK Demo 2026: Praxsuite Lua Cosmetics and Redeem Codes Guide |
@@ -467,26 +388,21 @@
 | [imanzt/loom-dsl-forge](https://github.com/imanzt/loom-dsl-forge) | 68 | HTML |  | Loom Roblox DSL for Fast Game Scripting and Automation 2026 |
 | [breakingt2bad/de-hub-engine](https://github.com/breakingt2bad/de-hub-engine) | 68 | HTML |  | Lightweight Windows Empire Automation Tool 2026 |
 | [GMafeef/cubacadabra-compose-bridge](https://github.com/GMafeef/cubacadabra-compose-bridge) | 68 | HTML |  | Kotlin Jetpack Compose Android Client for Rust Game Engine 2026 |
-| [kcweronike/anime-vanguard-trait-reroll-macro](https://github.com/kcweronike/anime-vanguard-trait-reroll-macro) | 68 | HTML |  | Best Anime Vanguards Trait Reroll Macro Guide for Windows 2026: Target Traits, Budget and Stop Rules |
 | [Igroman4/FastFlags-Vault](https://github.com/Igroman4/FastFlags-Vault) | 68 | HTML |  | All Roblox FastFlags Allowlist Defaults Guide 2026 |
 | [nahidgaming70/Roblox-QA-Sentinel](https://github.com/nahidgaming70/Roblox-QA-Sentinel) | 68 | HTML |  | Best Roblox Studio QA Automation Plugin 2026: Gameplay Testing Toolkit for Devs |
 | [soto74123695741-cpu/meow-ware](https://github.com/soto74123695741-cpu/meow-ware) | 68 | HTML |  | KittyWare 2026: Essential Open-Source Cat Care Automation and Smart Home Toolkit |
 | [Sarfraz64744/luau-safe-result](https://github.com/Sarfraz64744/luau-safe-result) | 68 | HTML |  | Type-Safe Error Handling with Result Types in Luau 2026 |
 | [camotaleofficial-source/ro-seal-public-data-hub](https://github.com/camotaleofficial-source/ro-seal-public-data-hub) | 68 | HTML |  | RoSeal Data Hub 2026: Open Public Dataset Repository for Extension Insights |
 | [hemuh2892-netizen/Jailbreak-Graphics-Vault](https://github.com/hemuh2892-netizen/Jailbreak-Graphics-Vault) | 68 | HTML |  | Best Open-Source Jailbreak Graphics Toolkit 2026 |
-| [IMADDAALI/input-action-hud](https://github.com/IMADDAALI/input-action-hud) | 68 | HTML |  | Dynamic Roblox Input UI Generator for Action-Based Controls 2026 |
 | [ebrahimsaeeed-cloud/praxis-core-utils](https://github.com/ebrahimsaeeed-cloud/praxis-core-utils) | 68 | HTML |  | Best Open Source Praxis Libraries and Utilities for Developers 2026 |
 | [riavlis/Jailbreak-Instance-Vault](https://github.com/riavlis/Jailbreak-Instance-Vault) | 68 | HTML |  | Save Jailbreak Instances 2026 Best Roblox Script Archive and Backup Guide |
-| [Saymmon17/Pet-Sim-99-AutoFarm-Suite](https://github.com/Saymmon17/Pet-Sim-99-AutoFarm-Suite) | 68 | HTML |  | Best Roblox Pet Simulator 99 Auto Farm Guide and Ranking Tips 2026 |
 | [Casmil-Dosu101/lumen-facet-ui](https://github.com/Casmil-Dosu101/lumen-facet-ui) | 68 | HTML |  | Facet 2.0: Declarative Luau UI Library for Roblox Testing 2026 |
 | [HrisikeshSarkar/KeithsVengeance-OrdnanceAssets](https://github.com/HrisikeshSarkar/KeithsVengeance-OrdnanceAssets) | 68 | HTML |  | KeithsVengeanceLauncher 3D Asset Kit for Sketchfab Creators 2026 |
-| [Leflexe/crava-foco-pagamentos-gfx](https://github.com/Leflexe/crava-foco-pagamentos-gfx) | 68 | HTML |  | 2026 Commission Tracker App for GFX Artists: Pix, Robux, PayPal Vault and Cloud Sync on Windows |
 | [johincina491-ai/azul-sync-studio-first](https://github.com/johincina491-ai/azul-sync-studio-first) | 68 | HTML |  | Best Roblox Studio Two-Way Sync Tool 2026: Source of Truth Git Workflow |
 | [Towingx/mna-ecosystem-hub](https://github.com/Towingx/mna-ecosystem-hub) | 68 | HTML |  | M Naufal Amrullah Global Ecosystem Hub 2026: Official Open Web3 Creator Platform |
 | [Ankitsingh099/Roblox-Shop-Forge](https://github.com/Ankitsingh099/Roblox-Shop-Forge) | 68 | HTML |  | Roblox Shop System Template 2026: Secure Inventory and Server-Validated Purchases Guide |
 | [Maz29v1/BeaconScout-Mobile](https://github.com/Maz29v1/BeaconScout-Mobile) | 68 | HTML |  | PlayBeacon Mobile Companion 2026: Best Roblox Game Discovery App for Teens on iOS and Android |
 | [exenehal2/KOTAO-Standings-And-Bracket-Engine](https://github.com/exenehal2/KOTAO-Standings-And-Bracket-Engine) | 68 | HTML |  | KOTAO 2026 Tournament Hub: Live Standings, Results and Double-Elimination Brackets |
-| [aljmym035-a11y/Stay-Active-RBX](https://github.com/aljmym035-a11y/Stay-Active-RBX) | 68 | HTML |  | AntiAFK-RBX Alternative 2026: Best Roblox AFK Avoider Tool Guide |
 | [saraleon-dev/player-state-sync](https://github.com/saraleon-dev/player-state-sync) | 68 | HTML |  | Ultimate Roblox Player Management Toolkit 2026: Advanced Luau Utility Library for Devs |
 | [MarvinDLA/dash-route-map-vote-cosmetic-progression](https://github.com/MarvinDLA/dash-route-map-vote-cosmetic-progression) | 68 | HTML |  | Dasher Reimagined: 5 Dash Routes, Map Voting & Cosmetic Progression Guide 2026 |
 | [jaimin-ranparia/OmegaNum-JS](https://github.com/jaimin-ranparia/OmegaNum-JS) | 68 | HTML |  | Ultimate Big Number Lua Library for Extreme Math 2026 |
@@ -494,13 +410,97 @@
 | [thanaphatngamloed29-pixel/lazy-flux-signals](https://github.com/thanaphatngamloed29-pixel/lazy-flux-signals) | 68 | HTML |  | Lazy Fine-Grained Reactivity for Luau: Build Fast UIs in 2026 |
 | [Pranjalrai2/Cmdr-Console-Extensions](https://github.com/Pranjalrai2/Cmdr-Console-Extensions) | 68 | HTML |  | Cmdr 2: Best Extensible Command Console for Roblox Developers 2026 |
 | [lisandro123/CRD-APK-Vault](https://github.com/lisandro123/CRD-APK-Vault) | 68 | HTML |  | Latest Roblox APK Releases 2026 - CRD-APK Yar1991 Translation Archive |
-| [prateeklgowda07/SCP-Broadcast-Console](https://github.com/prateeklgowda07/SCP-Broadcast-Console) | 68 | HTML |  | Best Roblox SCP Site Roleplay Broadcast Tools 2026 |
 | [bisameditor-cmd/Stag-Module-Forge](https://github.com/bisameditor-cmd/Stag-Module-Forge) | 68 | HTML |  | Pronghorn 2026: Fast Roblox Module Scripting Framework for Rapid Game Development |
 | [Agdisalma/cordial-native-runtime](https://github.com/Agdisalma/cordial-native-runtime) | 68 | HTML |  | Cordial 2026: Best Open-Source Roblox Runtime for Linux Native Play |
 | [dragoplayer123123/Cubacadabra-iOS-Client](https://github.com/dragoplayer123123/Cubacadabra-iOS-Client) | 68 | HTML |  | Swift Cubacadabra iOS Client: Rust Engine and Metal Rendering 2026 |
-| [lumieresikazwe-blip/Roblox-Rain-Sim](https://github.com/lumieresikazwe-blip/Roblox-Rain-Sim) | 68 | HTML |  | Rain VFX Generator for Roblox 2026: Realistic Weather Simulation Script |
 | [MahmudulKabir07/forest-of-horrors-companion](https://github.com/MahmudulKabir07/forest-of-horrors-companion) | 68 | HTML |  | Forest of Horrors 2026: Dark Roblox Horror Game Art Direction and Co-op Creation Guide |
-| [muhammadhuzaifa120871-maker/rbx-client-radar](https://github.com/muhammadhuzaifa120871-maker/rbx-client-radar) | 68 | HTML |  | Roblox Client Tracker Insights and API Monitoring Guide 2026 |
 | [Johnemanuel38/deck-model-source](https://github.com/Johnemanuel38/deck-model-source) | 68 | HTML |  | Open Source DJ Deck Models and Mixer Code 2026 |
 | [sahrul-rgb/typed-fish-framework](https://github.com/sahrul-rgb/typed-fish-framework) | 68 | HTML |  | Best Typed Roblox Framework 2026: Fish-Inspired ECS Game Engine on GitHub |
 | [maurinruneacco/luau-diagrams-and-defects](https://github.com/maurinruneacco/luau-diagrams-and-defects) | 68 | HTML |  | Production Data Engineering Cloud Architecture Workflow Automation Portfolio 2026 |
+| [Ferrerodillo/Nexo-Account-Vault](https://github.com/Ferrerodillo/Nexo-Account-Vault) | 68 | HTML |  | Open Source Safe Roblox Account Manager 2026 Secure Clean Alt Manager |
+| [Stoiclad20/kai-ui-forge](https://github.com/Stoiclad20/kai-ui-forge) | 68 | HTML |  | Kailex 2026: Modern Roblox GUI Library for Fast Game Interfaces |
+| [gggamil/mazebreak-flowforge](https://github.com/gggamil/mazebreak-flowforge) | 68 | HTML |  | MazeBreak Trello Automation Power-Up: Ultimate Roblox Game Dev Workflow 2026 |
+| [Billy481/account-switcher-hub](https://github.com/Billy481/account-switcher-hub) | 68 | HTML |  | Best Open Source Game Account Switcher 2026 for Steam Valorant LoL Battle.net Epic |
+| [RustLeaf/f3x-core-docs](https://github.com/RustLeaf/f3x-core-docs) | 68 | HTML |  | Modern Luau F3X Building Library for Roblox Creators 2026 |
+| [Reilius/mocktail-compat-runtime](https://github.com/Reilius/mocktail-compat-runtime) | 68 | HTML |  | Best Linux Roblox Runtime Compatibility Guide 2026 |
+| [Sachinsaini1/hussain-forge-studio](https://github.com/Sachinsaini1/hussain-forge-studio) | 68 | HTML |  | Encrypted Roblox Studio Script Vault 2026: Secure Lua Modules for Developers |
+| [arnavchandra408-tech/arora-relay](https://github.com/arnavchandra408-tech/arora-relay) | 68 | HTML |  | Modern Roblox API Backend Framework with Advanced Features 2026 |
+| [pietrokaue2305-maker/ring-farm-codex](https://github.com/pietrokaue2305-maker/ring-farm-codex) | 68 | HTML |  | Build A Ring Farm Wiki 2026: Codes, Seeds, Mutations and Calculator Guide |
+| [ahmedatito010-cell/sentinel-lint-forge](https://github.com/ahmedatito010-cell/sentinel-lint-forge) | 68 | HTML |  | Best TypeScript ESLint Config Preset for Roblox-TS Developers 2026 |
+| [budisetiawan1889/Fleasion-2-Fishstrap-Forge](https://github.com/budisetiawan1889/Fleasion-2-Fishstrap-Forge) | 68 | HTML |  | Fleasion to Fishstrap JSON Converter Tool 2026 |
+| [mared4reall/Floating-Context-Panels](https://github.com/mared4reall/Floating-Context-Panels) | 68 | HTML |  | Best Open-Source ContextUI 2026: Hover Panels and Live Theming for Roblox UI |
+| [Jimmyneutron5/Key-Stroke-Symphony](https://github.com/Jimmyneutron5/Key-Stroke-Symphony) | 68 | HTML |  | Automate Roblox Piano with MIDI Keyboard Script C# PowerShell 2026 |
+| [Anshul46xfa/runtime-outside-studio](https://github.com/Anshul46xfa/runtime-outside-studio) | 68 | HTML |  | Lumora 2026: Ultimate Luau Runtime Engine for Roblox-Style Scripts Outside Studio |
+| [gabreil00/Soberly-Brewed-Bootstrapper](https://github.com/gabreil00/Soberly-Brewed-Bootstrapper) | 68 | HTML |  | Lemonyde 2026: Community Bootstrapper for Sober Flatpak Gaming |
+| [harpal25/Sc-Rhyan57-Random-Mod-Vault](https://github.com/harpal25/Sc-Rhyan57-Random-Mod-Vault) | 68 | HTML |  | Best Random Game Scripts and Mods Collection 2026 |
+| [ZDSADSDSAD/math-arena-clash](https://github.com/ZDSADSDSAD/math-arena-clash) | 68 | HTML |  | Best Multiplayer Math Battle Game on Roblox 2026: Competitive Learning Duels |
+| [tp-link-extender/MercuryCore](https://github.com/tp-link-extender/MercuryCore) | 68 | Svelte | Unlicense | Self-hostable MMO game creation platform: build-your-own-Roblox |
+| [hope1026/weppy-roblox-mcp](https://github.com/hope1026/weppy-roblox-mcp) | 67 | PowerShell | AGPL-3.0 | Roblox Studio MCP server & plugin for Claude Code, Cursor, Codex, and Gemini. AI-powered scripts, terrain, assets, lighting, and bidirectional project sync. |
+| [BrookenRecord/roblox-project-template](https://github.com/BrookenRecord/roblox-project-template) | 65 | Lua | MIT | 📦 A comprehensive starting point for Roblox projects. Implements Rojo, Darklua, Wally, and more. |
+| [Fumohouse/godot-luau-script](https://github.com/Fumohouse/godot-luau-script) (archived) | 64 | C++ | MIT | GDExtension support for Luau as a scripting language |
+| [LDGerrits/QuickZone](https://github.com/LDGerrits/QuickZone) | 63 | Luau | MIT | A high-performance, physics-free spatial query library for Roblox. Maintain 60 FPS with 1M+ zones |
+| [AeEn123/RoExtract](https://github.com/AeEn123/RoExtract) | 63 | Rust | MIT | A safe way to extract assets from your Roblox installation. |
+| [Jed556/AutoMidiPlayer](https://github.com/Jed556/AutoMidiPlayer) | 62 | C# | GPL-3.0 | MIDI auto player for games. |
+| [seal-runtime/seal](https://github.com/seal-runtime/seal) | 62 | Luau |  | A simple and reliable cross-platform tool for scripting in Luau |
+| [Kaiddd/Roblox-Client-Optimizer](https://github.com/Kaiddd/Roblox-Client-Optimizer) (archived) | 61 |  |  | Dead project |
+| [centau/ecr](https://github.com/centau/ecr) | 60 | Luau | MIT | A sparse-set based ECS library for Luau. |
+| [evaera/Fabric](https://github.com/evaera/Fabric) (archived) | 60 | Lua | MIT | Fabric provides infrastructure for representing the state of things in your game. |
+| [paradoxuum/centurion](https://github.com/paradoxuum/centurion) | 59 | Luau | MIT | A flexible and extensible command framework for roblox-ts |
+| [jsdotlua/CorePackages](https://github.com/jsdotlua/CorePackages) (archived) | 59 | Lua |  | 📁 A collection of Roblox's MIT and Apache2-licensed CorePackages, automatically prepared for Wally. |
+| [loneka/onyx-ui](https://github.com/loneka/onyx-ui) | 58 | Luau | MIT | Quick, customizable components for Fusion |
+| [RadiatedExodus/LuauCeption](https://github.com/RadiatedExodus/LuauCeption) | 58 | Luau | MIT | Running Luau inside Luau |
+| [Sleitnick/RbxObservers](https://github.com/Sleitnick/RbxObservers) | 57 | Luau | MIT | Utility observer functions |
+| [revolutionxk/roblox-modloader](https://github.com/revolutionxk/roblox-modloader) | 57 | C# | MIT | A powerful mod loader that revolutionizes Roblox Studio development with native C++ mods and internal Luau scripting capabilities. |
+| [roblox-rs/roblox-rs](https://github.com/roblox-rs/roblox-rs) | 57 | Rust | MPL-2.0 | Rust bindings for the Roblox standard library. |
+| [rojo-rbx/vscode-rojo](https://github.com/rojo-rbx/vscode-rojo) | 57 | TypeScript | MPL-2.0 | Visual Studio Code plugin for Rojo |
+| [MiaGobble/Open-Sourced-Projects](https://github.com/MiaGobble/Open-Sourced-Projects) (archived) | 56 |  | MIT | A collection of old, unfinished, unreleased, and cancelled projects from years of development |
+| [nuskey8/NuLua](https://github.com/nuskey8/NuLua) | 56 | C# | MIT | Unified Lua5.x/LuaJIT/Luau bindings for .NET and Unity |
+| [Avaluate/MultipleRobloxInstances](https://github.com/Avaluate/MultipleRobloxInstances) | 55 | C# |  | Open multiple Roblox windows using different accounts |
+| [Zgoly/MultiBloxy](https://github.com/Zgoly/MultiBloxy) | 55 | C# | MIT | MultiBloxy is a Windows application designed to manage and control multiple Roblox instances efficiently. It provides a convenient way to open multiple instances for different accounts and offers vari |
+| [YetAnotherClown/planck](https://github.com/YetAnotherClown/planck) | 55 | Luau | MIT | An Agnostic Scheduler for ECS |
+| [Epix-Incorporated/Adonis_2.0](https://github.com/Epix-Incorporated/Adonis_2.0) | 54 | Lua | MIT | Roblox Server Administration System |
+| [mvyasu/PluginEssentials](https://github.com/mvyasu/PluginEssentials) | 54 | Lua | MIT | A repository of Fusion v0.2 components meant to speed up the development of plugins. |
+| [BrookenRecord/studio-activity](https://github.com/BrookenRecord/studio-activity) | 53 | Luau |  | 📡 Show what you're building in Studio, live on your Discord profile. |
+| [prepsure/team-create-hats](https://github.com/prepsure/team-create-hats) | 53 | Lua |  | A character customization plugin for collaborative editing in Roblox Studio. |
+| [deeeity/mercury-lib](https://github.com/deeeity/mercury-lib) | 53 | Lua |  | Official repository of MercuryLib |
+| [typeforge-luau/typeforge](https://github.com/typeforge-luau/typeforge) | 53 | Luau | MIT | A Type Function utility library for Luau. |
+| [ryanzitoo/adopt-a-pet-2026-rojo](https://github.com/ryanzitoo/adopt-a-pet-2026-rojo) | 52 | HTML |  | Blox Blitz 2026 – Ultimate Adopt Me Power Play |
+| [freddylist/llama](https://github.com/freddylist/llama) (archived) | 52 | Lua | MIT | Luau Library for Immutable Data |
+| [evaera/EvLightning](https://github.com/evaera/EvLightning) | 52 | Lua | MIT | EvLightning is a Roblox Lua library. Its purpose is to generate realistic-looking lightning bolts. This could be used to easily add lightning strike effects to any game |
+| [perspectiverajastare/roblox-game-copier-demo](https://github.com/perspectiverajastare/roblox-game-copier-demo) | 51 |  | MIT | Beginner-friendly Roblox Game Copier Demo and step-by-step guide for authorized game projects. |
+| [RoSocket/rosocket](https://github.com/RoSocket/rosocket) | 51 | Lua | MIT | Roblox websocket support made possible thru a server and a roblox module. |
+| [littensy/rbxts-react](https://github.com/littensy/rbxts-react) | 51 | Lua | MIT | ⚛️ TypeScript definitions for React Lua. |
+| [Reselim/Base64](https://github.com/Reselim/Base64) | 51 | Lua | MIT | A pretty fast Luau Base64 encoder/decoder |
+| [Clayeoreinvigorate/roblox-clothing-guide](https://github.com/Clayeoreinvigorate/roblox-clothing-guide) | 50 |  | MIT | 👕 A simple and beginner-friendly Roblox clothing guide for 2026. |
+| [Grottopitempo/roblox-voice-chat-guide](https://github.com/Grottopitempo/roblox-voice-chat-guide) | 50 |  | MIT | Description: 🎤 A simple and beginner-friendly Roblox Voice Chat guide for 2026. |
+| [CatPieLeaf/Stud](https://github.com/CatPieLeaf/Stud) | 50 | C++ | AGPL-3.0 | An Unofficial Open-Source Roblox Launcher for Linux |
+| [worships/roblox-auto-patcher](https://github.com/worships/roblox-auto-patcher) | 50 | Rust | Apache-2.0 | Automatically patch older roblox clients for revivals & old roblox projects! |
+| [latte-soft/wax](https://github.com/latte-soft/wax) (archived) | 50 | Luau | MIT | A Lua 5.1x+/Luau project bundler runtime, using Roblox models and semantics |
+| [pinehappi/DataDelve](https://github.com/pinehappi/DataDelve) | 50 | Luau | GPL-3.0 | Graphical interface for Roblox's DataStore API. |
+| [rojo-rbx/rojo.space](https://github.com/rojo-rbx/rojo.space) | 50 | MDX | MIT | Rojo website |
+| [BrookenRecord/playfab-luau](https://github.com/BrookenRecord/playfab-luau) | 50 | Lua | Apache-2.0 | 🕹️ Community-maintained PlayFab SDKs for Luau. |
+| [cipharius/msgpack-luau](https://github.com/cipharius/msgpack-luau) | 50 | Lua | MIT | A pure MessagePack binary serialization format implementation in Luau |
+| [kohls-admin/kohls-admin](https://github.com/kohls-admin/kohls-admin) | 49 | Luau | MIT | Comprehensive experience management for Roblox Luau. |
+| [teamfireworks/gargantuan](https://github.com/teamfireworks/gargantuan) (archived) | 48 | Luau | MPL-2.0 | An independent game engine for Roblox developers |
+| [Raihann22/Roblox-Player-Server-Searcher](https://github.com/Raihann22/Roblox-Player-Server-Searcher) (archived) | 48 | JavaScript | MIT | The world's best and safest Roblox Player Server Searcher! #OpenSource #Free |
+| [quiloos39/Roblox](https://github.com/quiloos39/Roblox) | 48 | Lua |  | Some of mine and other people's old codes that we used to run them in Script Builder. |
+| [sUNC-Utilities/docs](https://github.com/sUNC-Utilities/docs) | 48 | Lua |  | Beautiful and functional documentation for sUNC. |
+| [notreux/UpsideEngine](https://github.com/notreux/UpsideEngine) | 48 | Luau | Apache-2.0 | A 2d roblox game engine |
+| [littensy/pretty-react-hooks](https://github.com/littensy/pretty-react-hooks) | 47 | TypeScript | MIT | 💐 A collection of useful hooks for roblox-ts and React |
+| [Dekkonot/bitbuffer](https://github.com/Dekkonot/bitbuffer) | 46 | Lua | MIT | A binary stream module for packing binary data in pure Lua |
+| [mxpv/luaz](https://github.com/mxpv/luaz) | 46 | Zig | MIT | Zero-cost Luau wrapper for Zig |
+| [phishontop/bloxsint](https://github.com/phishontop/bloxsint) | 45 | Python |  | ✨Roblox osint tool which finds information or data on a roblox account |
+| [Coyenn/awesome-roblox-ts](https://github.com/Coyenn/awesome-roblox-ts) | 44 | Luau |  | A list of all packages for roblox-ts. |
+| [buildthomas/Rain](https://github.com/buildthomas/Rain) | 44 | Luau | Apache-2.0 | Rain effect simulation for Roblox games |
+| [axiom-co/framework](https://github.com/axiom-co/framework) | 44 | Luau | MIT | A feather light game framework for Luau |
+| [roblox-ts/types](https://github.com/roblox-ts/types) | 44 | TypeScript | MIT | TypeScript typings for the Roblox platform. Partially handwritten and partially automatically generated. |
+| [lumynxa/fastflags-collective](https://github.com/lumynxa/fastflags-collective) | 43 |  | MIT |  |
+| [evaera/plasma](https://github.com/evaera/plasma) (archived) | 43 | Lua | MIT | A declarative, immediate mode UI widget library for Roblox. |
+| [sentanos/roblox-js](https://github.com/sentanos/roblox-js) (archived) | 43 | JavaScript | MIT | !!!THIS PROJECT IS NO LONGER MAINTAINED!!! Execute ROBLOX website actions in node.js |
+| [EL4CTEO/roblox-skills](https://github.com/EL4CTEO/roblox-skills) | 42 | Python | MIT | Open source list of roblox skills for AI agents |
+| [roblox-compilers/roblox-py](https://github.com/roblox-compilers/roblox-py) (archived) | 42 | Python | AGPL-3.0 | Python to Luau compiler for Roblox. |
+| [5-erin/Phoenix](https://github.com/5-erin/Phoenix) | 42 | C++ | MIT | ✨ life is too short to be 100% spec-compliant ✨ |
+| [NASCeria/Brochacha20](https://github.com/NASCeria/Brochacha20) | 41 | C |  | A fully static Roblox Client Decryptor |
+| [prooheckcp/RobloxStateMachine](https://github.com/prooheckcp/RobloxStateMachine) | 41 | Lua | MIT | A state machine implementation for Roblox. It allows you to easily setup State Machines with States and Transitions! |
+| [AlroviOfficial/RoZod](https://github.com/AlroviOfficial/RoZod) | 41 | TypeScript | ISC | A TypeScript wrapper for the Roblox API |
+| [nightcycle/synthetic](https://github.com/nightcycle/synthetic) (archived) | 41 | Luau | Apache-2.0 | A UI library with the the goal of porting the Google Material Design framework / philosophy to Roblox. |

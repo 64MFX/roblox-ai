@@ -125,7 +125,6 @@
 | [[v2.1.0] MatchmakingService - ON HOLD](https://devforum.roblox.com/t/v210-matchmakingservice-on-hold/1483736) | 690 | 56632 | Resources | 2021-09-26 |
 | [Miner's Haven open-sourced: everything you need to make your own factory game](https://devforum.roblox.com/t/miners-haven-open-sourced-everything-you-need-to-make-your-own-factory-game/350767) | 683 | 143346 | Resources | 2019-09-16 |
 | [V2.1 - Plugin: Hidden Backdoor/Infection Script Detector (Detects/Removes infections from malicious plugins)](https://devforum.roblox.com/t/v21-plugin-hidden-backdoorinfection-script-detector-detectsremoves-infections-from-malicious-plugins/216692) | 682 | 58507 | Resources | 2018-12-28 |
-| [Cookie logging explained](https://devforum.roblox.com/t/cookie-logging-explained/473457) | 679 | 222424 | Resources | 2020-03-03 |
 | [Discord-To-Roblox Ban bot](https://devforum.roblox.com/t/discord-to-roblox-ban-bot/342483) | 677 | 43265 | Resources | 2019-09-01 |
 | [SimpleComplete \| All scripting plugins in 1 + more!](https://devforum.roblox.com/t/simplecomplete-all-scripting-plugins-in-1-more/3565169) | 677 | 30040 | Resources | 2025-03-23 |
 | [~100 Good quality, simulator pets!](https://devforum.roblox.com/t/100-good-quality-simulator-pets/426398) | 675 | 135927 | Resources | 2020-01-05 |
@@ -504,3 +503,4 @@
 | [Tux Physics Tails (Version 2.1) — by @R3dTuxedo](https://devforum.roblox.com/t/tux-physics-tails-version-21-%E2%80%94-by-r3dtuxedo/3348701) | 271 | 5778 | Resources | 2025-01-05 |
 | [A Guide to User Interface Design](https://devforum.roblox.com/t/a-guide-to-user-interface-design/47526) | 270 | 26923 | Resources | 2017-08-07 |
 | [Roblox Animation Pack IDs (Walk, Run, Jump etc.)](https://devforum.roblox.com/t/roblox-animation-pack-ids-walk-run-jump-etc/417725) | 270 | 360678 | Resources | 2019-12-27 |
+| [Discord Webhooks - Integrating Roblox with Discord](https://devforum.roblox.com/t/discord-webhooks-integrating-roblox-with-discord/458366) | 270 | 56202 | Resources | 2020-02-15 |

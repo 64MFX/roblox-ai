@@ -4,9 +4,6 @@
 
 | Topic | Likes | Views | Category | Created |
 |---|---:|---:|---|---|
-| [CPSATLib releases to the DevForum!](https://devforum.roblox.com/t/cpsatlib-releases-to-the-devforum/3074649) | 3 | 289 | Resources | 2024-07-18 |
-| [Terrain Library Plugin - Save and Stamp Terrain](https://devforum.roblox.com/t/terrain-library-plugin-save-and-stamp-terrain/4818752) | 3 | 291 | Resources | 2026-08-18 |
-| [UniPlugin \| Plugins, unified. A simple Plugin wrapper that provides inter-plugin import/export semantics for public Plugin APIs](https://devforum.roblox.com/t/uniplugin-plugins-unified-a-simple-plugin-wrapper-that-provides-inter-plugin-importexport-semantics-for-public-plugin-apis/4475722) | 3 | 286 | Resources | 2026-03-06 |
 | [Why your data store script is not working on Studio (possibly)](https://devforum.roblox.com/t/why-your-data-store-script-is-not-working-on-studio-possibly/2888589) | 3 | 278 | Resources | 2024-03-24 |
 | [A BulkMoveTo Wrapper Module for PVInstances (Models and BaseParts): [BulkPivotMover] - ( Source In Post )](https://devforum.roblox.com/t/a-bulkmoveto-wrapper-module-for-pvinstances-models-and-baseparts-bulkpivotmover-source-in-post/4893102) | 3 | 278 | Resources | 2026-09-25 |
 | [How should you actually organize your game's core concept/loop?](https://devforum.roblox.com/t/how-should-you-actually-organize-your-games-core-conceptloop/4926914) | 3 | 278 | Resources | 2026-10-11 |
@@ -504,3 +501,6 @@
 | [Lua Periodic Table of the Elements](https://devforum.roblox.com/t/lua-periodic-table-of-the-elements/3119215) | 2 | 710 | Resources | 2024-08-15 |
 | ["Javascriptifying" systems](https://devforum.roblox.com/t/javascriptifying-systems/2018971) | 2 | 1126 | Resources | 2022-10-12 |
 | [This command will organize your messy workspace into neat folders](https://devforum.roblox.com/t/this-command-will-organize-your-messy-workspace-into-neat-folders/2882683) | 2 | 702 | Resources | 2024-03-20 |
+| [Better Creator Store Seller Analytics](https://devforum.roblox.com/t/better-creator-store-seller-analytics/4883445) | 2 | 140 | Resources | 2026-09-20 |
+| [How to export blender meshes to roblox, no need for uv editor or color palettes](https://devforum.roblox.com/t/how-to-export-blender-meshes-to-roblox-no-need-for-uv-editor-or-color-palettes/1660428) | 2 | 701 | Resources | 2022-02-08 |
+| [Nexus — DataStore Library](https://devforum.roblox.com/t/nexus-%E2%80%94-datastore-library/4472731) | 2 | 804 | Resources | 2026-03-05 |

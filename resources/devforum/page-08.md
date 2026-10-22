@@ -4,7 +4,6 @@
 
 | Topic | Likes | Views | Category | Created |
 |---|---:|---:|---|---|
-| [Time & You: A Quick Reference for All Things Roblox and Time](https://devforum.roblox.com/t/time-you-a-quick-reference-for-all-things-roblox-and-time/2393624) | 44 | 8255 | Resources | 2023-05-26 |
 | [Using Fractal Noise To Create 3D Terrain With Caves](https://devforum.roblox.com/t/using-fractal-noise-to-create-3d-terrain-with-caves/1839851) | 44 | 4786 | Resources | 2022-06-20 |
 | [CSS For Roblox - RSML](https://devforum.roblox.com/t/css-for-roblox-rsml/3671593) | 44 | 1436 | Resources | 2025-05-31 |
 | [ComputeLua - Make Parallel Luau easier using buffers!](https://devforum.roblox.com/t/computelua-make-parallel-luau-easier-using-buffers/2943817) | 44 | 4198 | Resources | 2024-04-24 |
@@ -504,3 +503,4 @@
 | [blueSerializer - serialize robloxs primitive types](https://devforum.roblox.com/t/blueserializer-serialize-robloxs-primitive-types/2069521) | 38 | 2079 | Resources | 2022-12-02 |
 | [Game Discovery Hub](https://devforum.roblox.com/t/game-discovery-hub/2783547) | 38 | 2941 | Resources | 2024-01-07 |
 | [Free Simulator UI Pack by Typbloxian](https://devforum.roblox.com/t/free-simulator-ui-pack-by-typbloxian/1436927) | 38 | 16409 | Resources | 2021-08-25 |
+| [AI Development: Finite State Machines](https://devforum.roblox.com/t/ai-development-finite-state-machines/606268) | 38 | 6323 | Resources | 2020-06-02 |
