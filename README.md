@@ -42,3 +42,14 @@ About 124 more images sit inside the entry folders, credited in [ui-styles/IMAGE
 - [PNG downloader](scripts/fetch_roblox_images.py) is configured for 27 Roblox experiences, fetches their public artwork, and records source game links in `roblox-image-manifest.json` when run.
 - [GitHub Actions workflow](.github/workflows/fetch-roblox-references.yml) is configured to download and commit PNG files. **Downloaded PNGs are not included in the reference total unless actually present in this repository.**
 - Artwork is owned by its respective creators; do not assume reuse rights merely because a public thumbnail is accessible.
+
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=izzyfrm%2Froblox-ai&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=izzyfrm/roblox-ai&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=izzyfrm/roblox-ai&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=izzyfrm/roblox-ai&type=date&legend=top-left" />
+ </picture>
+</a>
