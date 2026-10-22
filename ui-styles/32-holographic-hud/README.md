@@ -8,15 +8,15 @@ Back to the [style catalog](../GUI-STYLES.md).
 
 ![Cyberpunk UI Asset Pack v1](cyberpunk-v1-1.png)
 
-*Cyberpunk UI Asset Pack v1* by DoDoCat, [source page](https://ckgndodocat.itch.io/cyberpunk-ui-asset-pack-v1). Resized preview, all rights with the creator.
+*Cyberpunk UI Asset Pack v1* by DoDoCat, source page. Resized preview, all rights with the creator.
 
 ![Sci-Fi Holographic HUD Kit](holographic-hud-2.png)
 
-*Sci-Fi Holographic HUD Kit* by Vill8tion, [source page](https://vill8tion.itch.io/sci-fi-holographic-hud-kit-cyberpunk-ui-4k). Resized preview, all rights with the creator.
+*Sci-Fi Holographic HUD Kit* by Vill8tion, source page. Resized preview, all rights with the creator.
 
 ![Sci-Fi Holographic HUD Kit](holographic-hud-3.png)
 
-*Sci-Fi Holographic HUD Kit* by Vill8tion, [source page](https://vill8tion.itch.io/sci-fi-holographic-hud-kit-cyberpunk-ui-4k). Resized preview, all rights with the creator.
+*Sci-Fi Holographic HUD Kit* by Vill8tion, source page. Resized preview, all rights with the creator.
 
 ## Find more references
 

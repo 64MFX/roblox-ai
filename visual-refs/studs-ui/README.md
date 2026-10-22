@@ -22,14 +22,14 @@ These links point to actual Roblox UI projects, packs, and screenshots published
 
 | Actual source | Creator / platform | What to study | Access |
 | --- | --- | --- | --- |
-| [Studded UI Free Roblox UI Kit](https://rblx-essentials.itch.io/studded-ui) | RBLX Essentials / itch.io | 14 actual editable menus, shop, trade, rewards, buttons, Studio captures | Free; redistribution restricted |
-| [StudUI Lite](https://semajh.itch.io/studui-lite) | The Crypt Studios / itch.io | Studio-built stud UI: HUD, shop, daily, codes, ranks, settings | Free download; verify license |
+| Studded UI Free Roblox UI Kit | RBLX Essentials / itch.io | 14 actual editable menus, shop, trade, rewards, buttons, Studio captures | Free; redistribution restricted |
+| StudUI Lite | The Crypt Studios / itch.io | Studio-built stud UI: HUD, shop, daily, codes, ranks, settings | Free download; verify license |
 | [Studded GUI Kit UI Theme Custom Buttons](https://create.roblox.com/store/asset/92606407843486/Studded-GUI-Kit-UI-Theme-Custom-Buttons) | @Novan7PrimalS / Roblox Creator Store | Studio model: custom studded controls and buttons | Creator Store model |
 | [UXR Stud UI Pack](https://create.roblox.com/store/asset/124454018303868/UXR-Stud-UI-Pack) | @siracozmen01 / Roblox Creator Store | 45+ interface layouts: shop, upgrades, trades, leaderboards | Paid; view listing only |
-| [Complete Stud UI Kit](https://builtbybit.com/resources/complete-stud-ui-kit.126952/) | jacobd / BuiltByBit | Real Studio screenshots: HUD, shop, inventory, progress, hotbar | Paid; view previews only |
-| [Stud UI Kit 2](https://builtbybit.com/resources/stud-ui-kit-2.128788/) | JacobVeD / BuiltByBit | HUD, notifications, leaderboard, rewards and shop panels | Paid; view previews only |
-| [Stud UI Kit: Shop, Daily, Codes, Rebirth](https://assetsfactory.itch.io/roblox-stud-ui-kit) | AssetsFactory / itch.io | Functional native Roblox Studio stud GUI with editable panels | Paid; view previews only |
-| [StudUI](https://semajh.itch.io/studui) | The Crypt Studios / itch.io | Shop, game passes, daily rewards, codes and leaderboard UI | Paid; view previews only |
+| Complete Stud UI Kit | jacobd / BuiltByBit | Real Studio screenshots: HUD, shop, inventory, progress, hotbar | Paid; view previews only |
+| Stud UI Kit 2 | JacobVeD / BuiltByBit | HUD, notifications, leaderboard, rewards and shop panels | Paid; view previews only |
+| Stud UI Kit: Shop, Daily, Codes, Rebirth | AssetsFactory / itch.io | Functional native Roblox Studio stud GUI with editable panels | Paid; view previews only |
+| StudUI | The Crypt Studios / itch.io | Shop, game passes, daily rewards, codes and leaderboard UI | Paid; view previews only |
 | [Sunny Side Roblox Stud UI Kit](https://embedary.tech/resources/sunny-side) | Embedary / creator website | Real Roblox UI captures, animated shop, rewards and menus | View creator gallery |
 
 ## Important quality rules

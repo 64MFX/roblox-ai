@@ -10,11 +10,11 @@ Back to the [style catalog](../GUI-STYLES.md).
 
 ![Indie Horror UI Kit](indie-horror-kit-1.png)
 
-*Indie Horror UI Kit* by mtw1man2, [source page](https://mtw1man2.itch.io/indie-horror-ui-kit-survival-horror-menus-inventory-interaction-system). Resized preview, all rights with the creator.
+*Indie Horror UI Kit* by mtw1man2, source page. Resized preview, all rights with the creator.
 
 ![Indie Horror UI Kit](indie-horror-kit-2.png)
 
-*Indie Horror UI Kit* by mtw1man2, [source page](https://mtw1man2.itch.io/indie-horror-ui-kit-survival-horror-menus-inventory-interaction-system). Resized preview, all rights with the creator.
+*Indie Horror UI Kit* by mtw1man2, source page. Resized preview, all rights with the creator.
 
 ## More previews (itch.io top results, credited)
 

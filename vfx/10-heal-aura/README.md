@@ -10,7 +10,7 @@ Back to the [catalog](../VFX.md).
 
 ![Essential VFX Pack, 31 Animated Effects](essential-vfx-31-1.png)
 
-*Essential VFX Pack, 31 Animated Effects* by Bonkiloki, [source page](https://bonkiloki.itch.io/essential-vfx-pack-31-animated-effects). Preview image, all rights with the creator.
+*Essential VFX Pack, 31 Animated Effects* by Bonkiloki, source page. Preview image, all rights with the creator.
 
 ## More previews (itch.io top results, credited)
 

@@ -8,11 +8,11 @@ Back to the [style catalog](../GUI-STYLES.md).
 
 ![Casual Mobile Game UI Kit (Red Theme)](casual-red-1.jpg)
 
-*Casual Mobile Game UI Kit (Red Theme)* by nebuhanka, [source page](https://nebuhanka.itch.io/casual-mobile-game-ui-kit-red-theme). Resized preview, all rights with the creator.
+*Casual Mobile Game UI Kit (Red Theme)* by nebuhanka, source page. Resized preview, all rights with the creator.
 
 ![Casual Mobile Game UI Kit (Red Theme)](casual-red-2.jpg)
 
-*Casual Mobile Game UI Kit (Red Theme)* by nebuhanka, [source page](https://nebuhanka.itch.io/casual-mobile-game-ui-kit-red-theme). Resized preview, all rights with the creator.
+*Casual Mobile Game UI Kit (Red Theme)* by nebuhanka, source page. Resized preview, all rights with the creator.
 
 ## More previews (itch.io top results, credited)
 

@@ -24,6 +24,6 @@ Links checked on 2026-10-20 (HTTP 200). Descriptions are short summaries from se
 
 ## Reference and asset sources
 - [Game UI Database](https://www.gameuidatabase.com/about.php): 55k+ game UI screenshots, filterable by texture, pattern and colour.
-- [itch.io game assets](https://itch.io/game-assets): GUI, VFX, animation and sound packs (check each licence); galleries in [`previews/`](previews/README.md).
+- itch.io game assets: GUI, VFX, animation and sound packs (check each licence); galleries in [`previews/`](previews/README.md).
 - [OpenGameArt](https://opengameart.org/content/interface-sounds), [Kenney](https://kenney.nl/assets/category:Audio), [Freesound](https://freesound.org): sound sources.
 - BuiltByBit Roblox UI kits (cited in `ui-styles/GUI-STYLES.md`): marketplace listings; the site blocks automated downloads, so no images from it are bundled.

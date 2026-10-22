@@ -10,15 +10,15 @@ Back to the [style catalog](../GUI-STYLES.md).
 
 ![Fighting Game UIKit Pack V1](fighting-uikit-1.png)
 
-*Fighting Game UIKit Pack V1* by rupertBastos, [source page](https://rupertbastos.itch.io/fighting-game-uikit-pack-v1). Resized preview, all rights with the creator.
+*Fighting Game UIKit Pack V1* by rupertBastos, source page. Resized preview, all rights with the creator.
 
 ![Fighting Game UIKit Pack V1](fighting-uikit-2.png)
 
-*Fighting Game UIKit Pack V1* by rupertBastos, [source page](https://rupertbastos.itch.io/fighting-game-uikit-pack-v1). Resized preview, all rights with the creator.
+*Fighting Game UIKit Pack V1* by rupertBastos, source page. Resized preview, all rights with the creator.
 
 ![Fighting Game HUD/UI and Texts](fighting-hud-pixel-3.png)
 
-*Fighting Game HUD/UI and Texts* by Richard Macedo, [source page](https://richard-macedo.itch.io/fighting-game-hudui-and-texts). Resized preview, all rights with the creator.
+*Fighting Game HUD/UI and Texts* by Richard Macedo, source page. Resized preview, all rights with the creator.
 
 ## More previews (itch.io top results, credited)
 

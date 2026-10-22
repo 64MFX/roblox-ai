@@ -10,11 +10,11 @@ Back to the [style catalog](../GUI-STYLES.md).
 
 ![Medieval Age Game GUI](medieval-age-wood-1.jpg)
 
-*Medieval Age Game GUI* by pzUH, [source page](https://pzuh.itch.io/medieval-age-game-gui). Resized preview, all rights with the creator.
+*Medieval Age Game GUI* by pzUH, source page. Resized preview, all rights with the creator.
 
 ![Medieval Age Game GUI](medieval-age-wood-3.png)
 
-*Medieval Age Game GUI* by pzUH, [source page](https://pzuh.itch.io/medieval-age-game-gui). Resized preview, all rights with the creator.
+*Medieval Age Game GUI* by pzUH, source page. Resized preview, all rights with the creator.
 
 ## More previews (itch.io top results, credited)
 

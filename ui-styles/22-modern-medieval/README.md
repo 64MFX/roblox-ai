@@ -8,15 +8,15 @@ Back to the [style catalog](../GUI-STYLES.md).
 
 ![Medieval Fantasy RPG UI Kit: Gothic & Gold](medieval-gothic-gold-1.png)
 
-*Medieval Fantasy RPG UI Kit: Gothic & Gold* by Vill8tion, [source page](https://vill8tion.itch.io/medieval-fantasy-rpg-ui-kit-gothic-gold-4k). Resized preview, all rights with the creator.
+*Medieval Fantasy RPG UI Kit: Gothic & Gold* by Vill8tion, source page. Resized preview, all rights with the creator.
 
 ![Medieval Fantasy RPG UI Kit: Gothic & Gold](medieval-gothic-gold-2.jpg)
 
-*Medieval Fantasy RPG UI Kit: Gothic & Gold* by Vill8tion, [source page](https://vill8tion.itch.io/medieval-fantasy-rpg-ui-kit-gothic-gold-4k). Resized preview, all rights with the creator.
+*Medieval Fantasy RPG UI Kit: Gothic & Gold* by Vill8tion, source page. Resized preview, all rights with the creator.
 
 ![Medieval Fantasy RPG UI Kit: Gothic & Gold](medieval-gothic-gold-3.jpg)
 
-*Medieval Fantasy RPG UI Kit: Gothic & Gold* by Vill8tion, [source page](https://vill8tion.itch.io/medieval-fantasy-rpg-ui-kit-gothic-gold-4k). Resized preview, all rights with the creator.
+*Medieval Fantasy RPG UI Kit: Gothic & Gold* by Vill8tion, source page. Resized preview, all rights with the creator.
 
 ## More previews (itch.io top results, credited)
 

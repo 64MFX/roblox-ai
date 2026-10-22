@@ -10,15 +10,15 @@ Back to the [SFX catalog](../SFX.md).
 
 ![Fast UI Sounds](sfx-fast-ui-1.jpg)
 
-*Fast UI Sounds* by AD Sounds, [source page](https://ad-sounds.itch.io/fast-ui-sounds-sound-effects). Preview image of the sound pack, all rights with the creator.
+*Fast UI Sounds* by AD Sounds, source page. Preview image of the sound pack, all rights with the creator.
 
 ![UI Clicks](sfx-ui-clicks-1.png)
 
-*UI Clicks* by bleeoop, [source page](https://bleeoop.itch.io/ui-clicks). Preview image of the sound pack, all rights with the creator.
+*UI Clicks* by bleeoop, source page. Preview image of the sound pack, all rights with the creator.
 
 ![Interface/Buttons Sound Pack](sfx-interface-buttons-1.png)
 
-*Interface/Buttons Sound Pack* by Morphonaut, [source page](https://morphonaut.itch.io/interfacebuttons-sound-pack). Preview image of the sound pack, all rights with the creator.
+*Interface/Buttons Sound Pack* by Morphonaut, source page. Preview image of the sound pack, all rights with the creator.
 
 ## Docs, cookbook and sources
 - [Official guide: Sound](../../official-docs/guides/sound/index.md)
@@ -42,4 +42,4 @@ Keyword-matched galleries. Click a gallery for 12 credited covers. These are sea
 - [Google Images](https://www.google.com/search?tbm=isch&q=roblox+Button+Click+sound+effect)
 - [YouTube](https://www.youtube.com/results?search_query=roblox+Button+Click+sound+effect)
 - [Freesound](https://freesound.org/search/?q=Button+Click+sound+effect)
-- [itch.io audio](https://itch.io/game-assets/tag-sound-effects?q=Button+Click+sound+effect)
+- itch.io audio

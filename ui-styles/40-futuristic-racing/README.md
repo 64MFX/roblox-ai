@@ -10,15 +10,15 @@ Back to the [style catalog](../GUI-STYLES.md).
 
 ![Racing Game HUD](racing-hud-1.png)
 
-*Racing Game HUD* by gamedeveloperstudio, [source page](https://gamedeveloperstudio.itch.io/racing-game-hud). Resized preview, all rights with the creator.
+*Racing Game HUD* by gamedeveloperstudio, source page. Resized preview, all rights with the creator.
 
 ![Racing Game HUD](racing-hud-2.png)
 
-*Racing Game HUD* by gamedeveloperstudio, [source page](https://gamedeveloperstudio.itch.io/racing-game-hud). Resized preview, all rights with the creator.
+*Racing Game HUD* by gamedeveloperstudio, source page. Resized preview, all rights with the creator.
 
 ![Racing Game HUD](racing-hud-3.png)
 
-*Racing Game HUD* by gamedeveloperstudio, [source page](https://gamedeveloperstudio.itch.io/racing-game-hud). Resized preview, all rights with the creator.
+*Racing Game HUD* by gamedeveloperstudio, source page. Resized preview, all rights with the creator.
 
 ## More previews (itch.io top results, credited)
 

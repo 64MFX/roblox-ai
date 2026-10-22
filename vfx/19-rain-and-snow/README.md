@@ -10,11 +10,11 @@ Back to the [catalog](../VFX.md).
 
 ![Advanced Particle Physics (Roblox Studio)](roblox-rain-1.png)
 
-*Advanced Particle Physics (Roblox Studio)* by Rekeeke, [source page](https://reeceik.itch.io/realistic-particle-physics-roblox-studio). Preview image, all rights with the creator.
+*Advanced Particle Physics (Roblox Studio)* by Rekeeke, source page. Preview image, all rights with the creator.
 
 ![Advanced Particle Physics (Roblox Studio)](roblox-rain-2.png)
 
-*Advanced Particle Physics (Roblox Studio)* by Rekeeke, [source page](https://reeceik.itch.io/realistic-particle-physics-roblox-studio). Preview image, all rights with the creator.
+*Advanced Particle Physics (Roblox Studio)* by Rekeeke, source page. Preview image, all rights with the creator.
 
 ## More previews (itch.io top results, credited)
 

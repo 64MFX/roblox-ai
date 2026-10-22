@@ -10,7 +10,7 @@ Back to the [catalog](../VFX.md).
 
 ![Brackeys' VFX Bundle](brackeys-vfx-3.png)
 
-*Brackeys' VFX Bundle* by Brackeys, [source page](https://brackeysgames.itch.io/brackeys-vfx-bundle). Preview image, all rights with the creator.
+*Brackeys' VFX Bundle* by Brackeys, source page. Preview image, all rights with the creator.
 
 ## Find more references
 - [Google Images](https://www.google.com/search?tbm=isch&q=roblox+Smoke+Puff+vfx)

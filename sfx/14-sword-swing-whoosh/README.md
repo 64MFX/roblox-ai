@@ -10,15 +10,15 @@ Back to the [SFX catalog](../SFX.md).
 
 ![Sword Combat Sound Effects Pack (Free)](sfx-sword-free-1.png)
 
-*Sword Combat Sound Effects Pack (Free)* by Hove Audio, [source page](https://hoveaudio.itch.io/sword-combat-sound-effects-pack-free-version). Preview image of the sound pack, all rights with the creator.
+*Sword Combat Sound Effects Pack (Free)* by Hove Audio, source page. Preview image of the sound pack, all rights with the creator.
 
 ![Forge & Fantasy Weapon SFX](sfx-forge-fantasy-1.png)
 
-*Forge & Fantasy Weapon SFX* by Case Portman, [source page](https://caseportman.itch.io/forge-fantasy-weapon-sfx). Preview image of the sound pack, all rights with the creator.
+*Forge & Fantasy Weapon SFX* by Case Portman, source page. Preview image of the sound pack, all rights with the creator.
 
 ![Forge & Fantasy Weapon SFX](sfx-forge-fantasy-2.png)
 
-*Forge & Fantasy Weapon SFX* by Case Portman, [source page](https://caseportman.itch.io/forge-fantasy-weapon-sfx). Preview image of the sound pack, all rights with the creator.
+*Forge & Fantasy Weapon SFX* by Case Portman, source page. Preview image of the sound pack, all rights with the creator.
 
 ## Docs, cookbook and sources
 - [Cookbook: play with variation](../../cookbook/sfx/01-play-with-variation.luau)
@@ -41,4 +41,4 @@ Keyword-matched galleries. Click a gallery for 12 credited covers. These are sea
 - [Google Images](https://www.google.com/search?tbm=isch&q=roblox+Sword+Swing+Whoosh+sound+effect)
 - [YouTube](https://www.youtube.com/results?search_query=roblox+Sword+Swing+Whoosh+sound+effect)
 - [Freesound](https://freesound.org/search/?q=Sword+Swing+Whoosh+sound+effect)
-- [itch.io audio](https://itch.io/game-assets/tag-sound-effects?q=Sword+Swing+Whoosh+sound+effect)
+- itch.io audio

@@ -10,11 +10,11 @@ Back to the [catalog](../ANIMATIONS.md).
 
 ![Free Character Animation Pack](hero-animation-2.gif)
 
-*Free Character Animation Pack* by wxhaust, [source page](https://wxhaust.itch.io/free-hero-animation-pack). Preview image, all rights with the creator.
+*Free Character Animation Pack* by wxhaust, source page. Preview image, all rights with the creator.
 
 ![Pixel Art Sword VFX](pixel-sword-vfx-1.gif)
 
-*Pixel Art Sword VFX* by metpxl, [source page](https://metpxl.itch.io/pixel-art-sword-vfx-attack-slash-animation-pack). Preview image, all rights with the creator.
+*Pixel Art Sword VFX* by metpxl, source page. Preview image, all rights with the creator.
 
 ## More previews (itch.io top results, credited)
 

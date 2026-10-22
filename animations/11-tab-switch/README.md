@@ -10,7 +10,7 @@ Back to the [catalog](../ANIMATIONS.md).
 
 ![Complete UI Book Styles Pack](ui-book-styles-1.gif)
 
-*Complete UI Book Styles Pack* by Crusenho, [source page](https://crusenho.itch.io/complete-ui-book-styles-pack). Preview image, all rights with the creator.
+*Complete UI Book Styles Pack* by Crusenho, source page. Preview image, all rights with the creator.
 
 ## More previews (itch.io top results, credited)
 

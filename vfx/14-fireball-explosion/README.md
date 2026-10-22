@@ -10,11 +10,11 @@ Back to the [catalog](../VFX.md).
 
 ![Brackeys' VFX Bundle](brackeys-vfx-1.png)
 
-*Brackeys' VFX Bundle* by Brackeys, [source page](https://brackeysgames.itch.io/brackeys-vfx-bundle). Preview image, all rights with the creator.
+*Brackeys' VFX Bundle* by Brackeys, source page. Preview image, all rights with the creator.
 
 ![Brackeys' VFX Bundle](brackeys-vfx-3.png)
 
-*Brackeys' VFX Bundle* by Brackeys, [source page](https://brackeysgames.itch.io/brackeys-vfx-bundle). Preview image, all rights with the creator.
+*Brackeys' VFX Bundle* by Brackeys, source page. Preview image, all rights with the creator.
 
 ## More previews (itch.io top results, credited)
 

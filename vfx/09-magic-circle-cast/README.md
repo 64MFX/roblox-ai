@@ -10,11 +10,11 @@ Back to the [catalog](../VFX.md).
 
 ![Pixel VFX Pack, 64 Animated Effects](pixel-vfx-64-1.png)
 
-*Pixel VFX Pack, 64 Animated Effects* by Phzm, [source page](https://phzm.itch.io/pixel-vfx-pack). Preview image, all rights with the creator.
+*Pixel VFX Pack, 64 Animated Effects* by Phzm, source page. Preview image, all rights with the creator.
 
 ![Essential VFX Pack, 31 Animated Effects](essential-vfx-31-3.gif)
 
-*Essential VFX Pack, 31 Animated Effects* by Bonkiloki, [source page](https://bonkiloki.itch.io/essential-vfx-pack-31-animated-effects). Preview image, all rights with the creator.
+*Essential VFX Pack, 31 Animated Effects* by Bonkiloki, source page. Preview image, all rights with the creator.
 
 ## More previews (itch.io top results, credited)
 

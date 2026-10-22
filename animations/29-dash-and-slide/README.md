@@ -10,7 +10,7 @@ Back to the [catalog](../ANIMATIONS.md).
 
 ![Animated Speed Line](speed-line-1.gif)
 
-*Animated Speed Line* by Heosphorus, [source page](https://heosphorus.itch.io/speed-line). Preview image, all rights with the creator.
+*Animated Speed Line* by Heosphorus, source page. Preview image, all rights with the creator.
 
 ## More previews (itch.io top results, credited)
 

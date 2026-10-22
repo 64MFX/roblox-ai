@@ -10,7 +10,7 @@ Back to the [catalog](../VFX.md).
 
 ![COMBAT FX](combat-fx-1.png)
 
-*COMBAT FX* by GegX, [source page](https://gegx.itch.io/combat-fx). Preview image, all rights with the creator.
+*COMBAT FX* by GegX, source page. Preview image, all rights with the creator.
 
 ## More previews (itch.io top results, credited)
 

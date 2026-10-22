@@ -9,7 +9,7 @@ Roblox audio facts worth knowing: group `Volume` multiplies child volume and nes
 - [OpenGameArt: 87 Clickety Clips (CC0)](https://opengameart.org/content/87-clickety-clips)
 - [Kenney audio](https://kenney.nl/assets/category:Audio)
 - [Freesound](https://freesound.org) (licence varies per sound)
-- [RawAmbience free magic spells (itch.io)](https://itch.io/t/5286574/free-magic-spells-sound-effects)
+- RawAmbience free magic spells (itch.io)
 - Previewed packs: Fast UI Sounds, UI Clicks, User Interface Sounds, Interface/Buttons, Hove Audio sword pack, Forge & Fantasy, Combat Magic Spells, Sci-Fi Swords (see each entry)
 
 

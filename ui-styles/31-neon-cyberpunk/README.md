@@ -8,15 +8,15 @@ Back to the [style catalog](../GUI-STYLES.md).
 
 ![NEONCORE UI Pack](neoncore-1.jpg)
 
-*NEONCORE UI Pack* by Tonekya, [source page](https://tonekya.itch.io/neoncore-ui-pack). Resized preview, all rights with the creator.
+*NEONCORE UI Pack* by Tonekya, source page. Resized preview, all rights with the creator.
 
 ![NEONCORE UI Pack](neoncore-3.jpg)
 
-*NEONCORE UI Pack* by Tonekya, [source page](https://tonekya.itch.io/neoncore-ui-pack). Resized preview, all rights with the creator.
+*NEONCORE UI Pack* by Tonekya, source page. Resized preview, all rights with the creator.
 
 ![Cyberpunk Neon HUD UI Kit](cyberpunk-neon-hud-3.png)
 
-*Cyberpunk Neon HUD UI Kit* by Hollow Pixel, [source page](https://hollow-pixel.itch.io/cyberpunk-neon-hud-ui-kit-280-pixel-ui-assets). Resized preview, all rights with the creator.
+*Cyberpunk Neon HUD UI Kit* by Hollow Pixel, source page. Resized preview, all rights with the creator.
 
 ## More previews (itch.io top results, credited)
 

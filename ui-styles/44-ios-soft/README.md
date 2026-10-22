@@ -10,11 +10,11 @@ Back to the [style catalog](../GUI-STYLES.md).
 
 ![Simple Pink UI Pack](simple-pink-1.png)
 
-*Simple Pink UI Pack* by Marta Vidal, [source page](https://marta-vidal.itch.io/pinkuipack). Resized preview, all rights with the creator.
+*Simple Pink UI Pack* by Marta Vidal, source page. Resized preview, all rights with the creator.
 
 ![Simple Pink UI Pack](simple-pink-3.png)
 
-*Simple Pink UI Pack* by Marta Vidal, [source page](https://marta-vidal.itch.io/pinkuipack). Resized preview, all rights with the creator.
+*Simple Pink UI Pack* by Marta Vidal, source page. Resized preview, all rights with the creator.
 
 ## More previews (itch.io top results, credited)
 

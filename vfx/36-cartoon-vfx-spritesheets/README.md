@@ -10,11 +10,11 @@ Back to the [catalog](../VFX.md).
 
 ![Ultimate Cartoon VFX MEGA PACK](cartoon-vfx-mega-1.png)
 
-*Ultimate Cartoon VFX MEGA PACK* by CartoonCoffee, [source page](https://cartooncoffee.itch.io/megapack-spritesheets). Preview image, all rights with the creator.
+*Ultimate Cartoon VFX MEGA PACK* by CartoonCoffee, source page. Preview image, all rights with the creator.
 
 ![Ultimate Cartoon VFX MEGA PACK](cartoon-vfx-mega-3.png)
 
-*Ultimate Cartoon VFX MEGA PACK* by CartoonCoffee, [source page](https://cartooncoffee.itch.io/megapack-spritesheets). Preview image, all rights with the creator.
+*Ultimate Cartoon VFX MEGA PACK* by CartoonCoffee, source page. Preview image, all rights with the creator.
 
 ## More previews (itch.io top results, credited)
 

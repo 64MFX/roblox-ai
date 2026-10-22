@@ -10,11 +10,11 @@ Back to the [catalog](../ANIMATIONS.md).
 
 ![Wizard Pack (CC0)](wizard-pack-1.gif)
 
-*Wizard Pack (CC0)* by LuizMelo, [source page](https://luizmelo.itch.io/wizard-pack). Preview image, all rights with the creator.
+*Wizard Pack (CC0)* by LuizMelo, source page. Preview image, all rights with the creator.
 
 ![Wizard Pack (CC0)](wizard-pack-3.gif)
 
-*Wizard Pack (CC0)* by LuizMelo, [source page](https://luizmelo.itch.io/wizard-pack). Preview image, all rights with the creator.
+*Wizard Pack (CC0)* by LuizMelo, source page. Preview image, all rights with the creator.
 
 ## More previews (itch.io top results, credited)
 

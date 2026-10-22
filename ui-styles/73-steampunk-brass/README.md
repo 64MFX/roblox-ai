@@ -10,15 +10,15 @@ Back to the [catalog](../GUI-STYLES.md).
 
 ![Steampunk Game GUI](steampunk-game-gui-1.jpg)
 
-*Steampunk Game GUI* by pzUH, [source page](https://pzuh.itch.io/steampunk-game-gui). Preview image, all rights with the creator.
+*Steampunk Game GUI* by pzUH, source page. Preview image, all rights with the creator.
 
 ![Steampunk UI](steampunk-ui-1.jpg)
 
-*Steampunk UI* by GabrielaTot, [source page](https://gabrielatot.itch.io/steampunk-ui). Preview image, all rights with the creator.
+*Steampunk UI* by GabrielaTot, source page. Preview image, all rights with the creator.
 
 ![Steampunk UI](steampunk-ui-3.png)
 
-*Steampunk UI* by GabrielaTot, [source page](https://gabrielatot.itch.io/steampunk-ui). Preview image, all rights with the creator.
+*Steampunk UI* by GabrielaTot, source page. Preview image, all rights with the creator.
 
 ## Docs and references
 - [Roblox docs: UI appearance modifiers](https://create.roblox.com/docs/en-us/ui/appearance-modifiers)

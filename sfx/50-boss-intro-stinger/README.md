@@ -29,4 +29,4 @@ Keyword-matched galleries. Click a gallery for 12 credited covers. These are sea
 - [Google Images](https://www.google.com/search?tbm=isch&q=roblox+Boss+Intro+Stinger+sound+effect)
 - [YouTube](https://www.youtube.com/results?search_query=roblox+Boss+Intro+Stinger+sound+effect)
 - [Freesound](https://freesound.org/search/?q=Boss+Intro+Stinger+sound+effect)
-- [itch.io audio](https://itch.io/game-assets/tag-sound-effects?q=Boss+Intro+Stinger+sound+effect)
+- itch.io audio

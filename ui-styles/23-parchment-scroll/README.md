@@ -8,15 +8,15 @@ Back to the [style catalog](../GUI-STYLES.md).
 
 ![Medieval Majesty GUI](medieval-majesty-1.png)
 
-*Medieval Majesty GUI* by Finnmercury, [source page](https://finnmercury.itch.io/medieval-majesty). Resized preview, all rights with the creator.
+*Medieval Majesty GUI* by Finnmercury, source page. Resized preview, all rights with the creator.
 
 ![Medieval Majesty GUI](medieval-majesty-2.png)
 
-*Medieval Majesty GUI* by Finnmercury, [source page](https://finnmercury.itch.io/medieval-majesty). Resized preview, all rights with the creator.
+*Medieval Majesty GUI* by Finnmercury, source page. Resized preview, all rights with the creator.
 
 ![Medieval Majesty GUI](medieval-majesty-3.png)
 
-*Medieval Majesty GUI* by Finnmercury, [source page](https://finnmercury.itch.io/medieval-majesty). Resized preview, all rights with the creator.
+*Medieval Majesty GUI* by Finnmercury, source page. Resized preview, all rights with the creator.
 
 ## In this repo
 See the [`visual-refs/icons/`](../../visual-refs/icons/) folder.

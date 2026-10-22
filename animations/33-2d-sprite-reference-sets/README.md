@@ -8,11 +8,11 @@ Back to the [catalog](../ANIMATIONS.md).
 
 ![Animated Pixel Character](fat-berry-char-1.png)
 
-*Animated Pixel Character* by Fat Berry, [source page](https://fatberry.itch.io/free-pixel-character). Preview image, all rights with the creator.
+*Animated Pixel Character* by Fat Berry, source page. Preview image, all rights with the creator.
 
 ![Free Platformer Character](platformer-char-3.jpg)
 
-*Free Platformer Character* by ludicarts, [source page](https://ludicarts.itch.io/free-platformer-character). Preview image, all rights with the creator.
+*Free Platformer Character* by ludicarts, source page. Preview image, all rights with the creator.
 
 ## More previews (itch.io top results, credited)
 

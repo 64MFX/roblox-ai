@@ -10,11 +10,11 @@ Back to the [style catalog](../GUI-STYLES.md).
 
 ![Neon Pixel HUD & UI Pack](neon-pixel-hud-1.png)
 
-*Neon Pixel HUD & UI Pack* by Hasthoth, [source page](https://hasthoth.itch.io/neon-pixel-hud-ui-pack). Resized preview, all rights with the creator.
+*Neon Pixel HUD & UI Pack* by Hasthoth, source page. Resized preview, all rights with the creator.
 
 ![Fighting Game HUD/UI and Texts](fighting-hud-pixel-1.png)
 
-*Fighting Game HUD/UI and Texts* by Richard Macedo, [source page](https://richard-macedo.itch.io/fighting-game-hudui-and-texts). Resized preview, all rights with the creator.
+*Fighting Game HUD/UI and Texts* by Richard Macedo, source page. Resized preview, all rights with the creator.
 
 ## More previews (itch.io top results, credited)
 

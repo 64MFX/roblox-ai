@@ -10,7 +10,7 @@ Back to the [catalog](../VFX.md).
 
 ![Pixel VFX Pack, 64 Animated Effects](pixel-vfx-64-1.png)
 
-*Pixel VFX Pack, 64 Animated Effects* by Phzm, [source page](https://phzm.itch.io/pixel-vfx-pack). Preview image, all rights with the creator.
+*Pixel VFX Pack, 64 Animated Effects* by Phzm, source page. Preview image, all rights with the creator.
 
 ## Find more references
 - [Google Images](https://www.google.com/search?tbm=isch&q=roblox+Black+Hole+Vortex+vfx)

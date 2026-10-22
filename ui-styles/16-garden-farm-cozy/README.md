@@ -8,15 +8,15 @@ Back to the [style catalog](../GUI-STYLES.md).
 
 ![GAG UI Pack](gag-ui-1.png)
 
-*GAG UI Pack* by adrianart, [source page](https://adrianart.itch.io/gag-ui-pack). Resized preview, all rights with the creator.
+*GAG UI Pack* by adrianart, source page. Resized preview, all rights with the creator.
 
 ![GAG UI Pack](gag-ui-2.png)
 
-*GAG UI Pack* by adrianart, [source page](https://adrianart.itch.io/gag-ui-pack). Resized preview, all rights with the creator.
+*GAG UI Pack* by adrianart, source page. Resized preview, all rights with the creator.
 
 ![GAG UI Pack](gag-ui-3.png)
 
-*GAG UI Pack* by adrianart, [source page](https://adrianart.itch.io/gag-ui-pack). Resized preview, all rights with the creator.
+*GAG UI Pack* by adrianart, source page. Resized preview, all rights with the creator.
 
 ## More previews (itch.io top results, credited)
 

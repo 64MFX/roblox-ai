@@ -10,7 +10,7 @@ Back to the [catalog](../GUI-STYLES.md).
 
 ![Pixel Art Anime Attack Effects Pack](anime-attack-vfx-1.gif)
 
-*Pixel Art Anime Attack Effects Pack* by Sangoro, [source page](https://sangoro.itch.io/attack-vfx). Preview image, all rights with the creator.
+*Pixel Art Anime Attack Effects Pack* by Sangoro, source page. Preview image, all rights with the creator.
 
 ## Docs and references
 - [Roblox docs: UI compatibility](https://create.roblox.com/docs/en-us/ui/styling/compatibility)

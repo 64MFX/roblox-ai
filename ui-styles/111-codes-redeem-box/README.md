@@ -10,7 +10,7 @@ Back to the [catalog](../GUI-STYLES.md).
 
 ![GAG UI Pack](gag-ui-3.png)
 
-*GAG UI Pack* by adrianart, [source page](https://adrianart.itch.io/gag-ui-pack). Preview image, all rights with the creator.
+*GAG UI Pack* by adrianart, source page. Preview image, all rights with the creator.
 
 ## Docs and references
 - [Roblox docs: UI appearance modifiers](https://create.roblox.com/docs/en-us/ui/appearance-modifiers)

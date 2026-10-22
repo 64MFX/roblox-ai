@@ -10,15 +10,15 @@ Back to the [style catalog](../GUI-STYLES.md).
 
 ![Pixel RPG Dialogue UI](pixel-rpg-dialogue-1.png)
 
-*Pixel RPG Dialogue UI* by IndigoLay, [source page](https://indigolay.itch.io/pixel-rpg-dialogue-ui). Resized preview, all rights with the creator.
+*Pixel RPG Dialogue UI* by IndigoLay, source page. Resized preview, all rights with the creator.
 
 ![Retro RPG UI & Icons Pack Vol. 1](retro-rpg-vol1-1.png)
 
-*Retro RPG UI & Icons Pack Vol. 1* by Molinus66, [source page](https://molinus66.itch.io/retro-rpg-ui-icons-pack-vol-1). Resized preview, all rights with the creator.
+*Retro RPG UI & Icons Pack Vol. 1* by Molinus66, source page. Resized preview, all rights with the creator.
 
 ![Retro RPG UI & Icons Pack Vol. 1](retro-rpg-vol1-3.png)
 
-*Retro RPG UI & Icons Pack Vol. 1* by Molinus66, [source page](https://molinus66.itch.io/retro-rpg-ui-icons-pack-vol-1). Resized preview, all rights with the creator.
+*Retro RPG UI & Icons Pack Vol. 1* by Molinus66, source page. Resized preview, all rights with the creator.
 
 ## More previews (itch.io top results, credited)
 

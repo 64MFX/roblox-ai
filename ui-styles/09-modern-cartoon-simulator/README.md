@@ -10,11 +10,11 @@ Back to the [style catalog](../GUI-STYLES.md).
 
 ![GUI Bundle (Roblox)](gui-bundle-1.png)
 
-*GUI Bundle (Roblox)* by RoAssets, [source page](https://alexpoopy1.itch.io/gui-bundle). Resized preview, all rights with the creator.
+*GUI Bundle (Roblox)* by RoAssets, source page. Resized preview, all rights with the creator.
 
 ![Cartoony UI Pack](rhos-cartoony-1.png)
 
-*Cartoony UI Pack* by RhosGFX, [source page](https://rhosgfx.itch.io/cartoony-ui-pack). Resized preview, all rights with the creator.
+*Cartoony UI Pack* by RhosGFX, source page. Resized preview, all rights with the creator.
 
 ## More previews (itch.io top results, credited)
 

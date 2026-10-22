@@ -8,11 +8,11 @@ Back to the [catalog](../ANIMATIONS.md).
 
 ![Roblox Button UI Effects](roblox-button-fx-1.png)
 
-*Roblox Button UI Effects* by MaxUno, [source page](https://maxuno.itch.io/roblox-button-ui-effects). Preview image, all rights with the creator.
+*Roblox Button UI Effects* by MaxUno, source page. Preview image, all rights with the creator.
 
 ![Roblox Button UI Effects](roblox-button-fx-3.gif)
 
-*Roblox Button UI Effects* by MaxUno, [source page](https://maxuno.itch.io/roblox-button-ui-effects). Preview image, all rights with the creator.
+*Roblox Button UI Effects* by MaxUno, source page. Preview image, all rights with the creator.
 
 ## Docs and references
 - [DevForum: Tweening ParticleEmitter transparency](https://devforum.roblox.com/t/how-would-i-smoothly-tween-the-transparency-of-a-particle-emitter/829204)

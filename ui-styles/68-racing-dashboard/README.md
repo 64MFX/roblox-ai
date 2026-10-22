@@ -10,15 +10,15 @@ Back to the [style catalog](../GUI-STYLES.md).
 
 ![Racing UI Kit](racing-ui-kit-1.png)
 
-*Racing UI Kit* by Ville Seppänen, [source page](https://villesep.itch.io/racing-ui-kit). Resized preview, all rights with the creator.
+*Racing UI Kit* by Ville Seppänen, source page. Resized preview, all rights with the creator.
 
 ![Racing UI Kit](racing-ui-kit-2.jpg)
 
-*Racing UI Kit* by Ville Seppänen, [source page](https://villesep.itch.io/racing-ui-kit). Resized preview, all rights with the creator.
+*Racing UI Kit* by Ville Seppänen, source page. Resized preview, all rights with the creator.
 
 ![Racing UI Kit](racing-ui-kit-3.png)
 
-*Racing UI Kit* by Ville Seppänen, [source page](https://villesep.itch.io/racing-ui-kit). Resized preview, all rights with the creator.
+*Racing UI Kit* by Ville Seppänen, source page. Resized preview, all rights with the creator.
 
 ## More previews (itch.io top results, credited)
 

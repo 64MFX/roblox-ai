@@ -10,11 +10,11 @@ Back to the [catalog](../CUTSCENES.md).
 
 ![Visual Novel Dialogue GUI Asset Pack](vn-dialogue-gui-1.png)
 
-*Visual Novel Dialogue GUI Asset Pack* by One Level Studio, [source page](https://onelevelstudio.itch.io/dialogue-gui). Preview image, all rights with the creator.
+*Visual Novel Dialogue GUI Asset Pack* by One Level Studio, source page. Preview image, all rights with the creator.
 
 ![Visual Novel Dialogue Boxes](vn-dialogue-boxes-1.jpeg)
 
-*Visual Novel Dialogue Boxes* by charcoalstudios, [source page](https://charcoalstudios.itch.io/visual-novel-dialogue-boxes). Preview image, all rights with the creator.
+*Visual Novel Dialogue Boxes* by charcoalstudios, source page. Preview image, all rights with the creator.
 
 ## Docs and references
 - [DevForum: CutsceneService](https://devforum.roblox.com/t/cutsceneservice/3283407)

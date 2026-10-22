@@ -17,4 +17,4 @@ _Sound packs are audio, so no picture is available for this entry._ See the sour
 - [Google Images](https://www.google.com/search?tbm=isch&q=roblox+Door+and+Mechanism+sound+effect)
 - [YouTube](https://www.youtube.com/results?search_query=roblox+Door+and+Mechanism+sound+effect)
 - [Freesound](https://freesound.org/search/?q=Door+and+Mechanism+sound+effect)
-- [itch.io audio](https://itch.io/game-assets/tag-sound-effects?q=Door+and+Mechanism+sound+effect)
+- itch.io audio

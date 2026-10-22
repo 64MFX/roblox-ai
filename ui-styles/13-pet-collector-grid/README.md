@@ -8,7 +8,7 @@ Back to the [style catalog](../GUI-STYLES.md).
 
 ![Cute Cartoony UI Pack](cute-cartoony-1.png)
 
-*Cute Cartoony UI Pack* by Coffee Beans Studio, [source page](https://coffee-beans-studio.itch.io/casual-game-ui-pack-icons-buttons). Resized preview, all rights with the creator.
+*Cute Cartoony UI Pack* by Coffee Beans Studio, source page. Resized preview, all rights with the creator.
 
 ## In this repo
 See the [`visual-refs/icons/`](../../visual-refs/icons/) folder.

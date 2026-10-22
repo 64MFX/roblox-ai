@@ -10,15 +10,15 @@ Back to the [catalog](../VFX.md).
 
 ![Pixel Art Sword VFX](pixel-sword-vfx-1.gif)
 
-*Pixel Art Sword VFX* by metpxl, [source page](https://metpxl.itch.io/pixel-art-sword-vfx-attack-slash-animation-pack). Preview image, all rights with the creator.
+*Pixel Art Sword VFX* by metpxl, source page. Preview image, all rights with the creator.
 
 ![Battle VFX: Slashes and Thrusts](battle-vfx-slashes-1.png)
 
-*Battle VFX: Slashes and Thrusts* by pimen, [source page](https://pimen.itch.io/battle-vfx-slashes-and-thrusts). Preview image, all rights with the creator.
+*Battle VFX: Slashes and Thrusts* by pimen, source page. Preview image, all rights with the creator.
 
 ![Battle VFX: Slashes and Thrusts](battle-vfx-slashes-3.png)
 
-*Battle VFX: Slashes and Thrusts* by pimen, [source page](https://pimen.itch.io/battle-vfx-slashes-and-thrusts). Preview image, all rights with the creator.
+*Battle VFX: Slashes and Thrusts* by pimen, source page. Preview image, all rights with the creator.
 
 ## Docs and references
 - [Roblox docs: Trail](https://create.roblox.com/docs/reference/engine/classes/Trail)

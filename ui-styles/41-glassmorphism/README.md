@@ -10,15 +10,15 @@ Back to the [style catalog](../GUI-STYLES.md).
 
 ![Audacious Assets: Glassmorphism UI (Godot)](glassmorphism-1.png)
 
-*Audacious Assets: Glassmorphism UI (Godot)* by AudaciousGabe, [source page](https://audaciousgabe.itch.io/audacious-assets-glassmorphism). Resized preview, all rights with the creator.
+*Audacious Assets: Glassmorphism UI (Godot)* by AudaciousGabe, source page. Resized preview, all rights with the creator.
 
 ![Audacious Assets: Glassmorphism UI (Godot)](glassmorphism-3.png)
 
-*Audacious Assets: Glassmorphism UI (Godot)* by AudaciousGabe, [source page](https://audaciousgabe.itch.io/audacious-assets-glassmorphism). Resized preview, all rights with the creator.
+*Audacious Assets: Glassmorphism UI (Godot)* by AudaciousGabe, source page. Resized preview, all rights with the creator.
 
 ![Audacious Assets: Glassmorphism UI (Godot)](glassmorphism-2.png)
 
-*Audacious Assets: Glassmorphism UI (Godot)* by AudaciousGabe, [source page](https://audaciousgabe.itch.io/audacious-assets-glassmorphism). Resized preview, all rights with the creator.
+*Audacious Assets: Glassmorphism UI (Godot)* by AudaciousGabe, source page. Resized preview, all rights with the creator.
 
 ## More previews (itch.io top results, credited)
 

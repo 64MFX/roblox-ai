@@ -28,4 +28,4 @@ Keyword-matched galleries. Click a gallery for 12 credited covers. These are sea
 - [Google Images](https://www.google.com/search?tbm=isch&q=roblox+Typewriter+Text+Blip+sound+effect)
 - [YouTube](https://www.youtube.com/results?search_query=roblox+Typewriter+Text+Blip+sound+effect)
 - [Freesound](https://freesound.org/search/?q=Typewriter+Text+Blip+sound+effect)
-- [itch.io audio](https://itch.io/game-assets/tag-sound-effects?q=Typewriter+Text+Blip+sound+effect)
+- itch.io audio

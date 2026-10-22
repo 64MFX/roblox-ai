@@ -10,7 +10,7 @@ Back to the [catalog](../GUI-STYLES.md).
 
 ![Roblox Button UI Effects](roblox-button-fx-1.png)
 
-*Roblox Button UI Effects* by MaxUno, [source page](https://maxuno.itch.io/roblox-button-ui-effects). Preview image, all rights with the creator.
+*Roblox Button UI Effects* by MaxUno, source page. Preview image, all rights with the creator.
 
 ## Docs and references
 - [Roblox docs: UI appearance modifiers](https://create.roblox.com/docs/en-us/ui/appearance-modifiers)

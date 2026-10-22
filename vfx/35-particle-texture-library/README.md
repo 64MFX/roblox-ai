@@ -10,11 +10,11 @@ Back to the [catalog](../VFX.md).
 
 ![Particle Effect Texture Essentials](particle-textures-1.png)
 
-*Particle Effect Texture Essentials* by Reactorcore, [source page](https://reactorcore.itch.io/particle-effect-texture-essentials). Preview image, all rights with the creator.
+*Particle Effect Texture Essentials* by Reactorcore, source page. Preview image, all rights with the creator.
 
 ![Brackeys' VFX Bundle](brackeys-vfx-2.png)
 
-*Brackeys' VFX Bundle* by Brackeys, [source page](https://brackeysgames.itch.io/brackeys-vfx-bundle). Preview image, all rights with the creator.
+*Brackeys' VFX Bundle* by Brackeys, source page. Preview image, all rights with the creator.
 
 ## Docs and references
 - [DevForum: Jad's Emit Plugin (VFX)](https://devforum.roblox.com/t/dear-vfx-makers-i-present-to-you-jads-emit-plugin/1986838)

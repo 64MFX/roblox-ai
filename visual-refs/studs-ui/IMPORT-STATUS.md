@@ -4,8 +4,8 @@
 
 ## Rights check
 
-- RBLX Essentials, [Studded UI Free](https://rblx-essentials.itch.io/studded-ui): creator explicitly permits personal/commercial **game use** but prohibits standalone redistribution. **Do not copy its ZIP, Studio model, or screenshots into this repository without explicit permission.**
-- [Studded Settings GUI on BuiltByBit](https://builtbybit.com/resources/studded-settings-gui.88808/): explicitly says **do not redistribute**.
+- RBLX Essentials, Studded UI Free: creator explicitly permits personal/commercial **game use** but prohibits standalone redistribution. **Do not copy its ZIP, Studio model, or screenshots into this repository without explicit permission.**
+- Studded Settings GUI on BuiltByBit: explicitly says **do not redistribute**.
 - The other [creator projects linked in README](README.md#creator-published-stud-ui-references-external-sources) have **no verified repository-redistribution permission** in this audit. Treat these as external references only.
 - Seven pre-existing PNG screenshots remain in the parent folder. Their source/licence is **not verified**; they are not newly imported files.
 

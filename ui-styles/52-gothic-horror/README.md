@@ -10,19 +10,19 @@ Back to the [style catalog](../GUI-STYLES.md).
 
 ![Horror Game UI Creator Kit](horror-creator-kit-1.png)
 
-*Horror Game UI Creator Kit* by SunGraphica, [source page](https://sungraphica.itch.io/creepy-game-ui). Resized preview, all rights with the creator.
+*Horror Game UI Creator Kit* by SunGraphica, source page. Resized preview, all rights with the creator.
 
 ![Horror Game UI Creator Kit](horror-creator-kit-3.jpg)
 
-*Horror Game UI Creator Kit* by SunGraphica, [source page](https://sungraphica.itch.io/creepy-game-ui). Resized preview, all rights with the creator.
+*Horror Game UI Creator Kit* by SunGraphica, source page. Resized preview, all rights with the creator.
 
 ![Gothic Pixel UI](gothic-pixel-1.jpg)
 
-*Gothic Pixel UI* by AbyssOwl, [source page](https://abyssowl.itch.io/gothic-pixel-ui). Resized preview, all rights with the creator.
+*Gothic Pixel UI* by AbyssOwl, source page. Resized preview, all rights with the creator.
 
 ![Gothic Pixel UI](gothic-pixel-3.png)
 
-*Gothic Pixel UI* by AbyssOwl, [source page](https://abyssowl.itch.io/gothic-pixel-ui). Resized preview, all rights with the creator.
+*Gothic Pixel UI* by AbyssOwl, source page. Resized preview, all rights with the creator.
 
 ## More previews (itch.io top results, credited)
 

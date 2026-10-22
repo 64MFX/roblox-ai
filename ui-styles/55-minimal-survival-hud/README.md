@@ -8,15 +8,15 @@ Back to the [style catalog](../GUI-STYLES.md).
 
 ![Survival Horror UI: Modular Interaction Kit](survival-horror-modular-1.png)
 
-*Survival Horror UI: Modular Interaction Kit* by Emre Karakaya, [source page](https://emrekarakaya.itch.io/survival-horror-ui-modular-interaction-kit). Resized preview, all rights with the creator.
+*Survival Horror UI: Modular Interaction Kit* by Emre Karakaya, source page. Resized preview, all rights with the creator.
 
 ![Survival Horror UI: Modular Interaction Kit](survival-horror-modular-2.png)
 
-*Survival Horror UI: Modular Interaction Kit* by Emre Karakaya, [source page](https://emrekarakaya.itch.io/survival-horror-ui-modular-interaction-kit). Resized preview, all rights with the creator.
+*Survival Horror UI: Modular Interaction Kit* by Emre Karakaya, source page. Resized preview, all rights with the creator.
 
 ![Survival Horror UI: Modular Interaction Kit](survival-horror-modular-3.png)
 
-*Survival Horror UI: Modular Interaction Kit* by Emre Karakaya, [source page](https://emrekarakaya.itch.io/survival-horror-ui-modular-interaction-kit). Resized preview, all rights with the creator.
+*Survival Horror UI: Modular Interaction Kit* by Emre Karakaya, source page. Resized preview, all rights with the creator.
 
 ## More previews (itch.io top results, credited)
 

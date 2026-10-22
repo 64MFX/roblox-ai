@@ -10,11 +10,11 @@ Back to the [catalog](../VFX.md).
 
 ![COMBAT FX](combat-fx-1.png)
 
-*COMBAT FX* by GegX, [source page](https://gegx.itch.io/combat-fx). Preview image, all rights with the creator.
+*COMBAT FX* by GegX, source page. Preview image, all rights with the creator.
 
 ![Pixel Combat & Hit FX](pixel-combat-hit-1.gif)
 
-*Pixel Combat & Hit FX* by Lesed, [source page](https://lesed.itch.io/pixel-combat-hit-fx). Preview image, all rights with the creator.
+*Pixel Combat & Hit FX* by Lesed, source page. Preview image, all rights with the creator.
 
 ## Docs and references
 - [DevForum: Jad's Emit Plugin (VFX)](https://devforum.roblox.com/t/dear-vfx-makers-i-present-to-you-jads-emit-plugin/1986838)

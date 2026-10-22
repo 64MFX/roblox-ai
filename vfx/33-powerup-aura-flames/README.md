@@ -10,11 +10,11 @@ Back to the [catalog](../VFX.md).
 
 ![Action Effects (Make Visual Novels)](action-fx-vn-1.png)
 
-*Action Effects (Make Visual Novels)* by Stella @ MakeVisualNovels, [source page](https://makevisualnovels.itch.io/actfx). Preview image, all rights with the creator.
+*Action Effects (Make Visual Novels)* by Stella @ MakeVisualNovels, source page. Preview image, all rights with the creator.
 
 ![Pixel Art Anime Attack Effects Pack](anime-attack-vfx-1.gif)
 
-*Pixel Art Anime Attack Effects Pack* by Sangoro, [source page](https://sangoro.itch.io/attack-vfx). Preview image, all rights with the creator.
+*Pixel Art Anime Attack Effects Pack* by Sangoro, source page. Preview image, all rights with the creator.
 
 ## More previews (itch.io top results, credited)
 

@@ -10,7 +10,7 @@ Back to the [catalog](../GUI-STYLES.md).
 
 ![Casual Mobile Game UI Kit + 260 Icons](casual-260-3.png)
 
-*Casual Mobile Game UI Kit + 260 Icons* by SunGraphica, [source page](https://sungraphica.itch.io/casual-mobile-game-ui-kit-260-icons). Preview image, all rights with the creator.
+*Casual Mobile Game UI Kit + 260 Icons* by SunGraphica, source page. Preview image, all rights with the creator.
 
 ## Docs and references
 - [Roblox docs: UI appearance modifiers](https://create.roblox.com/docs/en-us/ui/appearance-modifiers)

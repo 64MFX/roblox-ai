@@ -10,7 +10,7 @@ Back to the [catalog](../ANIMATIONS.md).
 
 ![Free Character Animation Pack](hero-animation-3.gif)
 
-*Free Character Animation Pack* by wxhaust, [source page](https://wxhaust.itch.io/free-hero-animation-pack). Preview image, all rights with the creator.
+*Free Character Animation Pack* by wxhaust, source page. Preview image, all rights with the creator.
 
 ## Find more references
 - [Google Images](https://www.google.com/search?tbm=isch&q=roblox+Idle+Breathing+animation)

@@ -10,7 +10,7 @@ Back to the [catalog](../GUI-STYLES.md).
 
 ![Simple Pink UI Pack](simple-pink-3.png)
 
-*Simple Pink UI Pack* by Marta Vidal, [source page](https://marta-vidal.itch.io/pinkuipack). Preview image, all rights with the creator.
+*Simple Pink UI Pack* by Marta Vidal, source page. Preview image, all rights with the creator.
 
 ## Docs and references
 - [Roblox docs: UI compatibility](https://create.roblox.com/docs/en-us/ui/styling/compatibility)

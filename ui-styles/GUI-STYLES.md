@@ -11,24 +11,24 @@ Each entry gives the look, a palette, a Roblox implementation recipe, best-fit g
 |---|---|---|
 | R1 | ✅ [Roblox Creator Hub: UI appearance modifiers](https://create.roblox.com/docs/en-us/ui/appearance-modifiers) | UIStroke, UIGradient, UICorner usage |
 | R2 | ✅ [Roblox Creator Hub: UI compatibility](https://create.roblox.com/docs/en-us/ui/styling/compatibility) | UIAspectRatioConstraint etc. |
-| R3 | ✅ [Huge Clean Stud GUI Pack (20+ frames)](https://builtbybit.com/resources/huge-clean-stud-gui-pack-20-frames.110766/) | Stud-style simulator kit |
-| R4 | ✅ [Modern Cartoon Simulator UI](https://builtbybit.com/resources/modern-cartoon-simulator-ui.109159/) | Shop, rewards, rebirth, upgrades, settings |
-| R5 | ✅ [Roblox Stud UI Pack](https://builtbybit.com/resources/roblox-stud-ui-pack.102644/) | Stud kit |
-| R6 | ✅ [Clean Stud UI System 2](https://builtbybit.com/resources/clean-stud-ui-system-2-for-roblox.104242/) | Stud system |
-| R7 | ✅ [Clean Stud UI System 3](https://builtbybit.com/resources/clean-stud-ui-system-3-for-roblox.105203/) | Stud system |
-| R8 | ✅ [Ultimate Studded UI Pack](https://builtbybit.com/resources/ultimate-studded-ui-pack.115887/) | Studded kit |
-| R9 | ✅ [Cartoony UI Pack Pro+](https://builtbybit.com/resources/cartoony-ui-pack-pro-ui-system.107727/) | Scripted cartoony system, tween/hover/click |
-| R10 | ✅ [Cartoony UI Kit (25+ frames)](https://builtbybit.com/resources/cartoony-ui-kit-25-frames.117327/) | Codes, daily rewards, trading, voting |
-| R11 | ✅ [Fantasy UI System Pack](https://builtbybit.com/resources/fantasy-ui-system-pack.105959/) | Glowing fantasy shop/inventory/rewards |
-| R12 | ✅ [Modern medieval-themed design](https://builtbybit.com/resources/modern-medieval-themed-design.114952/) | RPG inventory with rarity labels |
-| R13 | ✅ [GUI Asset Pack (glossy/neon)](https://builtbybit.com/resources/gui-asset-pack.104484/history) | Glossy buttons, neon panels |
-| R14 | ✅ [PixelBlox Vol. 1 (itch.io)](https://bloxbuilders.itch.io/pixelblox-vol1) | Retro pixel GUI, 20+ elements |
-| R15 | ✅ [GAG UI Pack (itch.io)](https://adrianart.itch.io/gag-ui-pack) | Grow-a-Garden-style PSD kit |
+| R3 | ✅ Huge Clean Stud GUI Pack (20+ frames) | Stud-style simulator kit |
+| R4 | ✅ Modern Cartoon Simulator UI | Shop, rewards, rebirth, upgrades, settings |
+| R5 | ✅ Roblox Stud UI Pack | Stud kit |
+| R6 | ✅ Clean Stud UI System 2 | Stud system |
+| R7 | ✅ Clean Stud UI System 3 | Stud system |
+| R8 | ✅ Ultimate Studded UI Pack | Studded kit |
+| R9 | ✅ Cartoony UI Pack Pro+ | Scripted cartoony system, tween/hover/click |
+| R10 | ✅ Cartoony UI Kit (25+ frames) | Codes, daily rewards, trading, voting |
+| R11 | ✅ Fantasy UI System Pack | Glowing fantasy shop/inventory/rewards |
+| R12 | ✅ Modern medieval-themed design | RPG inventory with rarity labels |
+| R13 | ✅ GUI Asset Pack (glossy/neon) | Glossy buttons, neon panels |
+| R14 | ✅ PixelBlox Vol. 1 (itch.io) | Retro pixel GUI, 20+ elements |
+| R15 | ✅ GAG UI Pack (itch.io) | Grow-a-Garden-style PSD kit |
 | R16 | ✅ [Game UI Database](https://www.gameuidatabase.com/about.php) | 55k+ game UI screenshots, filter by texture/pattern/colour |
 | R17 | ✅ [Game UI Database coverage (80.lv)](https://80.lv/articles/game-ui-database-collecting-references-to-inspire-designers/) | Background on R16 |
 | R18 | ✅ [creation.dev: Roblox UI design best practices](https://www.creation.dev/blog/roblox-ui-design-best-practices) | Clarity, consistency, minimal HUD |
 | R19 | ✅ [DevForum: UI Designing suggestions](https://devforum.roblox.com/t/suggestions-topic-ui-designing/963950) | Community thread (dated, light on specifics) |
-| R20 | ✅ [itch.io GUI assets](https://itch.io/game-assets/newest/tag-gui/tag-ux) | General GUI asset browsing |
+| R20 | ✅ itch.io GUI assets | General GUI asset browsing |
 | S | Image search (not a verified page) | `https://www.google.com/search?tbm=isch&q=roblox+<style>+gui` |
 
 **In-repo references:** `visual-refs/studs-ui/` (Stud-GUI-1/2/4/5, Stud-Buttons, Stud-Shop, Stud-DailyRewards), `visual-refs/sports/` (Basketball, Boxing, Football menus, loading and main menu), `visual-refs/icons/` (3D outline icon set).

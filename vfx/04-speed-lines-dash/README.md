@@ -10,11 +10,11 @@ Back to the [catalog](../VFX.md).
 
 ![Animated Speed Line](speed-line-1.gif)
 
-*Animated Speed Line* by Heosphorus, [source page](https://heosphorus.itch.io/speed-line). Preview image, all rights with the creator.
+*Animated Speed Line* by Heosphorus, source page. Preview image, all rights with the creator.
 
 ![Action Effects (Make Visual Novels)](action-fx-vn-2.png)
 
-*Action Effects (Make Visual Novels)* by Stella @ MakeVisualNovels, [source page](https://makevisualnovels.itch.io/actfx). Preview image, all rights with the creator.
+*Action Effects (Make Visual Novels)* by Stella @ MakeVisualNovels, source page. Preview image, all rights with the creator.
 
 ## More previews (itch.io top results, credited)
 

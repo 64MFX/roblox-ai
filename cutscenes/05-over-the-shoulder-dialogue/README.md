@@ -10,7 +10,7 @@ Back to the [catalog](../CUTSCENES.md).
 
 ![Visual Novel Dialogue GUI Asset Pack](vn-dialogue-gui-1.png)
 
-*Visual Novel Dialogue GUI Asset Pack* by One Level Studio, [source page](https://onelevelstudio.itch.io/dialogue-gui). Preview image, all rights with the creator.
+*Visual Novel Dialogue GUI Asset Pack* by One Level Studio, source page. Preview image, all rights with the creator.
 
 ## Docs and references
 - [DevForum: How to Create Camera Cutscenes](https://devforum.roblox.com/t/how-to-create-camera-cutscenes/1629318)

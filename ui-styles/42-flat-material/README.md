@@ -8,11 +8,11 @@ Back to the [style catalog](../GUI-STYLES.md).
 
 ![Clean Slate: Modern Minimal UI Kit](clean-slate-1.png)
 
-*Clean Slate: Modern Minimal UI Kit* by CSAF, [source page](https://csaf.itch.io/clean-slate-modern-minimal-ui-kit). Resized preview, all rights with the creator.
+*Clean Slate: Modern Minimal UI Kit* by CSAF, source page. Resized preview, all rights with the creator.
 
 ![Clean Slate: Modern Minimal UI Kit](clean-slate-3.png)
 
-*Clean Slate: Modern Minimal UI Kit* by CSAF, [source page](https://csaf.itch.io/clean-slate-modern-minimal-ui-kit). Resized preview, all rights with the creator.
+*Clean Slate: Modern Minimal UI Kit* by CSAF, source page. Resized preview, all rights with the creator.
 
 ## More previews (itch.io top results, credited)
 

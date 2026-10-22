@@ -8,11 +8,11 @@ Back to the [style catalog](../GUI-STYLES.md).
 
 ![Casual Mobile Game UI Kit + 260 Icons](casual-260-1.png)
 
-*Casual Mobile Game UI Kit + 260 Icons* by SunGraphica, [source page](https://sungraphica.itch.io/casual-mobile-game-ui-kit-260-icons). Resized preview, all rights with the creator.
+*Casual Mobile Game UI Kit + 260 Icons* by SunGraphica, source page. Resized preview, all rights with the creator.
 
 ![Casual Mobile Game UI Kit + 260 Icons](casual-260-3.png)
 
-*Casual Mobile Game UI Kit + 260 Icons* by SunGraphica, [source page](https://sungraphica.itch.io/casual-mobile-game-ui-kit-260-icons). Resized preview, all rights with the creator.
+*Casual Mobile Game UI Kit + 260 Icons* by SunGraphica, source page. Resized preview, all rights with the creator.
 
 ## More previews (itch.io top results, credited)
 

@@ -38,6 +38,7 @@ About 124 more images sit inside the entry folders, credited in [ui-styles/IMAGE
 - `cookbook/` scripts were compiled in Roblox Studio and most were run against unparented instances; none were checked in a live game, and visuals/audio were not judged.
 - Style descriptions, palettes and recipes outside the cookbook are synthesis from general knowledge and linked sources, and are **not tested**.
 - Pictures are previews owned by their creators (itch.io listings), used as references. Check licences before using any asset.
+- No links to stores or paid UI packs: the references are the image files in this repo, and creator names are credited as plain text. Marketplace links (itch.io, BuiltByBit and similar) were removed on 2026-10-21 after a report.
 
 ## Roblox image references
 

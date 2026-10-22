@@ -10,7 +10,7 @@ Back to the [catalog](../ANIMATIONS.md).
 
 ![Pixel Art Anime Attack Effects Pack](anime-attack-vfx-1.gif)
 
-*Pixel Art Anime Attack Effects Pack* by Sangoro, [source page](https://sangoro.itch.io/attack-vfx). Preview image, all rights with the creator.
+*Pixel Art Anime Attack Effects Pack* by Sangoro, source page. Preview image, all rights with the creator.
 
 ## More previews (itch.io top results, credited)
 

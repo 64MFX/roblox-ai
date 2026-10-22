@@ -10,7 +10,7 @@ Back to the [catalog](../VFX.md).
 
 ![Spells FX](spells-fx-1.gif)
 
-*Spells FX* by RagnaPixel, [source page](https://ragnapixel.itch.io/spells-fx). Preview image, all rights with the creator.
+*Spells FX* by RagnaPixel, source page. Preview image, all rights with the creator.
 
 ## More previews (itch.io top results, credited)
 

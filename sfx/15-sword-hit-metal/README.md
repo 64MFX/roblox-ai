@@ -10,11 +10,11 @@ Back to the [SFX catalog](../SFX.md).
 
 ![Forge & Fantasy Weapon SFX](sfx-forge-fantasy-3.png)
 
-*Forge & Fantasy Weapon SFX* by Case Portman, [source page](https://caseportman.itch.io/forge-fantasy-weapon-sfx). Preview image of the sound pack, all rights with the creator.
+*Forge & Fantasy Weapon SFX* by Case Portman, source page. Preview image of the sound pack, all rights with the creator.
 
 ![Sci-Fi Swords Sound Pack](sfx-scifi-swords-1.png)
 
-*Sci-Fi Swords Sound Pack* by Magic Sound Effects, [source page](https://magicsoundeffects.itch.io/sci-fi-swords-sound-pack). Preview image of the sound pack, all rights with the creator.
+*Sci-Fi Swords Sound Pack* by Magic Sound Effects, source page. Preview image of the sound pack, all rights with the creator.
 
 ## Docs, cookbook and sources
 - [Cookbook: positional sound](../../cookbook/sfx/03-positional-sound.luau)
@@ -37,4 +37,4 @@ Keyword-matched galleries. Click a gallery for 12 credited covers. These are sea
 - [Google Images](https://www.google.com/search?tbm=isch&q=roblox+Sword+Hit+Metal+sound+effect)
 - [YouTube](https://www.youtube.com/results?search_query=roblox+Sword+Hit+Metal+sound+effect)
 - [Freesound](https://freesound.org/search/?q=Sword+Hit+Metal+sound+effect)
-- [itch.io audio](https://itch.io/game-assets/tag-sound-effects?q=Sword+Hit+Metal+sound+effect)
+- itch.io audio
