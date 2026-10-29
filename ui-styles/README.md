@@ -2,7 +2,7 @@
 
 Example pictures for GUI styles, one folder per style.
 
-69 images in this folder and its subfolders.
+109 images in this folder and its subfolders.
 
 | Folder | Images |
 |---|---:|
@@ -36,5 +36,15 @@ Example pictures for GUI styles, one folder per style.
 | [Kawaii pastel](74-kawaii-pastel/README.md) | 1 |
 | [Cosmic cartoon space](85-cosmic-cartoon-space/README.md) | 1 |
 | [Anime fighter menu](90-anime-fighter-menu/README.md) | 1 |
+
+## Community UI references
+
+| Folder | Images |
+|---|---:|
+| `120-community-shops/` | 9 |
+| `121-community-inventories-trading/` | 8 |
+| `122-community-menus-rewards/` | 14 |
+| `123-community-huds/` | 4 |
+| `124-community-fantasy-scifi/` | 5 |
 
 Pictures belong to their creators and are here as references. Check the creator licence before using any artwork in a game.
