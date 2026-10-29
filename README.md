@@ -4,7 +4,7 @@
 
 Explore UI design, game thumbnails, logos, animation, VFX, cutscenes, and more. Use the collection to give AI coding and design assistants clear visual direction instead of relying on vague descriptions.
 
-> **11,926 image references + 5 short reference clips.** Verified from repository files on October 29, 2026. Includes 5,000 game icons and 1,000 additional game thumbnails.
+> **11,968 image references + 5 short reference clips.** Verified from repository files on October 29, 2026. Includes 5,000 game icons and 1,000 additional game thumbnails.
 
 ---
 
@@ -16,7 +16,7 @@ Explore UI design, game thumbnails, logos, animation, VFX, cutscenes, and more. 
 | `style-refs/` | Style mockups and CC0 asset contact sheets | 293 |
 | `roblox-docs/` | Official creator documentation screenshots | 3,730 |
 | `previews/` | Covers for UI, effects, animation, cinematics, and more | 707 |
-| `ui-styles/` | GUI design inspiration | 109 |
+| `ui-styles/` | GUI design inspiration | 151 |
 | `visual-refs/` | Icons, sports interfaces, stud-style UI, animation clips | 413 |
 | `vfx/` | Visual effect inspiration | 28 |
 | `animations/` | Animation reference material | 13 |
@@ -25,7 +25,7 @@ Explore UI design, game thumbnails, logos, animation, VFX, cutscenes, and more. 
 | `thumbnails/` | Game thumbnail inspiration | 8 |
 | `cutscenes/` | Cinematic and cutscene inspiration | 4 |
 | Root image | Day 1–Day 100 reference | 1 |
-| **Total** | **Image files across the repository** | **11,926** |
+| **Total** | **Image files across the repository** | **11,968** |
 
 **Count method:** PNG, JPG, JPEG, WebP, and GIF files are counted as image references. The 5 MP4 clips are listed separately. Counts are a snapshot of the files in this revision; some assets are intended for inspiration rather than direct reuse.
 
