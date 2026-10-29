@@ -2,7 +2,7 @@
 
 Example pictures for GUI styles, one folder per style.
 
-69 images in this folder and its subfolders.
+151 images in this folder and its subfolders.
 
 | Folder | Images |
 |---|---:|
@@ -36,5 +36,32 @@ Example pictures for GUI styles, one folder per style.
 | [Kawaii pastel](74-kawaii-pastel/README.md) | 1 |
 | [Cosmic cartoon space](85-cosmic-cartoon-space/README.md) | 1 |
 | [Anime fighter menu](90-anime-fighter-menu/README.md) | 1 |
+
+## Community UI references
+
+| Folder | Images |
+|---|---:|
+| `120-community-shops/` | 9 |
+| `121-community-inventories-trading/` | 8 |
+| `122-community-menus-rewards/` | 14 |
+| `123-community-huds/` | 4 |
+| `124-community-fantasy-scifi/` | 5 |
+
+
+## Real game GUI screenshots
+
+In-game HUDs, shops, inventories, rebirth windows, indexes, settings, and code menus, organized by game under `130-real-game-guis/`. These are published gameplay captures; GUI versions may change as games update.
+
+| Game | Images |
+|---|---:|
+| `1-speed-keyboard-escape` | 3 |
+| `99-nights-in-the-forest` | 3 |
+| `every-second-you-get-1-jump` | 1 |
+| `every-second-you-get-1-power-level` | 1 |
+| `fish-it` | 2 |
+| `grow-a-garden` | 10 |
+| `plants-vs-brainrots` | 6 |
+| `steal-a-brainrot` | 13 |
+| `steal-a-fish` | 3 |
 
 Pictures belong to their creators and are here as references. Check the creator licence before using any artwork in a game.
